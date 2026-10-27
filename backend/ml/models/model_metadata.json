@@ -1,0 +1,23 @@
+{
+  "champion_model": "Gradient Boosting Regressor",
+  "r2_score": 0.9927,
+  "metrics_summary": {
+    "Linear Regression": {
+      "MAE": 8984.03,
+      "RMSE": 12149.82,
+      "R2": 0.8753
+    },
+    "Random Forest Regressor": {
+      "MAE": 2269.02,
+      "RMSE": 3779.83,
+      "R2": 0.9879
+    },
+    "Gradient Boosting Regressor": {
+      "MAE": 1862.43,
+      "RMSE": 2935.76,
+      "R2": 0.9927
+    }
+  },
+  "dataset_size": 2000,
+  "version": "1.0"
+}

@@ -1,0 +1,2001 @@
+category,brand,model,purchase_year,ram,storage,battery_health,screen_condition,body_condition,overall_condition,has_box,has_charger,has_bill,has_warranty,original_price,resale_price
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,512,96,Fair,Excellent,Good,0,1,1,1,188114.25,151700.0
+Smartphone,Samsung,Galaxy S23,2024,8,128,89,Good,Fair,Excellent,1,1,0,0,76405.23,51500.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,65,Fair,Fair,Excellent,1,0,1,0,109005.23,37900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,86,Excellent,Excellent,Excellent,1,0,1,0,25116.18,16600.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,84,Good,Good,Good,1,1,1,0,90742.81,50500.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,512,69,Fair,Fair,Fair,1,1,0,0,139748.92,39800.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,65,Good,Poor,Good,0,1,0,0,75248.93,21200.0
+Smartphone,Apple,iPhone 13,2025,4,256,96,Poor,Good,Excellent,1,1,1,1,62146.25,58300.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,1024,85,Poor,Fair,Good,1,1,0,0,201238.5,129100.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,128,72,Good,Good,Poor,1,1,0,0,74367.73,15200.0
+Smartwatch,Apple,Apple Watch Series 9,2022,1,64,70,Excellent,Good,Good,1,1,0,0,42292.81,18700.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,72,Fair,Poor,Fair,1,1,0,0,37085.72,7500.0
+Laptop,Dell,Inspiron 15,2024,8,512,85,Good,Excellent,Good,0,0,0,0,63414.25,36700.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,24,1024,74,Good,Excellent,Good,1,1,1,0,195385.0,68100.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,67,Fair,Poor,Good,0,1,0,0,37085.72,9200.0
+Tablet,Xiaomi,Pad 6,2020,8,128,74,Fair,Fair,Good,1,1,0,0,27505.23,7200.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,77,Good,Poor,Good,1,0,1,0,60461.56,24400.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,128,77,Excellent,Good,Good,0,0,0,0,137429.38,53900.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,256,79,Excellent,Good,Fair,1,0,1,0,41498.96,10900.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,128,65,Poor,Good,Excellent,1,1,0,0,137429.38,50600.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,69,Fair,Good,Excellent,1,1,0,0,166738.5,60800.0
+Laptop,HP,Pavilion 15,2024,8,512,90,Fair,Excellent,Fair,1,0,0,0,69873.93,35200.0
+Laptop,HP,Pavilion 15,2025,8,512,97,Good,Excellent,Fair,0,1,0,1,69873.93,41300.0
+Laptop,Asus,ROG Zephyrus G14,2022,32,1024,74,Good,Excellent,Good,1,0,1,0,166738.5,62700.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,98,Good,Fair,Fair,1,0,1,0,62146.25,33400.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,65,Fair,Poor,Excellent,0,1,1,0,139958.75,53800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,89,Fair,Poor,Poor,1,0,1,0,90742.81,26000.0
+Tablet,Xiaomi,Pad 6,2020,6,256,65,Good,Fair,Good,1,1,1,0,28011.46,7300.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,86,Good,Fair,Good,0,1,1,0,166738.5,68000.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,86,Good,Excellent,Good,1,0,1,0,37085.72,22300.0
+Smartphone,OnePlus,OnePlus 12,2020,12,512,69,Fair,Good,Poor,0,1,0,0,69873.93,8500.0
+Laptop,HP,Pavilion 15,2025,16,512,88,Good,Good,Excellent,1,0,0,1,69873.93,61700.0
+Laptop,HP,Pavilion 15,2024,16,512,86,Good,Excellent,Good,0,0,1,0,69873.93,41500.0
+Laptop,Dell,XPS 15 (9530),2025,32,512,91,Fair,Good,Excellent,0,1,1,1,204239.25,182500.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,256,83,Good,Fair,Poor,0,0,0,0,165896.25,45700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Good,Good,Fair,1,0,1,0,160811.46,32700.0
+Tablet,Xiaomi,Pad 6,2023,8,256,82,Good,Poor,Fair,0,0,0,0,28011.46,10100.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,89,Excellent,Excellent,Good,1,1,1,0,75736.46,47400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,256,93,Excellent,Fair,Good,0,1,0,0,160811.46,116200.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,512,83,Good,Fair,Fair,1,0,1,0,171892.5,76100.0
+Smartphone,OnePlus,OnePlus 12,2020,16,512,68,Fair,Poor,Fair,1,0,1,0,69873.93,12900.0
+Smartphone,Apple,iPhone 15,2023,6,128,87,Good,Poor,Good,0,0,0,0,81398.12,45400.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,70,Excellent,Poor,Good,1,1,1,0,42292.81,14700.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,78,Fair,Fair,Good,1,1,1,0,76405.23,24100.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,128,80,Good,Good,Poor,1,1,0,0,40748.98,8500.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,77,Excellent,Good,Fair,0,1,0,0,90742.81,33300.0
+Smartphone,Google,Pixel 7a,2023,8,128,83,Poor,Fair,Fair,0,0,0,0,44823.98,16700.0
+Smartphone,Google,Pixel 8 Pro,2022,12,128,73,Good,Excellent,Fair,0,1,0,0,109005.23,33800.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,76,Good,Good,Good,1,0,0,0,77811.46,28400.0
+Laptop,Dell,Inspiron 15,2025,8,512,93,Good,Excellent,Excellent,0,0,0,0,63414.25,52100.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,94,Excellent,Good,Good,1,1,1,0,62146.25,49100.0
+Smartphone,OnePlus,OnePlus 12,2021,16,256,75,Excellent,Excellent,Fair,1,0,1,0,67436.46,17400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,32,512,65,Excellent,Poor,Good,0,1,1,0,188114.25,45400.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,90,Excellent,Poor,Good,1,0,1,0,75248.93,44800.0
+Tablet,Samsung,Galaxy Tab S9,2023,12,256,83,Excellent,Poor,Good,1,1,1,0,75736.46,36700.0
+Smartphone,OnePlus,OnePlus 12,2021,12,256,79,Good,Good,Good,1,0,0,0,67436.46,21500.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,16,128,95,Fair,Excellent,Good,1,1,1,0,83435.62,68300.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,73,Good,Excellent,Good,0,0,0,0,42292.81,14600.0
+Laptop,Dell,XPS 15 (9530),2020,32,1024,70,Excellent,Good,Fair,1,0,1,0,218488.5,41900.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,90,Good,Good,Good,1,0,0,0,75736.46,43700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,12,256,97,Good,Good,Good,1,0,1,0,26973.96,20100.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,80,Good,Excellent,Poor,0,0,0,0,67436.46,16700.0
+Tablet,Samsung,Galaxy Tab S9,2022,8,128,81,Excellent,Poor,Fair,1,1,0,0,74367.73,23400.0
+Laptop,Dell,Inspiron 15,2020,8,512,75,Fair,Good,Poor,0,0,0,0,63414.25,8300.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,75,Fair,Excellent,Good,1,0,0,0,42292.81,16900.0
+Smartphone,Google,Pixel 8 Pro,2022,12,128,77,Poor,Good,Fair,0,0,0,0,109005.23,31500.0
+Laptop,Dell,Inspiron 15,2022,16,512,76,Poor,Good,Good,0,0,0,0,63414.25,23600.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,78,Fair,Excellent,Excellent,0,1,1,0,75248.93,23200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,128,80,Excellent,Good,Good,0,0,0,0,26486.48,13000.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,80,Good,Excellent,Fair,1,0,1,0,90742.81,28300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,128,74,Good,Good,Good,1,1,1,0,83435.62,29300.0
+Smartphone,Apple,iPhone 15,2025,6,512,97,Excellent,Excellent,Good,1,0,0,1,85892.5,67100.0
+Smartphone,Apple,iPhone 15,2024,6,256,95,Excellent,Poor,Good,0,1,1,0,82896.25,53300.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,99,Good,Good,Excellent,1,0,0,1,75248.93,66200.0
+Laptop,HP,Pavilion 15,2025,16,512,95,Good,Excellent,Good,1,1,0,0,69873.93,53600.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,512,79,Excellent,Good,Good,0,0,1,0,145017.5,61700.0
+Smartphone,OnePlus,OnePlus 12,2025,16,512,94,Good,Excellent,Excellent,0,0,1,0,69873.93,56000.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,1024,67,Fair,Poor,Good,1,1,0,0,183885.0,57000.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,1024,68,Fair,Excellent,Fair,1,1,0,0,183885.0,54400.0
+Laptop,Apple,"MacBook Air M2 13""",2021,8,256,69,Fair,Poor,Fair,0,1,0,0,103646.25,32100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,1024,90,Good,Poor,Excellent,0,1,0,0,201238.5,137600.0
+Laptop,Dell,Inspiron 15,2023,16,512,93,Excellent,Good,Fair,1,1,0,0,63414.25,24300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Good,Fair,Fair,1,0,1,0,160811.46,30300.0
+Smartphone,Apple,iPhone 13,2020,4,128,65,Good,Good,Fair,1,0,1,0,61023.12,15600.0
+Smartphone,Apple,iPhone 13,2025,4,128,93,Good,Excellent,Good,1,0,0,1,61023.12,48700.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,75,Excellent,Fair,Excellent,1,1,0,0,139958.75,89800.0
+Laptop,HP,Pavilion 15,2024,16,512,85,Good,Fair,Excellent,1,0,0,0,69873.93,48600.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,70,Good,Good,Good,1,0,1,0,37085.72,14200.0
+Smartphone,Apple,iPhone 15,2023,6,128,88,Good,Good,Good,0,1,0,0,81398.12,42000.0
+Smartphone,Google,Pixel 7a,2022,8,128,75,Fair,Good,Good,1,0,0,0,44823.98,17600.0
+Smartphone,Apple,iPhone 14,2023,6,128,86,Fair,Excellent,Fair,0,1,1,0,71210.62,31500.0
+Smartphone,OnePlus,OnePlus 12,2022,16,512,88,Excellent,Fair,Good,1,1,1,0,69873.93,27400.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,82,Good,Poor,Poor,1,1,1,0,75248.93,16600.0
+Laptop,Asus,ROG Zephyrus G14,2023,16,1024,79,Fair,Excellent,Good,0,1,0,0,166738.5,79400.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,75,Poor,Fair,Good,0,0,0,0,166738.5,41500.0
+Smartphone,Apple,iPhone 14,2025,6,256,97,Good,Good,Excellent,0,1,0,1,72521.25,69500.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,256,65,Good,Excellent,Fair,1,0,1,0,26973.96,5100.0
+Tablet,Xiaomi,Pad 6,2020,8,256,72,Excellent,Poor,Good,0,1,0,0,28011.46,7100.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,128,86,Excellent,Poor,Good,1,1,1,0,74367.73,44600.0
+Smartphone,Apple,iPhone 13,2021,4,128,72,Fair,Good,Good,0,0,0,0,61023.12,21900.0
+Smartphone,Apple,iPhone 13,2023,4,128,84,Good,Good,Excellent,0,1,1,0,61023.12,41200.0
+Smartphone,Google,Pixel 7a,2025,8,128,96,Good,Good,Good,1,0,1,0,44823.98,31100.0
+Laptop,HP,Pavilion 15,2020,16,512,71,Excellent,Fair,Poor,1,1,0,0,69873.93,8700.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,24,512,80,Good,Fair,Good,0,1,0,0,182642.5,89700.0
+Smartphone,Apple,iPhone 14,2022,6,256,72,Good,Good,Poor,1,0,0,0,72521.25,16100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,512,91,Excellent,Excellent,Good,1,0,0,0,188114.25,112200.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,65,Poor,Good,Good,0,1,1,0,171892.5,66900.0
+Laptop,Asus,ROG Zephyrus G14,2024,32,1024,93,Fair,Excellent,Good,0,1,0,0,166738.5,102700.0
+Smartphone,Google,Pixel 7a,2024,8,128,90,Excellent,Fair,Good,0,1,0,0,44823.98,25100.0
+Laptop,Asus,ROG Zephyrus G14,2022,32,1024,71,Good,Fair,Good,0,1,0,0,166738.5,61200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2025,1,64,94,Excellent,Fair,Good,1,0,1,1,90742.81,71000.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,67,Excellent,Good,Good,0,1,0,0,42292.81,13800.0
+Tablet,Xiaomi,Pad 6,2020,6,128,75,Fair,Good,Excellent,1,1,1,0,27505.23,8100.0
+Smartphone,OnePlus,OnePlus 12,2024,12,256,83,Excellent,Excellent,Good,1,0,0,0,67436.46,38400.0
+Smartphone,Apple,iPhone 15,2024,6,256,86,Excellent,Excellent,Good,0,1,0,0,82896.25,51400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,1024,81,Good,Good,Poor,0,1,0,0,149498.85,30800.0
+Smartphone,Google,Pixel 7a,2022,8,128,72,Fair,Fair,Fair,0,1,1,0,44823.98,14100.0
+Smartphone,Google,Pixel 7a,2025,8,128,93,Excellent,Good,Fair,0,1,0,1,44823.98,25700.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,128,65,Good,Fair,Good,1,0,0,0,137429.38,57700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,80,Poor,Good,Fair,1,0,0,0,90742.81,36300.0
+Smartphone,Google,Pixel 7a,2025,8,128,86,Excellent,Excellent,Excellent,0,0,0,0,44823.98,38500.0
+Laptop,HP,Pavilion 15,2025,16,512,90,Good,Good,Fair,1,1,0,0,69873.93,41300.0
+Laptop,Dell,XPS 15 (9530),2021,16,512,66,Good,Fair,Excellent,0,0,1,0,204239.25,67000.0
+Laptop,HP,Pavilion 15,2022,8,512,81,Good,Fair,Good,1,1,1,0,69873.93,27000.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,88,Good,Poor,Excellent,0,0,1,0,62146.25,46200.0
+Smartphone,Apple,iPhone 14,2023,6,128,85,Poor,Poor,Fair,0,1,0,0,71210.62,27700.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,93,Excellent,Poor,Excellent,1,1,0,1,37085.72,32800.0
+Smartphone,Google,Pixel 7a,2024,8,128,92,Good,Good,Excellent,0,0,1,0,44823.98,30300.0
+Smartphone,Apple,iPhone 13,2023,4,128,83,Good,Good,Fair,1,0,1,0,61023.12,27300.0
+Smartwatch,Apple,Apple Watch Series 9,2022,1,64,81,Poor,Poor,Good,1,0,1,0,42292.81,21400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,32,512,91,Fair,Excellent,Excellent,0,1,1,1,188114.25,167400.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,512,65,Fair,Good,Good,0,0,1,0,145017.5,54000.0
+Tablet,Xiaomi,Pad 6,2023,8,256,91,Good,Fair,Good,0,0,0,0,28011.46,13300.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,87,Excellent,Excellent,Excellent,0,0,0,0,75248.93,52400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,512,88,Good,Fair,Poor,0,1,1,0,166623.92,53200.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,74,Fair,Fair,Good,0,1,1,0,75248.93,23700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,256,94,Good,Excellent,Excellent,0,1,0,0,26973.96,22700.0
+Tablet,Samsung,Galaxy Tab S9,2021,12,128,65,Poor,Fair,Good,1,0,1,0,74367.73,22500.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,128,92,Good,Excellent,Good,0,1,0,0,137429.38,103100.0
+Laptop,HP,Spectre x360,2025,16,1024,93,Excellent,Good,Excellent,0,1,0,0,172498.85,144400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,512,84,Excellent,Fair,Good,1,1,1,0,188114.25,112500.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,78,Fair,Good,Good,1,1,1,0,77811.46,31500.0
+Laptop,Dell,Inspiron 15,2024,16,512,93,Good,Good,Good,0,0,1,0,63414.25,36400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,71,Fair,Good,Fair,0,0,0,0,166623.92,39100.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,256,86,Good,Fair,Good,0,0,0,0,41498.96,19100.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,67,Excellent,Fair,Good,1,1,1,0,60461.56,24200.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,75,Excellent,Poor,Fair,1,0,0,0,166738.5,35100.0
+Laptop,Apple,"MacBook Air M2 13""",2022,8,512,86,Good,Fair,Fair,1,1,0,0,107392.5,42400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,83,Good,Excellent,Poor,0,1,0,0,37085.72,9900.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,256,65,Good,Good,Excellent,0,1,1,0,41498.96,14300.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,89,Good,Good,Good,0,1,0,0,62146.25,41600.0
+Laptop,Asus,ROG Zephyrus G14,2021,16,1024,74,Good,Good,Good,0,0,1,0,166738.5,51000.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,65,Poor,Poor,Fair,0,1,0,0,67436.46,12800.0
+Smartphone,Google,Pixel 7a,2021,8,128,65,Fair,Poor,Good,1,1,1,0,44823.98,13700.0
+Laptop,Dell,XPS 15 (9530),2020,32,1024,65,Good,Good,Poor,1,0,0,0,218488.5,28400.0
+Smartphone,Apple,iPhone 14,2020,6,256,65,Good,Good,Excellent,0,0,1,0,72521.25,26800.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,98,Good,Excellent,Good,1,0,1,0,75248.93,55200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,128,91,Excellent,Fair,Poor,0,0,1,1,26486.48,10200.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,32,512,65,Fair,Fair,Poor,0,0,0,0,188114.25,28400.0
+Laptop,Dell,Inspiron 15,2021,16,512,75,Fair,Excellent,Poor,0,1,1,0,63414.25,10800.0
+Smartphone,Samsung,Galaxy S23,2024,8,128,88,Good,Good,Excellent,1,1,1,0,76405.23,52500.0
+Smartphone,Apple,iPhone 13,2025,4,128,89,Excellent,Fair,Fair,1,0,0,0,61023.12,35400.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,512,86,Good,Good,Fair,0,0,0,1,145017.5,90100.0
+Smartphone,OnePlus,OnePlus 11R,2024,16,128,91,Fair,Fair,Good,0,0,1,0,40748.98,23100.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,79,Good,Fair,Good,1,0,0,0,75248.93,24500.0
+Laptop,Asus,ROG Zephyrus G14,2021,16,1024,65,Good,Poor,Good,0,1,1,0,166738.5,47300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,90,Excellent,Fair,Good,0,0,0,0,25116.18,17600.0
+Laptop,Dell,Inspiron 15,2022,16,512,83,Fair,Fair,Fair,0,1,0,0,63414.25,19400.0
+Smartphone,Google,Pixel 8 Pro,2024,12,128,86,Good,Good,Good,0,1,1,0,109005.23,64100.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,82,Excellent,Fair,Good,0,0,1,0,111011.46,64400.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,65,Fair,Excellent,Good,1,1,1,0,60461.56,23000.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,256,68,Good,Good,Excellent,0,0,1,0,75736.46,27500.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,256,66,Fair,Fair,Excellent,1,1,1,0,165896.25,70000.0
+Laptop,Dell,XPS 15 (9530),2021,16,512,71,Excellent,Poor,Fair,0,1,1,0,204239.25,51600.0
+Smartphone,OnePlus,OnePlus 11R,2020,8,128,68,Fair,Excellent,Fair,0,0,1,0,40748.98,8000.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2021,2,16,65,Poor,Fair,Good,0,1,1,0,37085.72,10400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,72,Excellent,Good,Good,1,0,0,0,25116.18,7200.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,87,Excellent,Good,Excellent,0,0,1,0,75248.93,52000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,32,1024,84,Good,Good,Good,0,1,1,0,201238.5,96500.0
+Smartphone,Apple,iPhone 15,2023,6,128,78,Excellent,Excellent,Good,0,0,0,0,81398.12,41500.0
+Tablet,Samsung,Galaxy Tab S9,2021,12,128,77,Excellent,Excellent,Good,1,0,0,0,74367.73,23800.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,512,80,Good,Good,Poor,0,1,1,0,171892.5,48700.0
+Smartphone,OnePlus,OnePlus 12,2023,16,512,89,Fair,Good,Good,1,0,1,0,69873.93,34700.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,8,512,81,Poor,Good,Good,0,1,0,0,182642.5,90200.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,81,Fair,Poor,Fair,1,0,0,0,111011.46,35400.0
+Smartphone,OnePlus,OnePlus 12,2020,16,512,65,Fair,Excellent,Good,0,1,0,0,69873.93,18400.0
+Tablet,Xiaomi,Pad 6,2023,8,128,84,Good,Good,Good,0,1,0,0,27505.23,13400.0
+Laptop,HP,Pavilion 15,2024,16,512,93,Good,Excellent,Good,1,1,1,0,69873.93,41000.0
+Laptop,Asus,ROG Zephyrus G14,2025,32,1024,90,Poor,Excellent,Good,0,1,1,1,166738.5,124800.0
+Smartphone,OnePlus,OnePlus 12,2023,12,256,81,Good,Poor,Fair,0,1,0,0,67436.46,26100.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,128,94,Good,Good,Excellent,0,0,0,1,26486.48,23800.0
+Smartphone,OnePlus,OnePlus 11R,2020,8,128,65,Poor,Good,Good,1,1,0,0,40748.98,9400.0
+Laptop,Dell,Inspiron 15,2021,16,512,67,Good,Fair,Fair,1,0,0,0,63414.25,14600.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,76,Fair,Good,Good,0,0,1,0,75248.93,22000.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,8,1024,89,Good,Good,Good,0,0,0,1,195385.0,150100.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,97,Good,Good,Excellent,0,1,0,0,42292.81,37800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,1024,80,Good,Excellent,Good,0,0,1,0,149498.85,76400.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,91,Good,Fair,Good,0,0,0,0,90742.81,45000.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,1024,65,Good,Fair,Good,0,1,1,0,149498.85,36100.0
+Smartphone,OnePlus,OnePlus 12,2025,16,256,95,Good,Excellent,Good,1,0,0,0,67436.46,49700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Good,Fair,Good,0,1,1,0,90742.81,30700.0
+Tablet,Xiaomi,Pad 6,2020,6,128,65,Poor,Good,Good,0,1,1,0,27505.23,6500.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,128,78,Fair,Fair,Good,0,0,1,0,74367.73,30000.0
+Laptop,HP,Spectre x360,2023,16,1024,80,Good,Good,Excellent,0,0,0,0,172498.85,90000.0
+Smartphone,Google,Pixel 8 Pro,2020,12,512,65,Excellent,Good,Good,1,0,1,0,115023.92,27900.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,512,77,Good,Fair,Good,1,1,1,0,107392.5,50500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,32,512,65,Good,Poor,Poor,1,0,1,0,188114.25,24600.0
+Smartwatch,Apple,Apple Watch Ultra 2,2025,1,64,99,Excellent,Good,Good,1,0,1,1,90742.81,74500.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,512,76,Fair,Fair,Excellent,0,1,0,0,171892.5,72500.0
+Smartphone,Apple,iPhone 15,2020,6,256,65,Excellent,Fair,Poor,1,1,1,0,82896.25,14500.0
+Laptop,Dell,XPS 15 (9530),2023,16,512,86,Fair,Good,Poor,1,1,1,0,204239.25,56500.0
+Smartphone,Apple,iPhone 13,2022,4,256,71,Excellent,Good,Good,0,1,0,0,62146.25,28100.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,78,Good,Good,Good,1,1,0,0,77811.46,28800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,77,Fair,Poor,Fair,1,1,1,0,25116.18,9600.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,256,65,Fair,Fair,Good,0,0,1,0,165896.25,51200.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,16,1024,70,Good,Good,Fair,1,0,0,0,201238.5,39400.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,77,Good,Fair,Fair,1,1,1,0,60461.56,20300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,8,512,79,Fair,Good,Fair,1,0,1,0,88042.5,24600.0
+Tablet,Samsung,Galaxy Tab S9,2023,8,256,91,Excellent,Good,Good,0,1,0,0,75736.46,37000.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,81,Good,Good,Fair,1,1,1,0,90742.81,31500.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,83,Fair,Fair,Excellent,0,1,0,0,139958.75,98100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,73,Excellent,Good,Fair,1,0,1,0,166623.92,50000.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,81,Good,Good,Good,1,0,0,0,37085.72,14500.0
+Laptop,HP,Spectre x360,2025,16,512,93,Good,Excellent,Excellent,0,1,0,1,161248.92,139100.0
+Tablet,Samsung,Galaxy Tab S9,2020,12,256,77,Poor,Excellent,Poor,0,1,1,0,75736.46,10500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,88,Good,Good,Good,0,1,1,0,25116.18,18400.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,80,Fair,Good,Fair,0,1,1,0,166738.5,56100.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,78,Good,Fair,Excellent,0,0,0,0,76405.23,28200.0
+Smartphone,OnePlus,OnePlus 12,2021,12,256,66,Good,Poor,Fair,1,1,1,0,67436.46,17000.0
+Smartphone,Google,Pixel 7a,2025,8,128,96,Fair,Good,Poor,1,1,0,1,44823.98,17800.0
+Tablet,Xiaomi,Pad 6,2020,6,128,78,Good,Fair,Good,1,0,1,0,27505.23,7100.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,256,99,Excellent,Excellent,Fair,0,1,1,0,165896.25,105900.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,68,Good,Good,Poor,1,1,1,0,42292.81,7500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,32,1024,78,Good,Fair,Good,1,1,0,0,201238.5,96900.0
+Tablet,Xiaomi,Pad 6,2024,8,256,85,Excellent,Excellent,Excellent,1,1,0,0,28011.46,20300.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,512,83,Fair,Good,Excellent,1,1,0,0,145017.5,82500.0
+Smartphone,Google,Pixel 7a,2021,8,128,73,Excellent,Fair,Poor,1,1,0,0,44823.98,7000.0
+Laptop,Dell,Inspiron 15,2023,16,512,92,Good,Good,Excellent,1,1,0,0,63414.25,37000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,8,256,72,Fair,Poor,Fair,1,0,0,0,84971.25,21600.0
+Laptop,HP,Spectre x360,2022,16,1024,86,Fair,Good,Good,0,1,0,0,172498.85,67000.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,75,Fair,Good,Excellent,1,1,0,0,166623.92,77200.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,87,Good,Poor,Poor,1,0,0,0,25116.18,6200.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,67,Excellent,Good,Fair,0,1,0,0,165896.25,51600.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,512,92,Good,Excellent,Good,0,1,1,0,107392.5,66100.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,256,74,Fair,Good,Good,1,0,0,0,41498.96,15700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,8,256,97,Excellent,Excellent,Excellent,0,0,0,1,84971.25,76400.0
+Smartphone,Apple,iPhone 14,2024,6,256,88,Excellent,Fair,Excellent,0,1,1,0,72521.25,55600.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,256,100,Excellent,Good,Excellent,0,1,0,1,165896.25,159200.0
+Smartphone,Google,Pixel 7a,2021,8,128,74,Good,Excellent,Good,1,1,0,0,44823.98,14600.0
+Tablet,Xiaomi,Pad 6,2024,8,128,89,Good,Fair,Poor,1,0,0,0,27505.23,8700.0
+Smartphone,Apple,iPhone 15,2020,6,512,72,Fair,Excellent,Fair,0,1,1,0,85892.5,22200.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,73,Fair,Fair,Poor,0,0,1,0,76405.23,10100.0
+Smartphone,Apple,iPhone 15,2023,6,512,85,Excellent,Fair,Poor,0,1,0,0,85892.5,24200.0
+Smartphone,Apple,iPhone 13,2020,4,128,69,Good,Good,Good,0,0,0,0,61023.12,19700.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,84,Poor,Good,Excellent,1,1,0,0,139958.75,89400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,72,Poor,Fair,Fair,1,1,0,0,25116.18,4900.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,256,74,Poor,Good,Good,0,0,1,0,62146.25,27800.0
+Laptop,Dell,XPS 15 (9530),2022,16,512,71,Good,Good,Good,1,1,1,0,204239.25,80300.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,128,75,Fair,Excellent,Good,1,1,0,0,137429.38,68300.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,256,82,Fair,Fair,Poor,0,1,0,0,103646.25,30800.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,512,65,Good,Excellent,Good,1,0,1,0,145017.5,51500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,78,Fair,Good,Poor,0,0,0,0,188114.25,30100.0
+Smartphone,OnePlus,OnePlus 12,2022,12,512,77,Good,Fair,Excellent,0,0,0,0,69873.93,30000.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,71,Fair,Poor,Good,0,1,1,0,166738.5,43100.0
+Laptop,Dell,XPS 15 (9530),2024,16,512,89,Good,Excellent,Excellent,0,0,0,0,204239.25,139700.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,64,76,Poor,Fair,Fair,0,1,1,0,60461.56,23600.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,256,68,Poor,Poor,Poor,1,1,0,0,41498.96,6300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,77,Excellent,Fair,Excellent,1,0,1,0,166623.92,74800.0
+Laptop,Dell,XPS 15 (9530),2024,16,1024,96,Excellent,Good,Excellent,0,1,0,0,218488.5,153300.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,88,Good,Good,Excellent,1,1,0,0,90742.81,59900.0
+Tablet,Xiaomi,Pad 6,2024,6,128,87,Excellent,Good,Good,0,1,0,0,27505.23,16300.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,128,96,Excellent,Excellent,Fair,0,1,1,1,74367.73,44300.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,256,91,Excellent,Poor,Good,0,0,1,1,41498.96,30900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,80,Good,Excellent,Excellent,1,0,0,0,25116.18,9500.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,128,96,Good,Excellent,Excellent,0,0,1,1,74367.73,64900.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,8,256,81,Excellent,Fair,Fair,1,1,0,0,84971.25,37300.0
+Smartphone,Apple,iPhone 14,2021,6,256,72,Good,Good,Poor,1,1,0,0,72521.25,14100.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,84,Good,Good,Excellent,1,1,1,0,25116.18,12000.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,78,Good,Excellent,Excellent,0,0,0,0,37085.72,20900.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,128,81,Poor,Poor,Good,0,1,0,0,26486.48,7300.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,72,Poor,Fair,Good,1,1,1,0,42292.81,14400.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,8,128,65,Good,Good,Fair,0,1,1,0,83435.62,20500.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,256,88,Poor,Good,Excellent,1,0,1,0,103646.25,69600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,8,256,75,Poor,Fair,Fair,1,1,0,0,26973.96,8200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Good,Good,Good,0,0,1,0,90742.81,29200.0
+Smartphone,Apple,iPhone 15,2024,6,256,91,Good,Good,Excellent,1,0,0,0,82896.25,60700.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,128,82,Good,Good,Good,0,0,1,0,137429.38,82800.0
+Smartwatch,Apple,Apple Watch Series 9,2022,1,64,75,Fair,Excellent,Fair,1,1,0,0,42292.81,15400.0
+Smartphone,Google,Pixel 7a,2025,8,128,98,Good,Good,Fair,0,1,1,1,44823.98,26700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,81,Excellent,Fair,Fair,1,0,0,0,25116.18,9900.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,74,Good,Good,Fair,1,1,1,0,166738.5,35700.0
+Smartphone,Apple,iPhone 14,2024,6,256,83,Excellent,Excellent,Good,0,0,0,0,72521.25,46700.0
+Tablet,Xiaomi,Pad 6,2023,6,128,85,Good,Good,Fair,1,1,1,0,27505.23,10600.0
+Laptop,HP,Pavilion 15,2025,16,512,94,Good,Good,Excellent,1,0,0,0,69873.93,53100.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,69,Good,Fair,Fair,1,0,0,0,166738.5,32600.0
+Smartphone,Apple,iPhone 13,2021,4,256,74,Poor,Fair,Excellent,1,0,1,0,62146.25,29400.0
+Laptop,Dell,XPS 15 (9530),2023,32,512,93,Good,Excellent,Good,0,1,0,0,204239.25,95100.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,85,Excellent,Excellent,Poor,1,1,1,0,42292.81,14300.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,256,68,Good,Good,Good,1,1,1,0,62146.25,20500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,92,Excellent,Good,Good,0,1,1,1,25116.18,18500.0
+Tablet,Xiaomi,Pad 6,2024,6,256,91,Excellent,Excellent,Excellent,1,0,1,0,28011.46,19800.0
+Smartphone,Apple,iPhone 14,2021,6,256,65,Fair,Good,Poor,1,0,0,0,72521.25,13600.0
+Laptop,Dell,Inspiron 15,2024,16,512,83,Excellent,Fair,Good,1,0,1,0,63414.25,39200.0
+Smartphone,Apple,iPhone 14,2025,6,128,93,Good,Excellent,Fair,0,1,1,1,71210.62,43200.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,24,1024,82,Good,Good,Good,0,0,0,0,195385.0,68600.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,24,1024,85,Fair,Excellent,Excellent,1,1,0,0,195385.0,130700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,99,Excellent,Good,Good,0,1,1,1,25116.18,19800.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,93,Good,Excellent,Good,1,1,1,1,62146.25,47100.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,1024,84,Excellent,Good,Fair,1,1,1,0,183885.0,102900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,76,Poor,Poor,Poor,0,1,0,0,160811.46,20400.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,68,Fair,Good,Good,0,1,1,0,166738.5,39100.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,76,Good,Good,Good,0,1,1,0,111011.46,44800.0
+Smartphone,Google,Pixel 8 Pro,2025,12,128,88,Good,Fair,Excellent,0,0,0,0,109005.23,91700.0
+Laptop,Apple,"MacBook Air M2 13""",2025,8,256,97,Good,Excellent,Excellent,1,1,1,1,103646.25,93600.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,65,Fair,Good,Good,1,0,1,0,42292.81,13000.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,24,512,87,Poor,Fair,Poor,1,0,1,0,182642.5,54200.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,93,Excellent,Excellent,Good,1,1,0,0,149498.85,110400.0
+Laptop,Apple,"MacBook Air M2 13""",2020,16,256,65,Fair,Fair,Good,0,1,0,0,103646.25,34100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,1024,90,Fair,Good,Excellent,0,0,0,0,201238.5,130400.0
+Tablet,Xiaomi,Pad 6,2024,8,128,84,Excellent,Excellent,Good,1,0,1,0,27505.23,16400.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,72,Good,Fair,Good,1,1,1,0,166738.5,64100.0
+Smartphone,Apple,iPhone 13,2025,4,128,96,Fair,Good,Excellent,0,1,0,1,61023.12,56000.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,89,Fair,Good,Fair,0,1,0,0,77811.46,28500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,76,Poor,Fair,Good,1,1,1,0,25116.18,8200.0
+Laptop,Apple,"MacBook Air M2 13""",2020,8,256,71,Poor,Fair,Fair,0,0,0,0,103646.25,27600.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,65,Fair,Poor,Good,1,0,1,0,90742.81,33800.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,75,Fair,Fair,Good,1,1,0,0,67436.46,17000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,16,1024,88,Poor,Good,Good,0,0,0,0,201238.5,98300.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,84,Excellent,Excellent,Good,0,0,1,0,75736.46,44100.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,82,Fair,Fair,Good,1,1,0,0,90742.81,50800.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,73,Good,Fair,Good,0,0,0,0,188114.25,55900.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,8,128,100,Good,Excellent,Fair,1,1,1,0,83435.62,51700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Good,Good,Good,1,1,0,0,160811.46,37400.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,256,86,Excellent,Good,Good,1,1,0,0,62146.25,29800.0
+Smartphone,Google,Pixel 8 Pro,2022,12,512,75,Poor,Good,Fair,1,0,0,0,115023.92,33300.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,92,Fair,Good,Poor,0,0,0,0,166738.5,42200.0
+Laptop,Dell,XPS 15 (9530),2021,16,1024,73,Good,Good,Good,0,0,1,0,218488.5,68800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,97,Good,Fair,Excellent,1,1,1,1,37085.72,33200.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,83,Excellent,Poor,Good,1,0,0,0,42292.81,15400.0
+Laptop,HP,Pavilion 15,2024,16,512,78,Excellent,Excellent,Fair,1,1,0,0,69873.93,33000.0
+Laptop,Apple,"MacBook Air M2 13""",2023,8,512,81,Good,Good,Excellent,1,1,1,0,107392.5,69300.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,77,Good,Fair,Good,0,1,0,0,75248.93,30100.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,256,91,Good,Poor,Good,1,1,0,1,26973.96,21200.0
+Laptop,Dell,Inspiron 15,2021,16,512,81,Good,Good,Fair,0,0,0,0,63414.25,15900.0
+Smartphone,OnePlus,OnePlus 12,2020,12,512,69,Fair,Good,Good,0,0,0,0,69873.93,17100.0
+Smartphone,Google,Pixel 7a,2020,8,128,67,Good,Fair,Fair,1,0,0,0,44823.98,9000.0
+Smartphone,Google,Pixel 8 Pro,2023,12,512,78,Excellent,Good,Fair,0,0,0,0,115023.92,43400.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,74,Fair,Good,Fair,0,0,0,0,90742.81,29100.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,128,76,Fair,Good,Fair,0,1,1,0,26486.48,5700.0
+Smartphone,Apple,iPhone 15,2020,6,512,74,Good,Good,Excellent,0,0,1,0,85892.5,35000.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,512,94,Excellent,Fair,Excellent,0,0,0,0,166623.92,136100.0
+Smartphone,Apple,iPhone 13,2025,4,256,96,Good,Fair,Good,0,1,1,0,62146.25,45800.0
+Smartphone,OnePlus,OnePlus 11R,2022,16,256,87,Excellent,Good,Fair,1,0,0,0,41498.96,13100.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,256,78,Poor,Good,Good,1,1,0,0,41498.96,15700.0
+Smartwatch,Apple,Apple Watch Series 9,2022,1,64,82,Fair,Fair,Fair,0,0,0,0,42292.81,15300.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,8,128,82,Fair,Good,Good,0,1,1,0,26486.48,8900.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,128,75,Excellent,Excellent,Excellent,1,0,0,0,137429.38,56200.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,256,83,Excellent,Good,Fair,0,1,0,0,41498.96,15900.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,512,84,Fair,Good,Good,1,1,0,0,139748.92,70900.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,64,92,Fair,Fair,Good,1,0,0,0,60461.56,32700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,32,512,74,Fair,Good,Excellent,1,0,1,0,188114.25,82800.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,65,Fair,Good,Good,0,1,0,0,75248.93,16900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,75,Good,Poor,Excellent,0,0,1,0,25116.18,10500.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,512,98,Excellent,Good,Good,1,1,0,0,171892.5,127500.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,85,Excellent,Excellent,Excellent,0,0,1,0,62146.25,46400.0
+Tablet,Samsung,Galaxy Tab S9,2020,12,128,65,Excellent,Poor,Good,0,1,0,0,74367.73,18200.0
+Tablet,Samsung,Galaxy Tab S9,2022,8,256,79,Excellent,Poor,Fair,1,1,1,0,75736.46,24700.0
+Smartphone,Apple,iPhone 14,2020,6,128,76,Fair,Good,Good,1,0,1,0,71210.62,24000.0
+Laptop,HP,Pavilion 15,2021,8,512,76,Fair,Good,Good,0,0,1,0,69873.93,21100.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,93,Excellent,Good,Poor,0,1,1,1,42292.81,19300.0
+Laptop,HP,Spectre x360,2025,16,1024,94,Good,Fair,Good,1,1,0,0,172498.85,121900.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,65,Good,Fair,Fair,0,1,1,0,166738.5,45700.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,80,Good,Good,Poor,0,1,0,0,75248.93,19700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,512,68,Good,Good,Poor,1,1,1,0,166623.92,21500.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,16,512,79,Good,Good,Good,1,1,0,0,182642.5,74100.0
+Tablet,Xiaomi,Pad 6,2023,8,128,79,Good,Good,Poor,0,1,1,0,27505.23,6700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,89,Fair,Fair,Good,1,0,1,0,25116.18,11500.0
+Smartphone,OnePlus,OnePlus 11R,2024,8,256,86,Good,Poor,Excellent,0,1,1,0,41498.96,30300.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,12,256,83,Good,Excellent,Excellent,0,1,1,0,26973.96,10600.0
+Laptop,Apple,"MacBook Air M2 13""",2023,8,512,84,Good,Excellent,Fair,0,0,1,0,107392.5,49300.0
+Smartphone,Apple,iPhone 14,2022,6,256,79,Good,Poor,Excellent,0,1,0,0,72521.25,41900.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,128,95,Excellent,Fair,Excellent,1,0,1,0,137429.38,114000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,8,256,82,Good,Fair,Good,0,1,1,0,84971.25,49900.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,82,Good,Poor,Good,1,0,0,0,75248.93,25400.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,75,Good,Fair,Poor,0,0,1,0,166738.5,21800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,1024,83,Good,Good,Poor,1,1,0,0,149498.85,38200.0
+Laptop,Asus,ROG Zephyrus G14,2025,32,1024,100,Excellent,Excellent,Excellent,0,1,0,1,166738.5,147300.0
+Smartphone,Apple,iPhone 13,2025,4,256,95,Fair,Good,Good,0,1,1,0,62146.25,45000.0
+Smartphone,OnePlus,OnePlus 11R,2024,16,256,89,Excellent,Excellent,Good,1,0,1,0,41498.96,23600.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,16,1024,68,Poor,Fair,Good,0,0,0,0,201238.5,47400.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,256,70,Fair,Good,Fair,1,1,1,0,41498.96,10400.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,65,Fair,Good,Fair,0,0,0,0,166738.5,31000.0
+Smartphone,Apple,iPhone 13,2021,4,128,81,Good,Fair,Good,1,1,1,0,61023.12,25600.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,1024,86,Fair,Fair,Good,0,0,0,0,149498.85,66300.0
+Laptop,HP,Pavilion 15,2023,8,512,89,Good,Poor,Good,1,0,1,0,69873.93,32200.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,80,Good,Poor,Good,1,0,0,0,77811.46,36100.0
+Smartphone,Apple,iPhone 15,2024,6,128,85,Good,Excellent,Good,1,0,1,0,81398.12,52000.0
+Smartphone,OnePlus,OnePlus 12,2025,16,256,97,Excellent,Good,Good,1,0,0,1,67436.46,52300.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,88,Good,Excellent,Excellent,0,0,0,0,75736.46,50100.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,128,70,Good,Good,Excellent,1,0,1,0,40748.98,14600.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,84,Good,Fair,Poor,1,1,1,0,77811.46,20300.0
+Smartphone,Apple,iPhone 13,2020,4,256,79,Good,Excellent,Fair,1,0,1,0,62146.25,17700.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,89,Good,Good,Excellent,1,1,0,0,149498.85,123100.0
+Smartphone,Google,Pixel 7a,2023,8,128,83,Poor,Good,Excellent,0,1,1,0,44823.98,26000.0
+Laptop,HP,Pavilion 15,2024,8,512,81,Good,Fair,Good,0,0,0,0,69873.93,36900.0
+Smartphone,OnePlus,OnePlus 12,2024,16,256,84,Excellent,Good,Good,0,1,1,0,67436.46,39600.0
+Smartphone,Apple,iPhone 14,2025,6,256,93,Good,Excellent,Good,0,1,1,1,72521.25,56700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,256,69,Fair,Good,Excellent,1,1,1,0,84971.25,33400.0
+Smartphone,Google,Pixel 8 Pro,2023,12,512,81,Fair,Poor,Good,0,0,0,0,115023.92,51300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,86,Good,Good,Excellent,0,1,1,0,25116.18,18200.0
+Smartphone,OnePlus,OnePlus 12,2023,12,512,85,Good,Poor,Good,0,0,1,0,69873.93,32000.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,76,Good,Good,Good,0,1,1,0,67436.46,33300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,89,Fair,Good,Excellent,0,0,1,0,25116.18,17200.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,128,65,Excellent,Poor,Good,1,0,0,0,74367.73,21700.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,87,Good,Excellent,Good,1,1,0,0,37085.72,21900.0
+Smartphone,OnePlus,OnePlus 12,2025,16,512,97,Good,Good,Excellent,1,0,0,0,69873.93,59800.0
+Smartphone,Apple,iPhone 13,2021,4,128,79,Excellent,Good,Good,1,1,0,0,61023.12,24700.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,84,Fair,Fair,Fair,0,0,1,0,139958.75,59800.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,8,256,94,Good,Good,Good,0,0,1,0,84971.25,50300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,79,Poor,Good,Fair,1,1,0,0,166623.92,50300.0
+Smartphone,Apple,iPhone 14,2023,6,256,80,Good,Good,Good,1,0,1,0,72521.25,41900.0
+Tablet,Xiaomi,Pad 6,2023,8,256,83,Good,Excellent,Good,1,0,0,0,28011.46,13700.0
+Laptop,HP,Spectre x360,2021,16,512,77,Good,Good,Good,0,0,1,0,161248.92,52400.0
+Smartwatch,Apple,Apple Watch Series 9,2022,1,64,73,Fair,Good,Fair,0,1,1,0,42292.81,15600.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,68,Good,Good,Fair,0,0,0,0,76405.23,17800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,65,Poor,Excellent,Fair,1,1,0,0,25116.18,4700.0
+Smartphone,Apple,iPhone 14,2021,6,128,71,Good,Good,Fair,1,1,0,0,71210.62,21600.0
+Smartphone,Apple,iPhone 13,2022,4,256,80,Excellent,Excellent,Fair,1,1,0,0,62146.25,26400.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,78,Fair,Poor,Poor,1,0,0,0,166738.5,21400.0
+Laptop,Dell,Inspiron 15,2022,16,512,82,Fair,Fair,Good,0,0,0,0,63414.25,24400.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,512,84,Excellent,Fair,Fair,0,0,1,0,145017.5,65300.0
+Laptop,Dell,XPS 15 (9530),2023,16,512,80,Good,Good,Fair,1,0,1,0,204239.25,75700.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,512,81,Excellent,Excellent,Good,0,0,1,0,107392.5,71400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,512,98,Excellent,Excellent,Good,1,0,0,0,188114.25,109200.0
+Smartphone,Apple,iPhone 13,2022,4,256,87,Good,Good,Good,1,0,1,0,62146.25,30300.0
+Laptop,Apple,"MacBook Air M2 13""",2022,8,256,76,Fair,Fair,Fair,0,0,1,0,103646.25,37700.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,72,Fair,Excellent,Good,0,0,0,0,166738.5,49100.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,128,80,Good,Good,Good,0,0,0,0,40748.98,19400.0
+Laptop,Dell,XPS 15 (9530),2024,16,512,91,Fair,Excellent,Fair,0,1,0,0,204239.25,94300.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,32,1024,93,Excellent,Good,Excellent,1,0,1,1,201238.5,172300.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,91,Good,Good,Good,1,1,1,0,42292.81,24700.0
+Laptop,HP,Pavilion 15,2025,8,512,96,Good,Good,Excellent,1,1,1,0,69873.93,61900.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,128,100,Good,Good,Good,0,1,1,0,40748.98,29300.0
+Tablet,Samsung,Galaxy Tab S9,2023,8,256,92,Good,Good,Good,1,0,1,0,75736.46,37900.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,32,512,69,Good,Good,Excellent,1,1,1,0,188114.25,69300.0
+Laptop,HP,Spectre x360,2020,16,1024,65,Fair,Good,Poor,0,0,1,0,172498.85,22300.0
+Laptop,Dell,XPS 15 (9530),2023,32,1024,84,Good,Good,Excellent,0,1,0,0,218488.5,115100.0
+Smartphone,Google,Pixel 8 Pro,2020,12,256,66,Poor,Excellent,Good,0,0,1,0,111011.46,26200.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,93,Excellent,Excellent,Good,0,1,1,1,139748.92,99200.0
+Smartphone,Samsung,Galaxy S23,2023,8,128,86,Poor,Fair,Good,1,1,0,0,76405.23,35400.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,512,71,Poor,Poor,Good,1,1,1,0,145017.5,51700.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,256,99,Good,Excellent,Excellent,1,0,1,0,139958.75,121200.0
+Laptop,HP,Pavilion 15,2020,8,512,73,Good,Good,Excellent,0,0,1,0,69873.93,19900.0
+Laptop,Asus,ROG Zephyrus G14,2021,16,1024,66,Excellent,Good,Excellent,0,1,0,0,166738.5,55900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Poor,Excellent,Good,1,1,1,0,160811.46,38300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,16,256,94,Good,Good,Excellent,0,1,1,1,84971.25,75800.0
+Laptop,HP,Pavilion 15,2024,8,512,82,Excellent,Excellent,Excellent,1,1,0,0,69873.93,46700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2025,1,64,93,Good,Poor,Good,0,0,1,1,90742.81,72900.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,95,Fair,Good,Good,1,1,1,1,166738.5,132900.0
+Tablet,Xiaomi,Pad 6,2024,6,256,95,Excellent,Excellent,Good,0,1,1,0,28011.46,16000.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,71,Good,Good,Good,0,1,1,0,109005.23,32500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,83,Good,Good,Good,1,1,0,0,25116.18,12300.0
+Smartphone,Apple,iPhone 13,2023,4,256,85,Good,Fair,Good,1,1,1,0,62146.25,34600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2024,12,128,89,Fair,Excellent,Good,0,1,1,0,26486.48,15700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,73,Good,Good,Excellent,1,0,0,0,25116.18,7500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,256,95,Good,Excellent,Excellent,0,0,1,0,160811.46,133100.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,83,Good,Good,Fair,1,1,0,0,90742.81,39800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,79,Fair,Fair,Good,1,0,1,0,37085.72,15900.0
+Laptop,Dell,XPS 15 (9530),2020,32,512,70,Fair,Fair,Good,1,1,0,0,204239.25,51200.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,512,86,Good,Excellent,Excellent,0,0,0,0,166623.92,130800.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,256,74,Good,Fair,Good,0,0,0,0,139958.75,62300.0
+Tablet,Xiaomi,Pad 6,2023,6,128,87,Excellent,Good,Poor,1,1,0,0,27505.23,7200.0
+Smartphone,Apple,iPhone 13,2022,4,128,77,Good,Fair,Good,1,0,1,0,61023.12,26600.0
+Smartphone,Apple,iPhone 15,2024,6,128,86,Excellent,Good,Good,0,0,0,0,81398.12,52000.0
+Laptop,HP,Spectre x360,2021,16,1024,69,Fair,Excellent,Good,0,0,1,0,172498.85,52600.0
+Laptop,HP,Pavilion 15,2021,8,512,67,Good,Good,Fair,1,0,1,0,69873.93,15800.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,16,1024,77,Excellent,Good,Poor,1,0,1,0,195385.0,39800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,87,Poor,Good,Good,0,0,0,0,25116.18,11500.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,90,Good,Excellent,Excellent,1,0,1,0,37085.72,25400.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,88,Good,Poor,Good,0,1,1,0,75248.93,30400.0
+Smartphone,Apple,iPhone 15,2025,6,512,96,Good,Good,Good,1,0,0,1,85892.5,67500.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,16,256,84,Poor,Excellent,Poor,0,0,0,0,84971.25,25100.0
+Smartphone,OnePlus,OnePlus 11R,2025,8,256,95,Excellent,Good,Excellent,0,1,0,1,41498.96,38100.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,1024,75,Excellent,Good,Fair,0,0,0,0,183885.0,64800.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,512,78,Good,Good,Fair,0,1,0,0,145017.5,52900.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,256,99,Poor,Good,Good,0,0,0,0,26973.96,19000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,32,512,73,Excellent,Good,Good,1,0,1,0,188114.25,69000.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,83,Fair,Excellent,Good,1,1,1,0,139958.75,79600.0
+Laptop,HP,Pavilion 15,2022,8,512,73,Fair,Excellent,Fair,0,1,1,0,69873.93,20600.0
+Smartphone,Apple,iPhone 13,2023,4,256,86,Good,Fair,Good,1,0,0,0,62146.25,33900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,65,Fair,Poor,Good,0,1,0,0,25116.18,7300.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,68,Excellent,Excellent,Excellent,1,1,1,0,165896.25,76900.0
+Tablet,Samsung,Galaxy Tab S9,2020,12,256,79,Good,Poor,Good,1,1,0,0,75736.46,20400.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,65,Good,Excellent,Good,0,0,0,0,166738.5,41400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,1024,94,Good,Poor,Good,1,1,1,0,149498.85,85300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,78,Fair,Poor,Excellent,0,1,1,0,25116.18,12100.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,256,65,Good,Fair,Good,1,0,0,0,26973.96,6300.0
+Smartphone,Apple,iPhone 14,2023,6,256,80,Good,Good,Good,0,1,1,0,72521.25,44200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2021,2,16,80,Good,Fair,Good,1,1,0,0,37085.72,11600.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,71,Good,Good,Fair,0,0,0,0,75248.93,14900.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,256,76,Good,Fair,Good,1,1,0,0,75736.46,28800.0
+Laptop,Apple,"MacBook Air M2 13""",2025,16,256,98,Good,Excellent,Fair,1,0,0,1,103646.25,66200.0
+Smartphone,OnePlus,OnePlus 11R,2025,8,128,94,Good,Good,Excellent,0,0,1,1,40748.98,33700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,256,83,Good,Poor,Excellent,0,1,0,0,26973.96,15600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,256,95,Good,Good,Good,0,0,1,1,26973.96,19300.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,84,Excellent,Excellent,Poor,1,1,0,0,75248.93,23200.0
+Smartphone,Google,Pixel 7a,2023,8,128,86,Fair,Good,Good,0,1,1,0,44823.98,22300.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,82,Good,Good,Fair,0,0,1,0,90742.81,34200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,512,65,Fair,Excellent,Good,1,0,0,0,88042.5,28300.0
+Laptop,Dell,XPS 15 (9530),2024,32,512,92,Poor,Excellent,Good,1,0,0,0,204239.25,118500.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,512,75,Good,Good,Fair,0,1,0,0,145017.5,57900.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,256,65,Good,Good,Good,0,0,0,0,26973.96,6600.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,96,Poor,Good,Excellent,0,0,0,1,166738.5,139900.0
+Laptop,Dell,XPS 15 (9530),2023,16,1024,90,Good,Good,Good,1,1,0,0,218488.5,111100.0
+Smartphone,OnePlus,OnePlus 12,2022,16,256,76,Excellent,Fair,Excellent,0,0,0,0,67436.46,30400.0
+Laptop,Dell,Inspiron 15,2025,16,512,94,Good,Excellent,Excellent,1,1,0,1,63414.25,58700.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,256,97,Good,Fair,Fair,0,1,1,0,139958.75,75300.0
+Smartphone,Apple,iPhone 14,2023,6,256,80,Good,Good,Fair,0,1,0,0,72521.25,32600.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,78,Excellent,Good,Poor,1,0,0,0,76405.23,13300.0
+Laptop,Apple,"MacBook Air M2 13""",2021,8,512,74,Poor,Fair,Excellent,1,1,0,0,107392.5,47100.0
+Laptop,Dell,Inspiron 15,2025,16,512,89,Fair,Fair,Excellent,0,1,0,0,63414.25,55600.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,128,88,Poor,Fair,Fair,0,1,0,0,40748.98,12100.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,84,Poor,Excellent,Good,1,0,1,0,90742.81,50100.0
+Smartphone,Google,Pixel 7a,2023,8,128,82,Good,Fair,Good,1,0,1,0,44823.98,20700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,1024,94,Fair,Good,Poor,0,0,0,0,201238.5,63000.0
+Laptop,Apple,"MacBook Air M2 13""",2021,8,512,72,Good,Good,Good,0,1,1,0,107392.5,39600.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,256,86,Good,Good,Good,1,0,1,0,165896.25,90900.0
+Laptop,HP,Spectre x360,2025,16,512,95,Good,Excellent,Fair,1,1,0,0,161248.92,86100.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,256,75,Fair,Good,Fair,1,0,1,0,62146.25,20300.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,74,Good,Excellent,Fair,1,0,0,0,171892.5,52700.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,94,Excellent,Fair,Good,0,0,1,1,166738.5,124000.0
+Smartphone,OnePlus,OnePlus 12,2023,16,512,86,Good,Good,Excellent,0,0,0,0,69873.93,40600.0
+Smartphone,Apple,iPhone 13,2025,4,256,95,Excellent,Fair,Excellent,0,0,0,0,62146.25,54200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,92,Good,Excellent,Poor,0,1,1,0,37085.72,11400.0
+Smartphone,Apple,iPhone 13,2021,4,128,81,Poor,Poor,Good,1,0,0,0,61023.12,26200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,16,256,87,Good,Good,Good,1,0,1,0,84971.25,46600.0
+Laptop,HP,Spectre x360,2023,16,512,79,Good,Good,Excellent,1,0,0,0,161248.92,93800.0
+Laptop,HP,Spectre x360,2021,16,1024,77,Fair,Good,Good,1,0,1,0,172498.85,55800.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,32,1024,97,Fair,Fair,Excellent,0,0,1,1,201238.5,171300.0
+Laptop,Dell,Inspiron 15,2023,16,512,87,Excellent,Good,Good,0,0,0,0,63414.25,31500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,16,512,74,Fair,Excellent,Good,1,0,1,0,188114.25,73600.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,512,85,Good,Good,Good,0,1,1,0,107392.5,59600.0
+Laptop,Dell,XPS 15 (9530),2025,32,1024,95,Good,Good,Good,0,0,0,1,218488.5,158400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,65,Good,Good,Good,1,1,1,0,25116.18,7300.0
+Laptop,Dell,XPS 15 (9530),2020,32,1024,68,Good,Fair,Good,1,1,0,0,218488.5,50400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,512,79,Good,Fair,Good,0,0,1,0,139748.92,35600.0
+Smartphone,Samsung,Galaxy S23,2025,8,128,92,Excellent,Excellent,Good,1,1,0,0,76405.23,58300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,16,512,90,Excellent,Good,Poor,0,0,1,1,88042.5,36800.0
+Smartphone,Apple,iPhone 13,2020,4,128,65,Good,Excellent,Excellent,1,0,1,0,61023.12,22400.0
+Smartphone,Apple,iPhone 15,2021,6,256,75,Fair,Poor,Good,0,1,0,0,82896.25,32700.0
+Laptop,HP,Spectre x360,2022,16,512,78,Fair,Fair,Excellent,0,0,0,0,161248.92,71200.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,82,Poor,Good,Poor,1,1,0,0,139958.75,38300.0
+Laptop,HP,Spectre x360,2022,16,512,70,Poor,Good,Good,0,1,1,0,161248.92,60800.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,256,75,Poor,Poor,Fair,0,1,0,0,41498.96,12500.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,92,Excellent,Excellent,Poor,1,0,1,1,62146.25,27100.0
+Smartphone,Samsung,Galaxy S23,2020,8,256,65,Good,Poor,Good,0,0,0,0,77811.46,17700.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,95,Excellent,Excellent,Good,0,0,0,0,166738.5,96700.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,256,70,Excellent,Poor,Excellent,0,1,1,0,75736.46,26100.0
+Tablet,Xiaomi,Pad 6,2024,6,128,88,Excellent,Excellent,Fair,0,0,1,0,27505.23,12100.0
+Smartphone,Apple,iPhone 13,2021,4,256,82,Excellent,Fair,Fair,0,0,0,0,62146.25,21600.0
+Laptop,Dell,XPS 15 (9530),2022,16,512,80,Good,Fair,Fair,0,1,1,0,204239.25,62800.0
+Tablet,Xiaomi,Pad 6,2023,8,256,83,Poor,Good,Fair,1,1,1,0,28011.46,10900.0
+Smartphone,Google,Pixel 8 Pro,2021,12,256,74,Good,Good,Poor,0,0,0,0,111011.46,17800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,85,Fair,Good,Poor,1,0,0,0,37085.72,8000.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,81,Poor,Good,Fair,0,1,1,0,37085.72,11700.0
+Laptop,Dell,XPS 15 (9530),2025,32,1024,100,Excellent,Good,Good,0,1,1,0,218488.5,159300.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,66,Excellent,Good,Good,1,1,0,0,67436.46,16100.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,128,95,Excellent,Good,Good,0,1,1,0,40748.98,28900.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,80,Good,Good,Good,0,0,0,0,42292.81,14200.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,32,1024,85,Excellent,Excellent,Fair,0,1,1,1,201238.5,123600.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,16,512,89,Fair,Excellent,Excellent,0,0,1,1,182642.5,164000.0
+Smartphone,Apple,iPhone 14,2022,6,256,76,Good,Excellent,Excellent,0,0,1,0,72521.25,39400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,256,68,Good,Good,Good,0,0,0,0,134873.96,32100.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,88,Good,Excellent,Excellent,0,0,1,0,42292.81,30100.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,91,Excellent,Excellent,Excellent,1,0,1,0,37085.72,25000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,512,89,Good,Good,Good,1,1,1,0,188114.25,103500.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,70,Good,Good,Excellent,1,0,1,0,165896.25,72200.0
+Smartphone,Google,Pixel 8 Pro,2023,12,128,86,Poor,Good,Excellent,0,1,1,0,109005.23,61800.0
+Smartphone,OnePlus,OnePlus 12,2022,12,256,72,Good,Fair,Poor,0,0,1,0,67436.46,13000.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,88,Good,Good,Excellent,1,0,0,0,111011.46,49800.0
+Smartphone,Apple,iPhone 14,2022,6,128,76,Good,Poor,Good,0,1,1,0,71210.62,34000.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,93,Poor,Excellent,Excellent,1,1,0,0,75736.46,54300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,65,Good,Excellent,Fair,0,0,0,0,25116.18,4600.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,97,Good,Excellent,Excellent,1,0,1,1,42292.81,38900.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,256,74,Good,Good,Fair,0,0,1,0,62146.25,19200.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,74,Fair,Excellent,Fair,0,1,1,0,166738.5,41500.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,85,Good,Good,Good,1,1,0,0,166738.5,93500.0
+Laptop,Asus,ROG Zephyrus G14,2023,16,1024,79,Fair,Excellent,Fair,0,0,1,0,166738.5,64100.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,8,512,95,Excellent,Good,Excellent,0,1,1,0,182642.5,175200.0
+Smartphone,Google,Pixel 7a,2023,8,128,79,Fair,Good,Good,0,0,1,0,44823.98,20700.0
+Laptop,Dell,Inspiron 15,2020,8,512,66,Poor,Poor,Poor,0,1,1,0,63414.25,8000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,16,512,89,Good,Fair,Good,0,0,0,0,88042.5,55400.0
+Smartphone,OnePlus,OnePlus 12,2023,12,512,86,Good,Good,Good,0,0,1,0,69873.93,30800.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,65,Fair,Poor,Good,1,1,1,0,75248.93,16500.0
+Smartphone,Google,Pixel 8 Pro,2025,12,128,97,Good,Fair,Excellent,0,1,1,0,109005.23,93100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,256,78,Good,Excellent,Good,0,1,1,0,160811.46,63900.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,256,71,Fair,Excellent,Excellent,0,1,1,0,139958.75,70000.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,70,Poor,Fair,Good,1,0,0,0,166738.5,62500.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,16,512,76,Good,Excellent,Good,1,1,1,0,182642.5,86500.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,79,Fair,Excellent,Good,0,0,0,0,37085.72,13600.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,128,84,Good,Fair,Excellent,1,1,1,0,40748.98,24400.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,12,128,71,Good,Fair,Good,0,0,0,0,26486.48,7900.0
+Laptop,HP,Pavilion 15,2022,16,512,78,Good,Excellent,Excellent,1,1,0,0,69873.93,33000.0
+Laptop,HP,Pavilion 15,2023,8,512,84,Good,Good,Fair,1,0,1,0,69873.93,26900.0
+Smartphone,Apple,iPhone 15,2024,6,128,91,Good,Excellent,Good,1,1,1,0,81398.12,55200.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,128,73,Excellent,Fair,Good,1,1,1,0,40748.98,16300.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,77,Poor,Poor,Fair,0,1,1,0,75248.93,20400.0
+Smartphone,Apple,iPhone 13,2021,4,128,72,Fair,Poor,Good,1,0,1,0,61023.12,23200.0
+Smartphone,Google,Pixel 8 Pro,2025,12,128,97,Fair,Excellent,Poor,1,0,1,1,109005.23,41900.0
+Laptop,Dell,XPS 15 (9530),2023,32,1024,86,Good,Poor,Good,0,0,0,0,218488.5,107500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,65,Good,Good,Good,1,0,0,0,188114.25,54500.0
+Laptop,Dell,Inspiron 15,2020,8,512,70,Good,Good,Excellent,0,0,0,0,63414.25,17900.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,12,256,85,Excellent,Poor,Good,0,1,0,0,26973.96,10600.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,79,Good,Good,Good,0,1,1,0,25116.18,6700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,76,Fair,Fair,Poor,1,0,1,0,90742.81,24700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,70,Good,Good,Good,0,0,1,0,90742.81,35100.0
+Smartphone,Google,Pixel 8 Pro,2025,12,256,89,Excellent,Fair,Excellent,0,1,0,0,111011.46,95200.0
+Smartphone,Google,Pixel 8 Pro,2023,12,256,78,Good,Excellent,Good,1,1,1,0,111011.46,56000.0
+Smartphone,Google,Pixel 8 Pro,2021,12,256,68,Good,Poor,Good,0,1,1,0,111011.46,33600.0
+Smartphone,Apple,iPhone 14,2025,6,128,96,Excellent,Excellent,Fair,0,1,0,1,71210.62,45200.0
+Smartphone,Google,Pixel 7a,2022,8,128,72,Good,Good,Excellent,1,0,1,0,44823.98,20000.0
+Smartphone,Apple,iPhone 13,2023,4,256,80,Good,Good,Good,0,0,1,0,62146.25,33500.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,512,65,Good,Good,Good,0,1,1,0,171892.5,53900.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,256,94,Fair,Good,Fair,1,0,0,0,41498.96,22800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,88,Poor,Good,Good,1,1,0,0,25116.18,12500.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,256,65,Good,Good,Good,1,0,1,0,26973.96,6400.0
+Smartphone,Apple,iPhone 15,2022,6,256,77,Excellent,Poor,Excellent,0,0,0,0,82896.25,43200.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,8,512,87,Excellent,Excellent,Good,1,1,1,0,182642.5,116700.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,256,81,Good,Good,Good,1,1,0,0,41498.96,12900.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,8,512,87,Excellent,Excellent,Excellent,1,1,0,0,88042.5,62800.0
+Tablet,Samsung,Galaxy Tab S9,2022,8,128,73,Excellent,Fair,Excellent,1,1,1,0,74367.73,33900.0
+Tablet,Xiaomi,Pad 6,2020,6,128,72,Good,Good,Good,0,0,1,0,27505.23,6900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,256,85,Good,Good,Excellent,0,0,1,0,160811.46,74200.0
+Smartphone,Apple,iPhone 15,2022,6,256,66,Fair,Poor,Fair,1,0,1,0,82896.25,28800.0
+Laptop,HP,Pavilion 15,2025,16,512,93,Good,Good,Excellent,0,1,0,1,69873.93,60700.0
+Laptop,HP,Pavilion 15,2024,16,512,88,Excellent,Good,Poor,1,0,1,0,69873.93,22900.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,64,94,Excellent,Good,Excellent,1,0,0,0,60461.56,47000.0
+Smartphone,Apple,iPhone 13,2025,4,256,98,Fair,Good,Good,1,0,0,1,62146.25,49800.0
+Smartphone,Samsung,Galaxy S23,2025,8,128,95,Excellent,Good,Good,1,0,1,1,76405.23,62400.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,128,76,Good,Excellent,Poor,0,0,1,0,137429.38,27700.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,64,87,Fair,Good,Good,0,1,0,0,60461.56,34300.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,79,Fair,Fair,Fair,1,0,0,0,75248.93,28500.0
+Smartwatch,Apple,Apple Watch Ultra 2,2024,1,64,87,Excellent,Excellent,Excellent,0,1,0,0,90742.81,68000.0
+Smartphone,Apple,iPhone 13,2021,4,128,72,Good,Good,Fair,0,0,0,0,61023.12,18500.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,98,Excellent,Fair,Poor,1,1,0,0,75248.93,29800.0
+Tablet,Samsung,Galaxy Tab S9,2025,12,256,92,Good,Excellent,Fair,1,0,1,1,75736.46,44000.0
+Smartphone,OnePlus,OnePlus 12,2022,16,256,78,Excellent,Excellent,Good,0,0,1,0,67436.46,25300.0
+Laptop,Dell,XPS 15 (9530),2021,16,1024,67,Fair,Good,Poor,0,0,1,0,218488.5,34600.0
+Smartphone,Apple,iPhone 14,2022,6,128,78,Poor,Fair,Good,1,1,1,0,71210.62,33900.0
+Tablet,Samsung,Galaxy Tab S9,2025,12,256,93,Excellent,Good,Excellent,1,0,1,1,75736.46,68600.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,80,Fair,Poor,Fair,1,1,0,0,76405.23,19600.0
+Smartphone,Apple,iPhone 15,2022,6,128,87,Fair,Excellent,Good,0,1,1,0,81398.12,39400.0
+Smartphone,Apple,iPhone 14,2023,6,128,88,Good,Good,Poor,0,0,0,0,71210.62,20300.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,65,Good,Good,Excellent,1,1,0,0,166738.5,55800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,68,Fair,Good,Fair,0,0,1,0,90742.81,22700.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,256,100,Good,Good,Excellent,0,1,0,0,165896.25,148100.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,91,Fair,Good,Fair,1,1,0,1,25116.18,14900.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,128,75,Good,Poor,Good,1,1,0,0,40748.98,19300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,8,128,73,Good,Poor,Good,1,1,0,0,83435.62,37400.0
+Smartphone,Apple,iPhone 15,2024,6,128,84,Good,Good,Excellent,0,0,1,0,81398.12,59300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,256,88,Fair,Excellent,Poor,0,1,0,0,160811.46,34400.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,67,Fair,Fair,Good,1,1,1,0,75248.93,19200.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,89,Good,Fair,Good,1,1,0,0,75248.93,29400.0
+Smartphone,OnePlus,OnePlus 11R,2025,8,256,93,Poor,Excellent,Excellent,0,1,1,1,41498.96,36600.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,8,128,80,Good,Excellent,Poor,0,0,0,0,83435.62,25300.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,82,Good,Poor,Fair,0,1,1,0,166738.5,64400.0
+Smartphone,Google,Pixel 8 Pro,2022,12,512,80,Good,Excellent,Fair,1,1,1,0,115023.92,37900.0
+Smartphone,Google,Pixel 7a,2023,8,128,74,Excellent,Poor,Poor,1,1,1,0,44823.98,11600.0
+Laptop,Dell,XPS 15 (9530),2021,32,1024,70,Good,Fair,Good,1,0,1,0,218488.5,66600.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,256,76,Excellent,Fair,Excellent,1,1,0,0,75736.46,34700.0
+Smartphone,OnePlus,OnePlus 12,2023,12,256,82,Excellent,Excellent,Good,1,0,1,0,67436.46,31700.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,81,Good,Excellent,Good,1,1,1,0,75248.93,44700.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,512,74,Good,Fair,Excellent,1,1,0,0,171892.5,67700.0
+Smartphone,Google,Pixel 7a,2025,8,128,94,Good,Good,Good,0,1,0,0,44823.98,34400.0
+Laptop,Dell,XPS 15 (9530),2025,32,512,97,Excellent,Fair,Excellent,1,1,0,0,204239.25,170100.0
+Smartphone,Apple,iPhone 13,2024,4,128,86,Excellent,Excellent,Good,0,1,1,0,61023.12,41700.0
+Smartphone,Apple,iPhone 15,2025,6,512,93,Good,Excellent,Good,1,0,0,0,85892.5,61200.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,256,87,Fair,Good,Excellent,0,0,1,0,165896.25,94700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,79,Fair,Excellent,Poor,0,0,1,0,90742.81,16600.0
+Laptop,Dell,XPS 15 (9530),2024,32,1024,91,Good,Excellent,Excellent,0,0,1,0,218488.5,150100.0
+Smartphone,OnePlus,OnePlus 12,2025,12,256,92,Good,Poor,Excellent,1,0,0,1,67436.46,62100.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,16,1024,94,Fair,Excellent,Good,1,0,0,0,195385.0,123700.0
+Tablet,Samsung,Galaxy Tab S9,2025,12,128,95,Excellent,Good,Excellent,0,1,0,1,74367.73,60400.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,256,91,Good,Good,Excellent,0,1,1,0,103646.25,72400.0
+Laptop,HP,Pavilion 15,2025,16,512,93,Excellent,Excellent,Excellent,0,1,0,0,69873.93,54000.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,69,Poor,Good,Poor,0,0,0,0,75248.93,8900.0
+Smartphone,Samsung,Galaxy S23,2021,8,256,73,Poor,Poor,Good,0,1,0,0,77811.46,22900.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,512,87,Good,Excellent,Good,0,1,1,0,171892.5,82900.0
+Laptop,Dell,XPS 15 (9530),2020,16,1024,65,Good,Good,Good,0,0,1,0,218488.5,51400.0
+Laptop,Dell,Inspiron 15,2023,16,512,81,Excellent,Poor,Fair,1,1,1,0,63414.25,25300.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,128,84,Poor,Poor,Fair,0,1,0,0,40748.98,15700.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,256,76,Fair,Fair,Fair,1,1,1,0,103646.25,38200.0
+Tablet,Xiaomi,Pad 6,2021,6,128,81,Fair,Good,Excellent,1,0,0,0,27505.23,10400.0
+Smartphone,OnePlus,OnePlus 11R,2020,16,256,65,Good,Fair,Good,0,1,0,0,41498.96,10000.0
+Smartphone,Samsung,Galaxy S23,2025,8,128,92,Good,Excellent,Fair,1,1,0,1,76405.23,46200.0
+Smartphone,OnePlus,OnePlus 12,2023,12,256,91,Good,Fair,Good,1,1,0,0,67436.46,35100.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2024,12,128,91,Fair,Good,Excellent,1,0,1,0,26486.48,18500.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,256,65,Fair,Good,Good,0,0,0,0,134873.96,32000.0
+Smartphone,Google,Pixel 8 Pro,2020,12,128,65,Good,Fair,Excellent,0,1,0,0,109005.23,28600.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,76,Poor,Fair,Good,1,1,0,0,76405.23,19600.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,87,Good,Excellent,Good,1,1,0,0,25116.18,15500.0
+Laptop,Dell,Inspiron 15,2022,16,512,78,Good,Poor,Excellent,1,1,0,0,63414.25,27200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,8,256,66,Fair,Good,Good,1,1,0,0,84971.25,28400.0
+Tablet,Samsung,Galaxy Tab S9,2023,12,256,83,Good,Excellent,Good,0,0,0,0,75736.46,35600.0
+Smartwatch,Apple,Apple Watch Ultra 2,2025,1,64,97,Excellent,Good,Good,0,1,0,1,90742.81,72900.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,512,89,Excellent,Fair,Poor,0,1,0,0,188114.25,55700.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,68,Good,Good,Fair,1,1,0,0,37085.72,7300.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,32,512,86,Fair,Good,Fair,1,0,0,0,188114.25,75200.0
+Smartphone,Apple,iPhone 13,2023,4,128,89,Good,Fair,Good,0,1,0,0,61023.12,35800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,95,Fair,Poor,Excellent,1,1,1,1,139748.92,128500.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,65,Good,Excellent,Excellent,1,1,1,0,75248.93,20500.0
+Tablet,Xiaomi,Pad 6,2025,6,256,99,Fair,Excellent,Fair,0,1,1,1,28011.46,17900.0
+Laptop,Dell,Inspiron 15,2020,16,512,65,Fair,Excellent,Good,1,1,1,0,63414.25,15700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,12,128,77,Poor,Fair,Good,1,0,1,0,26486.48,11000.0
+Smartphone,Apple,iPhone 14,2022,6,128,79,Poor,Poor,Poor,1,1,0,0,71210.62,17900.0
+Laptop,Dell,XPS 15 (9530),2025,32,512,98,Excellent,Fair,Good,0,0,0,0,204239.25,137600.0
+Tablet,Xiaomi,Pad 6,2021,6,128,69,Fair,Poor,Good,1,1,0,0,27505.23,8500.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,64,75,Good,Good,Good,0,0,1,0,60461.56,21200.0
+Tablet,Xiaomi,Pad 6,2023,6,256,80,Good,Excellent,Good,0,1,1,0,28011.46,13500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,256,68,Poor,Excellent,Poor,0,0,1,0,160811.46,25100.0
+Smartphone,OnePlus,OnePlus 11R,2024,16,128,88,Excellent,Excellent,Fair,1,0,1,0,40748.98,19000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,256,65,Poor,Excellent,Fair,0,1,1,0,84971.25,21400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,256,82,Excellent,Good,Good,0,0,0,0,160811.46,94700.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,93,Excellent,Good,Fair,1,1,0,0,62146.25,38500.0
+Laptop,Asus,ROG Zephyrus G14,2024,32,1024,88,Poor,Good,Excellent,1,1,0,0,166738.5,112500.0
+Laptop,HP,Pavilion 15,2023,8,512,87,Fair,Good,Fair,0,0,0,0,69873.93,25000.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,94,Good,Excellent,Excellent,1,0,1,1,139748.92,127500.0
+Smartphone,Apple,iPhone 15,2020,6,512,65,Excellent,Good,Fair,1,0,1,0,85892.5,22800.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,128,84,Good,Fair,Good,0,1,1,0,137429.38,67600.0
+Smartphone,Google,Pixel 8 Pro,2024,12,512,92,Excellent,Good,Good,1,0,1,0,115023.92,66800.0
+Smartphone,Apple,iPhone 13,2025,4,128,94,Good,Good,Fair,1,0,0,1,61023.12,35800.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,81,Excellent,Excellent,Good,1,1,0,0,111011.46,68000.0
+Smartphone,Apple,iPhone 14,2022,6,128,83,Excellent,Good,Excellent,0,1,1,0,71210.62,39800.0
+Smartphone,OnePlus,OnePlus 12,2020,16,512,76,Poor,Fair,Poor,0,1,1,0,69873.93,9300.0
+Laptop,HP,Spectre x360,2022,16,512,69,Excellent,Good,Poor,0,0,1,0,161248.92,32000.0
+Laptop,Asus,ROG Zephyrus G14,2022,32,1024,74,Excellent,Fair,Poor,1,1,1,0,166738.5,34300.0
+Smartphone,OnePlus,OnePlus 11R,2024,16,128,92,Excellent,Good,Good,0,1,1,0,40748.98,24500.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,512,86,Good,Fair,Poor,0,1,0,0,139748.92,36300.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,8,512,88,Fair,Excellent,Poor,0,0,0,0,182642.5,54600.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,65,Excellent,Excellent,Fair,0,1,0,0,76405.23,14100.0
+Smartwatch,Apple,Apple Watch Ultra 2,2024,1,64,92,Fair,Good,Excellent,0,1,1,0,90742.81,68500.0
+Smartphone,Google,Pixel 7a,2023,8,128,85,Poor,Good,Good,1,1,1,0,44823.98,20200.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,97,Excellent,Excellent,Good,0,1,0,0,62146.25,45300.0
+Smartphone,Apple,iPhone 14,2024,6,256,95,Good,Good,Fair,1,1,1,0,72521.25,38200.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,96,Poor,Poor,Excellent,1,0,0,1,62146.25,59400.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,128,97,Fair,Good,Excellent,0,1,1,0,40748.98,34600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2024,12,128,86,Good,Good,Fair,0,1,1,0,26486.48,12400.0
+Tablet,Xiaomi,Pad 6,2025,6,128,97,Good,Good,Good,0,1,0,0,27505.23,19400.0
+Smartphone,Samsung,Galaxy S23,2024,8,256,91,Poor,Fair,Excellent,0,0,1,0,77811.46,55100.0
+Smartphone,Google,Pixel 7a,2022,8,128,73,Good,Good,Fair,0,1,1,0,44823.98,14500.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,512,85,Poor,Excellent,Poor,0,1,0,0,171892.5,57300.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,65,Good,Good,Good,1,1,1,0,42292.81,16500.0
+Laptop,Dell,XPS 15 (9530),2025,16,1024,94,Excellent,Excellent,Excellent,1,1,1,1,218488.5,196300.0
+Laptop,HP,Spectre x360,2025,16,512,98,Excellent,Good,Good,1,0,1,1,161248.92,122400.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,97,Poor,Fair,Excellent,1,0,1,1,62146.25,59100.0
+Smartphone,Apple,iPhone 13,2021,4,256,78,Good,Good,Fair,1,0,1,0,62146.25,20300.0
+Laptop,Apple,"MacBook Air M2 13""",2025,8,256,98,Excellent,Excellent,Good,1,1,1,0,103646.25,77400.0
+Smartphone,Google,Pixel 7a,2021,8,128,73,Good,Good,Fair,1,1,0,0,44823.98,11400.0
+Smartphone,Apple,iPhone 14,2022,6,128,88,Good,Good,Excellent,1,0,0,0,71210.62,40800.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,24,1024,82,Fair,Poor,Good,0,0,1,0,195385.0,108700.0
+Laptop,HP,Spectre x360,2021,16,512,65,Fair,Fair,Good,1,0,0,0,161248.92,46600.0
+Smartphone,Samsung,Galaxy S23,2025,8,256,87,Excellent,Good,Poor,0,0,1,1,77811.46,31600.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,512,80,Fair,Excellent,Good,0,1,0,0,139748.92,45900.0
+Smartphone,Samsung,Galaxy S23,2021,8,256,69,Excellent,Good,Good,1,0,0,0,77811.46,23800.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,80,Excellent,Good,Good,0,0,1,0,109005.23,34900.0
+Laptop,HP,Spectre x360,2020,16,1024,70,Good,Fair,Poor,0,1,1,0,172498.85,20900.0
+Smartphone,Google,Pixel 8 Pro,2023,12,128,90,Fair,Good,Good,0,0,1,0,109005.23,49100.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,82,Fair,Excellent,Good,1,1,1,0,75248.93,37100.0
+Smartphone,Apple,iPhone 14,2021,6,256,81,Poor,Poor,Good,1,0,1,0,72521.25,32100.0
+Smartphone,Apple,iPhone 14,2020,6,256,71,Fair,Poor,Good,0,1,1,0,72521.25,22800.0
+Smartphone,Google,Pixel 8 Pro,2023,12,512,81,Good,Good,Good,0,0,0,0,115023.92,51900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,72,Fair,Poor,Good,1,1,0,0,166623.92,66200.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,128,96,Excellent,Good,Excellent,0,0,0,1,137429.38,122700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,65,Good,Good,Fair,1,0,0,0,90742.81,27200.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,94,Excellent,Good,Excellent,0,1,0,0,149498.85,125500.0
+Smartphone,Google,Pixel 7a,2024,8,128,90,Good,Excellent,Good,0,0,1,0,44823.98,26200.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,512,88,Fair,Good,Good,1,1,1,0,145017.5,84400.0
+Smartphone,Apple,iPhone 14,2020,6,128,65,Good,Poor,Good,0,0,0,0,71210.62,21700.0
+Smartphone,Apple,iPhone 14,2023,6,256,87,Good,Fair,Good,1,1,0,0,72521.25,39500.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,78,Excellent,Excellent,Poor,0,0,0,0,60461.56,12700.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,512,75,Good,Excellent,Good,1,0,1,0,171892.5,58700.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,512,94,Excellent,Excellent,Excellent,0,0,0,0,145017.5,120100.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,94,Good,Fair,Excellent,0,1,0,1,62146.25,58000.0
+Smartphone,Apple,iPhone 13,2025,4,128,92,Good,Good,Good,1,1,1,0,61023.12,47400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,1024,96,Good,Excellent,Poor,0,0,0,0,201238.5,72600.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,65,Fair,Good,Excellent,0,0,1,0,67436.46,17400.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,1024,78,Fair,Good,Fair,0,1,0,0,183885.0,63500.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,76,Good,Fair,Good,1,1,0,0,165896.25,66600.0
+Smartphone,Apple,iPhone 13,2024,4,256,88,Excellent,Poor,Excellent,1,0,1,0,62146.25,46600.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,128,79,Good,Poor,Good,0,0,0,0,40748.98,20000.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,1024,78,Good,Good,Good,0,1,0,0,149498.85,60400.0
+Laptop,HP,Spectre x360,2023,16,512,81,Fair,Good,Good,0,0,0,0,161248.92,74500.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,12,256,85,Excellent,Excellent,Fair,0,1,0,0,26973.96,10300.0
+Smartphone,Apple,iPhone 13,2023,4,128,86,Good,Fair,Fair,1,1,0,0,61023.12,26500.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,91,Excellent,Good,Excellent,1,1,1,0,42292.81,34300.0
+Laptop,Dell,Inspiron 15,2021,16,512,65,Fair,Poor,Fair,0,1,1,0,63414.25,14600.0
+Smartphone,Apple,iPhone 15,2024,6,128,84,Excellent,Good,Excellent,0,1,1,0,81398.12,62100.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,256,70,Fair,Poor,Fair,1,0,1,0,41498.96,9700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,67,Good,Good,Fair,0,0,1,0,188114.25,43000.0
+Laptop,HP,Spectre x360,2025,16,1024,91,Fair,Excellent,Good,0,0,1,0,172498.85,127100.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,256,92,Excellent,Excellent,Fair,0,0,1,1,165896.25,101000.0
+Smartphone,Google,Pixel 7a,2025,8,128,92,Good,Good,Excellent,0,1,0,0,44823.98,37400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,98,Good,Good,Excellent,0,1,0,0,25116.18,20800.0
+Laptop,HP,Spectre x360,2020,16,512,78,Good,Fair,Fair,0,1,1,0,161248.92,33200.0
+Smartphone,Apple,iPhone 14,2023,6,256,81,Fair,Good,Excellent,0,1,1,0,72521.25,48200.0
+Smartphone,Google,Pixel 8 Pro,2023,12,512,89,Good,Good,Good,0,1,1,0,115023.92,55600.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,88,Good,Excellent,Good,1,1,0,0,62146.25,42400.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,128,82,Good,Fair,Fair,0,0,0,0,74367.73,21100.0
+Laptop,HP,Pavilion 15,2023,8,512,84,Fair,Good,Excellent,1,0,1,0,69873.93,40300.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,128,66,Good,Poor,Good,1,0,1,0,137429.38,54600.0
+Laptop,Dell,Inspiron 15,2023,8,512,76,Poor,Poor,Good,1,1,0,0,63414.25,29400.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,12,128,75,Good,Fair,Fair,1,1,0,0,26486.48,8200.0
+Smartphone,Apple,iPhone 15,2020,6,256,65,Good,Poor,Excellent,0,1,1,0,82896.25,30200.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,512,68,Poor,Excellent,Fair,1,1,1,0,145017.5,45400.0
+Laptop,Dell,Inspiron 15,2024,16,512,87,Good,Good,Excellent,1,0,1,0,63414.25,45100.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2021,2,16,78,Excellent,Good,Excellent,1,1,1,0,37085.72,14100.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,76,Fair,Good,Good,0,1,0,0,42292.81,14600.0
+Laptop,Apple,"MacBook Air M2 13""",2020,8,256,70,Good,Poor,Fair,1,0,0,0,103646.25,26700.0
+Smartphone,Google,Pixel 7a,2024,8,128,85,Excellent,Good,Excellent,0,0,1,0,44823.98,31800.0
+Smartphone,Samsung,Galaxy S23,2022,8,128,76,Excellent,Poor,Fair,0,0,1,0,76405.23,23900.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,256,77,Good,Fair,Excellent,0,1,0,0,165896.25,94600.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,80,Good,Good,Excellent,0,1,0,0,75248.93,29400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,73,Fair,Fair,Good,1,1,0,0,25116.18,6200.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,256,80,Good,Fair,Good,1,1,1,0,62146.25,34800.0
+Smartphone,OnePlus,OnePlus 12,2021,16,256,67,Good,Good,Excellent,0,1,1,0,67436.46,24500.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,256,75,Good,Fair,Excellent,1,0,1,0,41498.96,15400.0
+Laptop,HP,Spectre x360,2024,16,1024,92,Good,Excellent,Excellent,0,1,1,0,172498.85,118700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,512,88,Good,Good,Excellent,0,1,1,0,188114.25,137600.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,66,Fair,Good,Fair,1,0,1,0,139958.75,35000.0
+Laptop,Dell,XPS 15 (9530),2021,16,512,72,Fair,Poor,Good,1,1,0,0,204239.25,66200.0
+Laptop,HP,Pavilion 15,2023,16,512,75,Excellent,Good,Good,0,1,1,0,69873.93,34600.0
+Smartphone,Apple,iPhone 14,2024,6,256,87,Fair,Excellent,Good,1,1,0,0,72521.25,44500.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,128,76,Good,Excellent,Fair,1,0,0,0,74367.73,18600.0
+Smartphone,Google,Pixel 8 Pro,2024,12,128,91,Excellent,Good,Good,1,1,0,0,109005.23,66500.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,256,65,Fair,Good,Fair,0,1,1,0,62146.25,15800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,95,Excellent,Excellent,Excellent,0,1,0,1,25116.18,22700.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,71,Good,Excellent,Fair,1,0,1,0,37085.72,7700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,128,70,Excellent,Fair,Good,1,0,1,0,83435.62,31900.0
+Smartphone,Google,Pixel 8 Pro,2024,12,512,89,Excellent,Good,Good,0,0,0,0,115023.92,65700.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,128,96,Excellent,Fair,Fair,0,0,0,0,40748.98,21000.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,8,1024,73,Good,Good,Good,0,0,0,0,195385.0,63900.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,87,Good,Good,Fair,0,1,0,0,75248.93,18900.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,128,76,Poor,Poor,Good,1,1,0,0,40748.98,16300.0
+Smartphone,Apple,iPhone 13,2024,4,128,87,Poor,Good,Fair,1,1,0,0,61023.12,31700.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,80,Excellent,Good,Good,1,1,0,0,42292.81,17400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,86,Poor,Fair,Fair,1,1,0,0,37085.72,12100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,512,77,Good,Poor,Fair,0,1,0,0,139748.92,52100.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,74,Good,Good,Fair,1,0,0,0,76405.23,19900.0
+Smartphone,Apple,iPhone 13,2024,4,128,86,Good,Excellent,Excellent,1,1,0,0,61023.12,46800.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,16,512,83,Poor,Poor,Good,1,0,0,0,88042.5,50100.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,512,90,Good,Excellent,Fair,0,0,1,0,107392.5,55400.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,73,Fair,Fair,Fair,0,0,0,0,166738.5,40600.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,83,Good,Good,Good,0,0,0,0,166738.5,68300.0
+Tablet,Xiaomi,Pad 6,2023,8,256,90,Fair,Excellent,Good,0,0,1,0,28011.46,13500.0
+Laptop,HP,Spectre x360,2025,16,512,100,Good,Poor,Excellent,1,0,1,0,161248.92,135500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,97,Fair,Excellent,Poor,1,0,1,0,25116.18,10000.0
+Smartphone,Google,Pixel 8 Pro,2024,12,128,88,Fair,Excellent,Excellent,0,0,1,0,109005.23,74100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,512,74,Excellent,Fair,Good,0,1,0,0,139748.92,34400.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,67,Fair,Good,Excellent,1,1,0,0,90742.81,32800.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,86,Good,Fair,Good,0,0,0,0,77811.46,36600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,128,77,Good,Excellent,Good,0,0,0,0,26486.48,12200.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,256,77,Good,Excellent,Good,0,0,1,0,75736.46,23900.0
+Tablet,Xiaomi,Pad 6,2024,6,128,94,Excellent,Good,Excellent,0,1,1,0,27505.23,18600.0
+Tablet,Samsung,Galaxy Tab S9,2023,12,256,85,Good,Good,Good,1,0,1,0,75736.46,37400.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,256,72,Good,Fair,Good,1,1,0,0,75736.46,29700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,256,71,Good,Poor,Good,1,0,0,0,84971.25,34100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,256,93,Poor,Good,Excellent,0,0,0,1,134873.96,117500.0
+Smartphone,Apple,iPhone 13,2024,4,128,83,Excellent,Excellent,Good,1,1,0,0,61023.12,41300.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,87,Good,Fair,Good,0,0,1,0,171892.5,72500.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,512,77,Excellent,Good,Good,0,0,0,0,145017.5,53700.0
+Smartphone,Google,Pixel 7a,2024,8,128,88,Good,Excellent,Excellent,0,1,1,0,44823.98,30800.0
+Tablet,Xiaomi,Pad 6,2024,8,256,85,Fair,Good,Fair,0,1,1,0,28011.46,13100.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,256,65,Excellent,Excellent,Good,1,1,0,0,165896.25,52400.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,12,256,81,Good,Good,Good,0,0,1,0,26973.96,10800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,92,Good,Good,Good,1,0,0,1,37085.72,26100.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,512,91,Fair,Excellent,Fair,0,1,1,1,171892.5,112500.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,16,512,65,Good,Excellent,Poor,0,1,0,0,182642.5,32400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,32,1024,65,Good,Excellent,Excellent,0,0,0,0,201238.5,53300.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,94,Fair,Excellent,Excellent,1,1,1,0,149498.85,128100.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,84,Poor,Good,Good,1,0,0,0,42292.81,23500.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,91,Excellent,Excellent,Good,1,0,1,0,37085.72,21300.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,256,76,Fair,Poor,Fair,0,0,0,0,134873.96,39000.0
+Smartphone,Apple,iPhone 14,2024,6,256,93,Fair,Excellent,Excellent,1,1,0,0,72521.25,58100.0
+Laptop,HP,Spectre x360,2020,16,512,73,Good,Fair,Fair,1,1,0,0,161248.92,33300.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,512,85,Good,Poor,Good,1,0,0,0,145017.5,70400.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,256,66,Good,Fair,Fair,1,1,0,0,84971.25,21600.0
+Smartphone,Apple,iPhone 13,2022,4,256,75,Poor,Good,Good,0,1,1,0,62146.25,28100.0
+Smartphone,OnePlus,OnePlus 12,2022,12,512,88,Excellent,Good,Good,0,0,1,0,69873.93,28200.0
+Smartphone,Google,Pixel 8 Pro,2022,12,512,76,Fair,Excellent,Good,0,0,1,0,115023.92,43700.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,24,512,66,Fair,Good,Fair,1,0,0,0,182642.5,44800.0
+Laptop,HP,Pavilion 15,2025,16,512,100,Fair,Fair,Excellent,1,0,0,0,69873.93,59600.0
+Laptop,HP,Spectre x360,2021,16,512,79,Poor,Good,Poor,1,1,0,0,161248.92,26800.0
+Tablet,Xiaomi,Pad 6,2022,6,128,76,Good,Fair,Good,1,1,0,0,27505.23,11000.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,128,65,Good,Fair,Good,1,0,1,0,40748.98,12200.0
+Smartphone,Google,Pixel 7a,2024,8,128,86,Fair,Good,Good,1,0,1,0,44823.98,24600.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,75,Good,Excellent,Good,0,1,1,0,111011.46,40400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,80,Good,Excellent,Good,1,1,0,0,37085.72,14800.0
+Smartphone,Samsung,Galaxy S23,2022,8,128,77,Good,Good,Good,0,1,0,0,76405.23,30600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,128,84,Fair,Excellent,Excellent,0,1,1,0,26486.48,14600.0
+Smartphone,Google,Pixel 8 Pro,2024,12,512,86,Good,Good,Poor,0,0,0,0,115023.92,35200.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,87,Excellent,Good,Good,0,0,1,0,62146.25,39900.0
+Smartphone,Apple,iPhone 13,2025,4,256,96,Good,Excellent,Good,0,1,1,0,62146.25,49900.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,16,512,88,Fair,Good,Excellent,1,0,0,0,182642.5,142200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,8,256,83,Good,Good,Fair,1,1,1,0,26973.96,8800.0
+Smartphone,Apple,iPhone 13,2023,4,256,78,Poor,Poor,Fair,0,1,1,0,62146.25,28300.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,70,Good,Fair,Excellent,0,0,0,0,109005.23,35200.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,92,Good,Excellent,Fair,1,0,0,1,75248.93,42600.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,8,256,89,Good,Excellent,Good,1,0,1,0,84971.25,53200.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,73,Good,Good,Excellent,0,1,1,0,166738.5,50100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,80,Good,Fair,Fair,0,0,0,0,166623.92,44300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,82,Good,Good,Poor,1,0,0,0,25116.18,5100.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,96,Good,Excellent,Good,0,0,0,1,75248.93,55500.0
+Smartphone,Apple,iPhone 13,2024,4,256,90,Good,Good,Poor,1,0,1,0,62146.25,21400.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,91,Good,Fair,Good,0,0,0,0,75248.93,35200.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,91,Good,Good,Good,0,0,1,0,75736.46,41800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,88,Good,Excellent,Poor,0,0,1,0,90742.81,26100.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,91,Good,Excellent,Good,1,0,1,0,166738.5,98100.0
+Smartphone,Google,Pixel 8 Pro,2024,12,128,85,Good,Good,Excellent,0,1,1,0,109005.23,69900.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,16,512,73,Excellent,Excellent,Excellent,0,0,1,0,182642.5,81100.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,65,Good,Poor,Fair,1,1,0,0,166738.5,39100.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,64,93,Fair,Excellent,Poor,0,0,1,1,60461.56,23600.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,16,512,76,Good,Poor,Excellent,0,0,1,0,182642.5,93700.0
+Smartphone,Apple,iPhone 14,2024,6,256,89,Excellent,Fair,Good,0,1,0,0,72521.25,47100.0
+Smartphone,Apple,iPhone 14,2023,6,128,77,Good,Good,Good,0,0,0,0,71210.62,37700.0
+Laptop,HP,Pavilion 15,2021,8,512,79,Fair,Good,Good,1,0,0,0,69873.93,22600.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,16,512,84,Poor,Good,Fair,1,1,1,0,88042.5,34000.0
+Laptop,HP,Spectre x360,2024,16,512,90,Good,Good,Fair,1,0,1,0,161248.92,78700.0
+Laptop,HP,Spectre x360,2023,16,1024,78,Good,Poor,Good,1,1,0,0,172498.85,83100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,256,76,Good,Good,Excellent,1,1,1,0,160811.46,59000.0
+Smartphone,Google,Pixel 7a,2025,8,128,95,Good,Good,Good,1,1,0,1,44823.98,34800.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,256,94,Excellent,Poor,Good,0,0,1,1,160811.46,118100.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,64,91,Good,Excellent,Good,1,0,1,0,60461.56,40300.0
+Smartphone,Samsung,Galaxy S23,2023,8,128,89,Good,Good,Good,0,1,0,0,76405.23,38000.0
+Tablet,Samsung,Galaxy Tab S9,2020,8,256,71,Good,Good,Fair,0,0,0,0,75736.46,14900.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,72,Fair,Good,Excellent,1,0,0,0,90742.81,47700.0
+Laptop,Apple,"MacBook Air M2 13""",2020,8,256,65,Good,Fair,Poor,1,1,1,0,103646.25,17600.0
+Tablet,Samsung,Galaxy Tab S9,2022,8,128,77,Good,Fair,Excellent,1,0,1,0,74367.73,35400.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,75,Fair,Fair,Poor,0,1,0,0,76405.23,13500.0
+Laptop,Apple,"MacBook Air M2 13""",2021,16,512,76,Good,Good,Good,0,1,0,0,107392.5,39800.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,256,98,Good,Excellent,Excellent,0,0,0,1,139958.75,126400.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,77,Good,Good,Fair,1,1,1,0,111011.46,33100.0
+Smartphone,Google,Pixel 8 Pro,2024,12,512,90,Good,Fair,Good,0,1,0,0,115023.92,66900.0
+Laptop,HP,Pavilion 15,2020,16,512,75,Good,Good,Good,1,0,0,0,69873.93,18400.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,91,Good,Good,Excellent,0,0,1,0,42292.81,32200.0
+Smartphone,Apple,iPhone 13,2022,4,256,67,Good,Good,Good,0,1,0,0,62146.25,27400.0
+Smartphone,OnePlus,OnePlus 12,2020,12,256,65,Fair,Excellent,Fair,0,1,0,0,67436.46,13100.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,512,85,Excellent,Good,Excellent,1,1,1,0,145017.5,98400.0
+Laptop,HP,Spectre x360,2020,16,512,65,Poor,Fair,Good,0,1,1,0,161248.92,39100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,1024,87,Good,Excellent,Fair,0,1,1,0,201238.5,87100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,78,Good,Fair,Good,0,1,1,0,166623.92,56400.0
+Tablet,Samsung,Galaxy Tab S9,2022,8,128,87,Fair,Good,Fair,1,0,0,0,74367.73,23500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,75,Good,Good,Poor,1,0,1,0,25116.18,4200.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,81,Good,Good,Excellent,0,1,1,0,42292.81,27300.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,256,76,Good,Good,Fair,1,0,0,0,134873.96,33800.0
+Smartphone,OnePlus,OnePlus 12,2020,12,512,79,Good,Poor,Poor,1,0,0,0,69873.93,9400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2023,12,512,94,Excellent,Fair,Poor,1,1,1,0,166623.92,43100.0
+Laptop,Dell,XPS 15 (9530),2025,16,512,98,Good,Excellent,Excellent,0,1,0,1,204239.25,182900.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,96,Good,Excellent,Excellent,0,0,0,1,149498.85,128400.0
+Tablet,Xiaomi,Pad 6,2020,6,256,66,Excellent,Good,Poor,1,1,1,0,28011.46,3700.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,256,77,Good,Poor,Good,0,1,1,0,165896.25,60000.0
+Smartphone,OnePlus,OnePlus 11R,2022,16,256,82,Fair,Good,Fair,1,1,1,0,41498.96,13100.0
+Laptop,Dell,XPS 15 (9530),2021,16,512,70,Fair,Good,Good,0,1,0,0,204239.25,57700.0
+Smartphone,Google,Pixel 8 Pro,2024,12,512,83,Excellent,Good,Good,1,1,0,0,115023.92,66100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,78,Good,Excellent,Good,0,0,0,0,188114.25,55500.0
+Smartphone,Samsung,Galaxy S23,2021,8,256,74,Fair,Good,Fair,0,0,1,0,77811.46,19800.0
+Smartphone,OnePlus,OnePlus 12,2024,16,512,94,Excellent,Good,Good,0,1,1,0,69873.93,43000.0
+Smartphone,Apple,iPhone 14,2020,6,256,76,Good,Good,Good,1,1,0,0,72521.25,24800.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,100,Good,Excellent,Excellent,1,0,1,1,42292.81,40100.0
+Smartphone,Google,Pixel 7a,2025,8,128,93,Good,Excellent,Fair,0,1,0,1,44823.98,26000.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,88,Fair,Excellent,Excellent,0,0,1,0,75248.93,50100.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,86,Poor,Poor,Poor,0,1,0,0,25116.18,6400.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,87,Excellent,Fair,Poor,1,1,0,0,75248.93,15800.0
+Smartphone,Apple,iPhone 13,2020,4,256,65,Good,Good,Fair,0,0,1,0,62146.25,15400.0
+Laptop,Dell,Inspiron 15,2020,16,512,65,Poor,Excellent,Poor,0,1,0,0,63414.25,7500.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,8,256,91,Good,Good,Fair,0,0,0,0,26973.96,8900.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,256,97,Good,Excellent,Excellent,0,1,1,1,139958.75,128100.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,16,128,85,Good,Good,Excellent,0,0,1,0,83435.62,60900.0
+Laptop,HP,Pavilion 15,2024,8,512,94,Good,Good,Good,0,1,0,0,69873.93,40500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,1024,89,Good,Good,Fair,1,1,1,0,201238.5,97900.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,256,74,Good,Fair,Fair,0,0,1,0,165896.25,56800.0
+Smartphone,OnePlus,OnePlus 12,2022,16,256,81,Good,Fair,Fair,0,0,0,0,67436.46,20700.0
+Tablet,Samsung,Galaxy Tab S9,2020,8,256,68,Good,Fair,Fair,1,1,0,0,75736.46,14300.0
+Smartphone,Google,Pixel 8 Pro,2021,12,512,71,Good,Good,Good,0,1,1,0,115023.92,37500.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,76,Fair,Good,Good,0,1,1,0,109005.23,33500.0
+Smartphone,Apple,iPhone 15,2024,6,512,83,Excellent,Excellent,Excellent,1,0,1,0,85892.5,61900.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,71,Fair,Good,Good,0,1,1,0,90742.81,41100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,512,95,Fair,Good,Poor,0,0,1,0,166623.92,63900.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,1024,91,Poor,Fair,Good,0,0,0,0,149498.85,84800.0
+Smartphone,Google,Pixel 7a,2024,8,128,92,Poor,Excellent,Fair,1,1,0,0,44823.98,21200.0
+Laptop,Dell,Inspiron 15,2024,16,512,88,Fair,Excellent,Poor,0,1,0,0,63414.25,20400.0
+Laptop,HP,Pavilion 15,2024,16,512,91,Good,Excellent,Good,0,0,1,0,69873.93,40300.0
+Smartphone,Apple,iPhone 15,2025,6,128,95,Good,Good,Excellent,1,0,1,0,81398.12,77900.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,256,77,Good,Fair,Excellent,0,1,1,0,41498.96,14700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,512,65,Good,Good,Good,1,1,1,0,88042.5,28700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,32,512,88,Good,Good,Poor,0,1,0,0,188114.25,38400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,512,81,Good,Good,Excellent,0,1,0,0,139748.92,65200.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,8,1024,65,Excellent,Excellent,Fair,1,1,0,0,195385.0,50900.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,93,Good,Excellent,Excellent,1,0,1,0,75248.93,48800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2024,1,64,86,Good,Fair,Good,0,1,1,0,90742.81,60500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,82,Excellent,Good,Good,1,0,0,0,25116.18,9400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,67,Poor,Good,Excellent,0,1,0,0,25116.18,7200.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,512,88,Good,Fair,Excellent,0,1,0,0,145017.5,122500.0
+Smartphone,Apple,iPhone 13,2022,4,128,69,Excellent,Excellent,Excellent,0,0,0,0,61023.12,31300.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,256,87,Good,Good,Fair,1,0,1,0,103646.25,54700.0
+Laptop,Dell,Inspiron 15,2022,8,512,78,Fair,Good,Fair,1,0,1,0,63414.25,20600.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,83,Good,Good,Excellent,1,1,0,0,25116.18,13900.0
+Smartphone,Samsung,Galaxy S23,2020,8,256,65,Good,Good,Good,1,0,0,0,77811.46,17200.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,128,88,Good,Fair,Good,0,1,0,0,137429.38,82600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,256,86,Good,Excellent,Fair,0,1,0,0,26973.96,10100.0
+Smartphone,Apple,iPhone 13,2025,4,128,98,Good,Excellent,Excellent,0,0,0,0,61023.12,55200.0
+Smartphone,OnePlus,OnePlus 11R,2020,16,128,72,Fair,Good,Excellent,1,0,0,0,40748.98,11700.0
+Smartphone,Apple,iPhone 14,2020,6,128,65,Good,Fair,Fair,0,1,0,0,71210.62,18900.0
+Laptop,HP,Pavilion 15,2021,8,512,70,Poor,Good,Good,1,0,0,0,69873.93,20900.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,87,Good,Fair,Good,0,1,0,0,77811.46,37700.0
+Smartphone,Apple,iPhone 15,2024,6,512,92,Excellent,Excellent,Excellent,1,1,0,0,85892.5,68500.0
+Smartphone,Google,Pixel 7a,2020,8,128,65,Good,Good,Excellent,1,1,1,0,44823.98,12900.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,1024,93,Excellent,Good,Fair,0,0,0,0,183885.0,104100.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,87,Poor,Excellent,Good,0,1,0,0,25116.18,15100.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,256,79,Good,Good,Good,0,1,0,0,62146.25,29700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,12,256,98,Good,Excellent,Excellent,1,1,1,1,26973.96,24400.0
+Laptop,HP,Spectre x360,2023,16,1024,84,Good,Excellent,Fair,1,0,0,0,172498.85,63600.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2021,2,16,77,Good,Good,Good,0,1,1,0,37085.72,11800.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,94,Fair,Excellent,Good,0,0,1,1,75248.93,53600.0
+Tablet,Samsung,Galaxy Tab S9,2024,12,256,82,Good,Good,Fair,1,1,1,0,75736.46,35200.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,74,Good,Fair,Good,0,0,0,0,25116.18,6100.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,256,82,Good,Excellent,Poor,0,1,0,0,103646.25,25500.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,16,512,65,Fair,Excellent,Good,0,0,0,0,88042.5,31000.0
+Laptop,Apple,"MacBook Air M2 13""",2024,8,256,91,Excellent,Fair,Good,0,0,0,0,103646.25,60400.0
+Smartphone,Apple,iPhone 15,2021,6,128,79,Poor,Fair,Excellent,1,0,0,0,81398.12,40100.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,8,256,81,Poor,Excellent,Good,0,1,0,0,84971.25,54600.0
+Laptop,Dell,XPS 15 (9530),2022,16,1024,75,Good,Good,Good,1,0,0,0,218488.5,83300.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,97,Good,Excellent,Excellent,1,0,0,0,166738.5,107800.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,92,Good,Good,Poor,1,0,0,1,75248.93,30900.0
+Laptop,Apple,"MacBook Air M2 13""",2020,16,512,65,Good,Good,Fair,1,1,1,0,107392.5,27700.0
+Tablet,Xiaomi,Pad 6,2020,6,128,78,Excellent,Excellent,Good,1,0,1,0,27505.23,7400.0
+Smartphone,Apple,iPhone 13,2025,4,256,99,Good,Excellent,Excellent,1,1,1,0,62146.25,58500.0
+Tablet,Xiaomi,Pad 6,2020,6,128,65,Fair,Fair,Good,0,1,0,0,27505.23,6700.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,256,80,Poor,Good,Good,1,1,1,0,41498.96,14400.0
+Smartphone,Samsung,Galaxy S23,2021,8,256,77,Good,Good,Fair,0,0,0,0,77811.46,18500.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,64,92,Excellent,Good,Excellent,1,0,1,0,60461.56,52400.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,512,91,Poor,Good,Good,0,0,0,0,171892.5,105100.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,256,82,Good,Good,Fair,0,0,0,0,62146.25,27000.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,87,Fair,Good,Excellent,1,1,0,0,37085.72,20800.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,86,Good,Good,Good,1,1,0,0,75248.93,28600.0
+Laptop,Apple,"MacBook Air M2 13""",2022,8,512,81,Poor,Good,Fair,1,0,0,0,107392.5,40800.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,12,128,86,Good,Good,Excellent,0,1,1,0,26486.48,15600.0
+Laptop,Dell,XPS 15 (9530),2023,32,512,88,Good,Fair,Good,1,1,0,0,204239.25,98200.0
+Smartphone,Google,Pixel 8 Pro,2021,12,512,77,Good,Good,Good,0,1,0,0,115023.92,36100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,1024,91,Poor,Good,Fair,1,1,1,0,201238.5,92000.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,256,82,Excellent,Good,Fair,0,1,0,0,103646.25,40600.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,96,Good,Excellent,Excellent,0,1,0,0,75248.93,62300.0
+Laptop,Apple,"MacBook Air M2 13""",2025,16,256,99,Excellent,Fair,Excellent,0,1,0,0,103646.25,88900.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,8,256,82,Good,Good,Fair,1,0,0,0,84971.25,32500.0
+Laptop,Dell,Inspiron 15,2022,8,512,84,Good,Good,Fair,1,0,1,0,63414.25,20700.0
+Smartphone,Apple,iPhone 14,2024,6,256,93,Excellent,Good,Excellent,0,0,1,0,72521.25,57200.0
+Smartphone,Google,Pixel 8 Pro,2022,12,512,81,Fair,Fair,Good,0,1,1,0,115023.92,45300.0
+Smartphone,Apple,iPhone 13,2024,4,128,91,Excellent,Excellent,Excellent,0,1,0,0,61023.12,45300.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,92,Excellent,Excellent,Excellent,0,1,1,1,75248.93,64800.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,512,93,Excellent,Excellent,Excellent,1,0,0,0,188114.25,158900.0
+Tablet,Samsung,Galaxy Tab S9,2024,12,128,83,Good,Excellent,Good,1,1,1,0,74367.73,45000.0
+Laptop,HP,Spectre x360,2022,16,512,73,Good,Good,Poor,1,0,0,0,161248.92,31300.0
+Laptop,Dell,Inspiron 15,2021,16,512,67,Poor,Good,Good,0,0,1,0,63414.25,17900.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,24,1024,84,Poor,Good,Fair,0,1,0,0,195385.0,64800.0
+Smartphone,Google,Pixel 7a,2025,8,128,88,Good,Excellent,Excellent,1,1,0,1,44823.98,39200.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,512,77,Good,Good,Good,1,1,1,0,107392.5,59200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,95,Good,Good,Excellent,1,1,1,0,37085.72,26400.0
+Smartphone,Google,Pixel 7a,2023,8,128,80,Good,Excellent,Fair,1,0,1,0,44823.98,17700.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,65,Poor,Good,Excellent,1,1,1,0,67436.46,18300.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,88,Excellent,Good,Good,1,1,0,0,62146.25,40900.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,70,Good,Excellent,Poor,1,0,0,0,166738.5,21000.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,64,84,Good,Excellent,Good,1,0,0,0,60461.56,30700.0
+Tablet,Xiaomi,Pad 6,2022,6,128,78,Good,Fair,Good,0,1,0,0,27505.23,10400.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,256,66,Excellent,Fair,Fair,0,0,0,0,62146.25,19200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,8,256,74,Poor,Good,Fair,1,0,1,0,26973.96,6900.0
+Laptop,HP,Pavilion 15,2024,16,512,92,Excellent,Good,Good,1,1,1,0,69873.93,41200.0
+Laptop,HP,Spectre x360,2024,16,1024,89,Excellent,Excellent,Good,0,0,0,0,172498.85,100700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,512,97,Fair,Fair,Good,1,1,1,0,166623.92,126300.0
+Smartphone,Apple,iPhone 13,2021,4,256,68,Poor,Good,Fair,1,1,0,0,62146.25,19400.0
+Smartphone,Apple,iPhone 14,2025,6,128,96,Excellent,Good,Good,0,0,0,0,71210.62,56500.0
+Smartphone,Samsung,Galaxy S23,2024,8,256,84,Good,Excellent,Excellent,0,0,1,0,77811.46,53500.0
+Smartphone,OnePlus,OnePlus 12,2024,16,512,84,Fair,Good,Fair,1,0,1,0,69873.93,33800.0
+Laptop,Apple,"MacBook Air M2 13""",2022,8,512,82,Poor,Good,Fair,0,1,0,0,107392.5,41900.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,256,88,Excellent,Excellent,Good,1,0,1,0,139958.75,89300.0
+Laptop,Dell,XPS 15 (9530),2022,16,1024,71,Excellent,Good,Fair,0,1,0,0,218488.5,67500.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,128,73,Excellent,Good,Poor,1,1,0,0,40748.98,8400.0
+Tablet,Samsung,Galaxy Tab S9,2020,8,256,73,Good,Fair,Good,1,1,1,0,75736.46,21000.0
+Smartphone,Apple,iPhone 13,2023,4,128,85,Poor,Good,Fair,1,0,0,0,61023.12,26000.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,256,89,Good,Good,Fair,1,1,1,0,139958.75,74700.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,256,93,Good,Good,Good,1,0,1,0,165896.25,113200.0
+Laptop,Dell,Inspiron 15,2021,8,512,83,Excellent,Fair,Excellent,1,0,1,0,63414.25,25300.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,256,68,Good,Excellent,Good,0,1,1,0,41498.96,12100.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,70,Fair,Good,Good,0,1,0,0,166738.5,40800.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,256,65,Poor,Good,Fair,1,1,0,0,26973.96,5100.0
+Laptop,HP,Pavilion 15,2021,16,512,70,Excellent,Excellent,Good,1,1,1,0,69873.93,22900.0
+Smartphone,Google,Pixel 7a,2022,8,128,81,Good,Good,Good,0,0,0,0,44823.98,16000.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,81,Fair,Good,Good,0,0,0,0,75248.93,29000.0
+Laptop,HP,Pavilion 15,2022,8,512,70,Fair,Good,Good,0,0,0,0,69873.93,24600.0
+Laptop,HP,Pavilion 15,2024,16,512,90,Good,Excellent,Excellent,0,1,0,0,69873.93,50100.0
+Laptop,HP,Spectre x360,2025,16,512,93,Good,Excellent,Good,0,0,1,0,161248.92,117000.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,512,90,Excellent,Good,Excellent,0,1,1,0,107392.5,83300.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,74,Good,Good,Good,0,0,1,0,77811.46,34700.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,512,85,Excellent,Fair,Fair,0,1,0,0,107392.5,42000.0
+Smartphone,Apple,iPhone 13,2021,4,256,81,Poor,Fair,Excellent,0,0,1,0,62146.25,29400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,512,90,Good,Excellent,Good,0,1,1,0,166623.92,99300.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,99,Excellent,Good,Excellent,1,0,1,1,149498.85,132800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,77,Fair,Good,Poor,1,1,1,0,25116.18,3400.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,12,256,66,Good,Good,Good,0,0,0,0,26973.96,7900.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,90,Good,Good,Excellent,0,1,0,0,111011.46,73000.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,80,Fair,Good,Good,1,1,1,0,77811.46,32500.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,24,512,83,Good,Good,Good,0,0,0,0,182642.5,99300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,82,Good,Fair,Fair,1,0,0,0,166623.92,55400.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,128,97,Excellent,Fair,Excellent,0,1,0,1,137429.38,131400.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,77,Excellent,Excellent,Good,1,0,0,0,90742.81,37700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,8,128,65,Excellent,Fair,Excellent,1,1,0,0,26486.48,7900.0
+Laptop,Dell,Inspiron 15,2021,16,512,75,Good,Good,Good,1,1,0,0,63414.25,21200.0
+Smartphone,Apple,iPhone 13,2023,4,128,91,Good,Good,Fair,1,0,1,0,61023.12,28700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,512,78,Excellent,Good,Poor,0,0,0,0,88042.5,18300.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,90,Fair,Excellent,Excellent,0,1,1,0,37085.72,25000.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,86,Excellent,Good,Good,1,1,0,0,77811.46,30500.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,87,Excellent,Excellent,Excellent,1,0,0,0,75736.46,49300.0
+Laptop,Apple,"MacBook Air M2 13""",2025,16,512,97,Excellent,Fair,Good,1,0,0,1,107392.5,82600.0
+Smartphone,Google,Pixel 7a,2025,8,128,95,Good,Excellent,Fair,0,1,0,0,44823.98,25800.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,65,Excellent,Good,Good,0,1,0,0,76405.23,18800.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,77,Excellent,Good,Good,0,0,1,0,75248.93,29100.0
+Laptop,Asus,ROG Zephyrus G14,2023,16,1024,84,Excellent,Fair,Fair,1,1,0,0,166738.5,61400.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,79,Good,Fair,Good,1,0,0,0,67436.46,17700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,80,Good,Poor,Fair,1,0,1,0,25116.18,5400.0
+Smartphone,Apple,iPhone 15,2024,6,256,85,Good,Good,Poor,0,0,1,0,82896.25,28800.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,66,Good,Poor,Poor,0,1,0,0,166738.5,25900.0
+Tablet,Xiaomi,Pad 6,2021,8,128,73,Good,Good,Poor,1,0,0,0,27505.23,4400.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,256,92,Fair,Excellent,Good,0,1,0,0,62146.25,40300.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,91,Good,Poor,Excellent,0,0,1,0,75248.93,42800.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,83,Good,Poor,Good,1,1,1,0,75248.93,29600.0
+Tablet,Xiaomi,Pad 6,2024,6,128,95,Good,Excellent,Good,1,1,0,0,27505.23,15500.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,256,69,Good,Good,Fair,1,1,0,0,134873.96,41400.0
+Smartphone,Google,Pixel 8 Pro,2024,12,128,92,Good,Fair,Fair,0,1,0,0,109005.23,50800.0
+Laptop,HP,Spectre x360,2024,16,512,94,Good,Good,Excellent,1,0,1,0,161248.92,114300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,16,128,78,Good,Good,Fair,0,0,0,0,83435.62,33900.0
+Tablet,Xiaomi,Pad 6,2025,6,256,95,Excellent,Good,Excellent,1,1,1,0,28011.46,24700.0
+Smartphone,Apple,iPhone 13,2022,4,128,73,Good,Excellent,Fair,0,1,0,0,61023.12,21100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,1024,75,Fair,Good,Fair,0,0,0,0,201238.5,49400.0
+Tablet,Xiaomi,Pad 6,2021,8,256,68,Poor,Fair,Fair,1,1,1,0,28011.46,6500.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,79,Good,Good,Excellent,0,1,1,0,67436.46,38600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,128,92,Excellent,Good,Excellent,1,1,1,0,26486.48,23800.0
+Laptop,Asus,ROG Zephyrus G14,2024,32,1024,82,Fair,Fair,Good,0,0,0,0,166738.5,92300.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,66,Poor,Poor,Good,1,0,1,0,139958.75,42900.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,16,1024,95,Excellent,Excellent,Good,1,1,1,0,195385.0,143500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2023,12,256,93,Poor,Poor,Good,1,0,1,0,160811.46,80300.0
+Laptop,Apple,"MacBook Air M2 13""",2020,8,512,65,Good,Fair,Fair,1,0,1,0,107392.5,26900.0
+Smartphone,Google,Pixel 8 Pro,2020,12,256,81,Good,Good,Good,1,0,1,0,111011.46,29000.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,256,65,Fair,Excellent,Fair,1,1,1,0,62146.25,18100.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,79,Fair,Good,Fair,1,0,0,0,166623.92,42800.0
+Tablet,Xiaomi,Pad 6,2020,6,256,70,Fair,Poor,Poor,1,1,1,0,28011.46,3800.0
+Smartphone,Apple,iPhone 13,2024,4,128,83,Good,Excellent,Fair,0,0,1,0,61023.12,30900.0
+Tablet,Xiaomi,Pad 6,2021,8,128,75,Excellent,Poor,Fair,1,0,0,0,27505.23,6500.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,68,Excellent,Fair,Good,0,0,0,0,75248.93,21800.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,256,90,Excellent,Excellent,Good,0,0,1,0,62146.25,32800.0
+Laptop,HP,Pavilion 15,2021,8,512,78,Excellent,Good,Poor,1,0,0,0,69873.93,11400.0
+Smartphone,Apple,iPhone 13,2023,4,256,82,Fair,Good,Good,1,0,0,0,62146.25,34100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,256,90,Excellent,Excellent,Excellent,1,1,1,0,134873.96,93100.0
+Laptop,HP,Spectre x360,2020,16,512,75,Poor,Fair,Good,0,0,1,0,161248.92,39300.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,69,Excellent,Excellent,Good,1,1,0,0,37085.72,14000.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,83,Fair,Excellent,Good,1,1,1,0,139958.75,83600.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,1024,73,Fair,Good,Fair,0,1,0,0,201238.5,51200.0
+Laptop,HP,Spectre x360,2024,16,1024,87,Fair,Excellent,Excellent,1,0,0,0,172498.85,120700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,75,Fair,Excellent,Good,1,0,1,0,25116.18,7600.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,64,90,Excellent,Excellent,Good,1,1,1,0,60461.56,39600.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,77,Excellent,Fair,Good,0,1,0,0,166738.5,52600.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,71,Good,Fair,Good,0,0,1,0,76405.23,21300.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,89,Good,Poor,Fair,0,1,0,0,90742.81,38000.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,82,Good,Good,Good,0,1,0,0,171892.5,69600.0
+Smartphone,OnePlus,OnePlus 12,2020,12,512,69,Good,Good,Good,1,0,0,0,69873.93,16800.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,87,Good,Good,Good,1,1,0,0,75248.93,36500.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,98,Good,Excellent,Excellent,1,1,0,0,62146.25,53800.0
+Tablet,Xiaomi,Pad 6,2025,6,128,93,Good,Good,Excellent,0,0,1,0,27505.23,22800.0
+Smartphone,Samsung,Galaxy S23,2025,8,128,95,Good,Good,Fair,0,1,0,0,76405.23,42300.0
+Laptop,HP,Pavilion 15,2022,8,512,83,Good,Good,Good,1,1,1,0,69873.93,29300.0
+Laptop,HP,Spectre x360,2023,16,512,81,Excellent,Fair,Poor,0,1,1,0,161248.92,42800.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,64,84,Poor,Fair,Good,0,1,1,0,60461.56,31400.0
+Smartphone,Google,Pixel 8 Pro,2020,12,512,77,Poor,Good,Fair,0,0,1,0,115023.92,24700.0
+Laptop,Asus,ROG Zephyrus G14,2021,16,1024,69,Good,Good,Good,1,0,0,0,166738.5,49000.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,89,Excellent,Excellent,Good,1,1,1,0,25116.18,15200.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,68,Good,Fair,Excellent,1,1,1,0,60461.56,28200.0
+Smartphone,Google,Pixel 7a,2021,8,128,71,Good,Excellent,Good,1,0,1,0,44823.98,13500.0
+Smartphone,Apple,iPhone 15,2020,6,128,77,Good,Good,Fair,0,0,1,0,81398.12,22600.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,89,Fair,Poor,Good,1,1,0,0,42292.81,23000.0
+Smartphone,OnePlus,OnePlus 11R,2020,16,256,65,Good,Fair,Poor,1,0,0,0,41498.96,5400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,95,Excellent,Fair,Excellent,1,1,1,0,25116.18,17000.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,82,Poor,Good,Good,1,1,1,0,111011.46,45800.0
+Laptop,HP,Pavilion 15,2023,16,512,77,Good,Good,Good,0,1,1,0,69873.93,32600.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,128,97,Excellent,Good,Excellent,1,1,1,0,74367.73,61600.0
+Tablet,Xiaomi,Pad 6,2024,6,256,92,Excellent,Excellent,Poor,0,0,0,0,28011.46,8600.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,87,Good,Good,Fair,0,1,1,0,166738.5,54800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,1024,86,Good,Excellent,Good,1,1,0,0,149498.85,92100.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,81,Excellent,Good,Good,1,1,0,0,37085.72,15300.0
+Smartphone,Apple,iPhone 13,2022,4,128,83,Good,Fair,Good,1,0,1,0,61023.12,29600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,128,80,Poor,Fair,Good,1,1,1,0,26486.48,12800.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,128,65,Poor,Fair,Poor,0,0,1,0,137429.38,23700.0
+Laptop,Dell,Inspiron 15,2021,16,512,69,Excellent,Good,Good,1,1,1,0,63414.25,20300.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,16,512,97,Good,Good,Good,1,1,1,0,88042.5,70600.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,256,91,Good,Excellent,Excellent,1,0,0,0,75736.46,63100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,512,76,Fair,Good,Good,1,0,1,0,139748.92,54500.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,83,Good,Fair,Good,1,1,1,0,90742.81,52500.0
+Smartphone,Google,Pixel 7a,2022,8,128,84,Excellent,Fair,Fair,1,0,1,0,44823.98,14200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,67,Fair,Good,Good,0,1,0,0,90742.81,35600.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,64,76,Poor,Excellent,Good,1,1,1,0,60461.56,20500.0
+Laptop,HP,Spectre x360,2023,16,512,85,Poor,Poor,Good,1,1,0,0,161248.92,80000.0
+Tablet,Samsung,Galaxy Tab S9,2020,12,256,66,Poor,Poor,Good,1,1,1,0,75736.46,18600.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,92,Good,Fair,Excellent,1,0,0,0,42292.81,31400.0
+Laptop,Apple,"MacBook Air M2 13""",2025,16,512,97,Good,Excellent,Good,1,0,0,0,107392.5,79900.0
+Smartphone,Apple,iPhone 13,2022,4,128,79,Good,Excellent,Fair,0,1,1,0,61023.12,21800.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,66,Fair,Poor,Good,1,1,1,0,75248.93,17800.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,16,1024,85,Poor,Good,Fair,0,1,0,0,195385.0,77400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,1024,71,Excellent,Fair,Fair,1,1,0,0,201238.5,50600.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,128,73,Good,Fair,Good,1,0,1,0,74367.73,23600.0
+Laptop,Asus,ROG Zephyrus G14,2022,32,1024,74,Good,Good,Fair,1,0,1,0,166738.5,55100.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,8,256,90,Good,Poor,Fair,0,0,1,1,26973.96,16500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,256,86,Fair,Fair,Excellent,1,0,1,0,160811.46,108400.0
+Smartphone,Samsung,Galaxy S23,2024,8,256,92,Good,Good,Good,1,0,1,0,77811.46,46800.0
+Tablet,Xiaomi,Pad 6,2024,8,256,100,Good,Excellent,Poor,0,0,0,0,28011.46,8600.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,88,Poor,Excellent,Excellent,0,1,0,0,42292.81,31700.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,1024,92,Excellent,Fair,Fair,1,0,1,0,183885.0,89200.0
+Tablet,Samsung,Galaxy Tab S9,2024,12,256,91,Poor,Good,Good,0,1,0,0,75736.46,43500.0
+Tablet,Samsung,Galaxy Tab S9,2025,12,128,94,Good,Good,Fair,1,0,0,1,74367.73,43400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,80,Excellent,Excellent,Poor,0,0,1,0,37085.72,7200.0
+Laptop,Dell,Inspiron 15,2024,8,512,86,Excellent,Good,Good,0,0,0,0,63414.25,36000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,16,512,67,Poor,Fair,Fair,0,0,1,0,188114.25,35300.0
+Smartphone,OnePlus,OnePlus 12,2023,12,512,84,Good,Fair,Good,1,1,1,0,69873.93,36700.0
+Laptop,Apple,"MacBook Air M2 13""",2020,8,256,65,Good,Poor,Poor,1,0,1,0,103646.25,17400.0
+Smartphone,Apple,iPhone 15,2021,6,512,65,Excellent,Excellent,Poor,1,0,1,0,85892.5,18200.0
+Smartphone,OnePlus,OnePlus 11R,2020,8,256,70,Poor,Poor,Good,0,1,1,0,41498.96,9600.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,64,99,Excellent,Excellent,Good,0,1,0,0,60461.56,45300.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,87,Fair,Good,Good,0,1,1,0,166738.5,62700.0
+Laptop,HP,Spectre x360,2020,16,1024,66,Good,Good,Excellent,1,1,1,0,172498.85,49600.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,95,Good,Fair,Good,0,1,1,1,25116.18,20600.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,90,Fair,Poor,Good,0,1,0,0,166738.5,98800.0
+Laptop,Apple,"MacBook Air M2 13""",2020,16,512,69,Good,Good,Good,1,0,1,0,107392.5,36100.0
+Smartphone,Apple,iPhone 13,2024,4,256,94,Excellent,Good,Excellent,0,1,0,0,62146.25,45300.0
+Laptop,Apple,"MacBook Air M2 13""",2023,8,256,78,Excellent,Fair,Poor,1,0,1,0,103646.25,30300.0
+Smartphone,Apple,iPhone 14,2024,6,256,83,Fair,Good,Excellent,0,1,0,0,72521.25,55900.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Excellent,Good,Good,0,1,0,0,90742.81,29800.0
+Tablet,Xiaomi,Pad 6,2025,8,256,95,Fair,Good,Excellent,0,1,1,0,28011.46,24400.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,90,Excellent,Good,Excellent,1,0,0,0,75736.46,51000.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,1024,78,Excellent,Fair,Good,1,1,1,0,183885.0,100000.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,82,Excellent,Good,Good,0,1,1,0,111011.46,64700.0
+Smartphone,Apple,iPhone 13,2020,4,256,65,Good,Fair,Fair,0,0,1,0,62146.25,15200.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,128,93,Poor,Good,Good,1,0,1,0,40748.98,30600.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,88,Good,Excellent,Good,0,0,0,0,25116.18,14600.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,128,97,Excellent,Excellent,Good,0,0,1,1,74367.73,55300.0
+Smartphone,Google,Pixel 8 Pro,2025,12,256,94,Excellent,Excellent,Good,1,0,1,0,111011.46,78200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,82,Excellent,Excellent,Good,0,1,0,0,37085.72,17100.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,80,Excellent,Fair,Good,0,1,1,0,90742.81,43400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,16,1024,82,Poor,Good,Good,1,0,0,0,201238.5,104100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,256,92,Poor,Good,Excellent,0,0,1,1,134873.96,123400.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,79,Poor,Good,Good,0,0,0,0,75248.93,27800.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,1024,76,Good,Good,Excellent,0,0,1,0,183885.0,97900.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,512,98,Excellent,Fair,Fair,0,0,1,1,171892.5,102500.0
+Smartphone,Samsung,Galaxy S23,2022,8,128,77,Excellent,Good,Good,1,0,0,0,76405.23,29800.0
+Smartphone,Samsung,Galaxy S23,2025,8,128,94,Good,Poor,Good,1,1,0,0,76405.23,54500.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Fair,Excellent,Fair,1,1,0,0,90742.81,24800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,512,93,Good,Good,Good,1,0,1,0,139748.92,82600.0
+Smartphone,OnePlus,OnePlus 12,2021,16,256,65,Good,Excellent,Good,0,0,0,0,67436.46,18800.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,512,90,Fair,Excellent,Excellent,0,0,0,0,145017.5,102600.0
+Laptop,Dell,Inspiron 15,2022,16,512,72,Good,Excellent,Fair,1,1,0,0,63414.25,20100.0
+Smartphone,Google,Pixel 8 Pro,2020,12,128,65,Good,Fair,Good,1,1,1,0,109005.23,27000.0
+Smartphone,Apple,iPhone 13,2022,4,256,87,Good,Fair,Excellent,1,1,0,0,62146.25,35400.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,256,86,Poor,Poor,Good,1,0,0,0,41498.96,19800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,95,Poor,Good,Fair,0,0,1,1,37085.72,21800.0
+Laptop,Dell,XPS 15 (9530),2025,16,512,96,Excellent,Excellent,Excellent,1,1,0,1,204239.25,174600.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,512,65,Good,Good,Good,0,1,1,0,145017.5,46000.0
+Tablet,Samsung,Galaxy Tab S9,2024,12,256,87,Excellent,Good,Excellent,0,0,0,0,75736.46,50000.0
+Laptop,Apple,"MacBook Air M2 13""",2021,8,512,69,Good,Fair,Fair,0,0,1,0,107392.5,31800.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,256,68,Good,Excellent,Excellent,1,1,0,0,62146.25,24800.0
+Tablet,Xiaomi,Pad 6,2020,6,128,73,Fair,Fair,Good,1,1,0,0,27505.23,7300.0
+Tablet,Xiaomi,Pad 6,2025,8,128,93,Excellent,Excellent,Fair,1,1,0,0,27505.23,15800.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,77,Good,Good,Good,1,1,0,0,67436.46,32600.0
+Smartphone,OnePlus,OnePlus 12,2024,16,512,92,Fair,Good,Good,1,1,1,0,69873.93,44200.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,8,512,70,Poor,Fair,Fair,1,0,0,0,182642.5,45700.0
+Smartphone,Apple,iPhone 13,2021,4,128,78,Good,Fair,Excellent,1,1,1,0,61023.12,27400.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,256,91,Good,Fair,Good,0,0,1,0,139958.75,84900.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2024,16,512,90,Good,Fair,Fair,1,1,1,0,88042.5,48700.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,85,Excellent,Excellent,Good,1,1,1,0,67436.46,31200.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,1024,98,Good,Excellent,Good,1,0,0,0,183885.0,113500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,512,90,Excellent,Good,Poor,0,1,1,0,188114.25,57500.0
+Smartphone,Apple,iPhone 13,2025,4,128,97,Good,Good,Excellent,0,0,0,1,61023.12,56700.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,512,96,Fair,Excellent,Excellent,1,0,1,0,145017.5,132000.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,66,Good,Good,Good,1,1,1,0,166738.5,48800.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,24,1024,92,Excellent,Good,Excellent,0,1,0,0,195385.0,143200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,79,Good,Fair,Fair,0,0,0,0,90742.81,29300.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,67,Good,Fair,Fair,1,1,0,0,42292.81,12600.0
+Smartphone,Apple,iPhone 14,2021,6,256,73,Good,Poor,Good,1,1,0,0,72521.25,29400.0
+Smartphone,Apple,iPhone 15,2021,6,128,68,Good,Good,Good,0,0,1,0,81398.12,29800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,96,Good,Excellent,Good,0,1,0,0,139748.92,101200.0
+Smartphone,OnePlus,OnePlus 12,2021,12,256,70,Excellent,Good,Excellent,0,0,0,0,67436.46,23100.0
+Smartphone,Google,Pixel 7a,2024,8,128,88,Excellent,Good,Poor,1,1,0,0,44823.98,14400.0
+Laptop,Apple,"MacBook Air M2 13""",2022,8,256,80,Excellent,Fair,Excellent,1,1,1,0,103646.25,59800.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,1024,76,Good,Good,Excellent,1,1,0,0,183885.0,90500.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,8,512,91,Good,Excellent,Good,1,0,0,0,182642.5,106200.0
+Smartphone,Apple,iPhone 14,2023,6,128,78,Good,Poor,Fair,0,0,0,0,71210.62,32800.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,68,Good,Good,Good,0,0,0,0,76405.23,18200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,16,512,80,Poor,Fair,Good,1,0,1,0,88042.5,44200.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,78,Excellent,Good,Good,1,0,1,0,42292.81,23500.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,91,Excellent,Excellent,Fair,1,1,0,0,139958.75,66300.0
+Laptop,HP,Spectre x360,2020,16,1024,65,Good,Fair,Good,1,0,1,0,172498.85,41800.0
+Smartphone,Google,Pixel 8 Pro,2025,12,512,96,Good,Fair,Good,0,0,0,0,115023.92,79400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,72,Fair,Fair,Good,1,0,0,0,188114.25,57500.0
+Smartphone,Apple,iPhone 14,2023,6,128,89,Good,Good,Good,0,0,1,0,71210.62,39600.0
+Smartphone,Samsung,Galaxy S23,2024,8,128,94,Excellent,Good,Fair,1,1,1,0,76405.23,37000.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,8,1024,89,Good,Good,Fair,0,1,1,0,195385.0,104000.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,69,Fair,Good,Excellent,0,1,1,0,166623.92,60100.0
+Laptop,Dell,Inspiron 15,2022,16,512,79,Poor,Good,Poor,1,0,0,0,63414.25,13300.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,8,512,65,Good,Excellent,Good,1,1,0,0,182642.5,59100.0
+Laptop,HP,Spectre x360,2024,16,1024,90,Good,Good,Fair,0,1,0,0,172498.85,76300.0
+Laptop,Dell,Inspiron 15,2025,8,512,84,Good,Good,Fair,0,1,0,1,63414.25,35800.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,8,256,65,Poor,Fair,Excellent,1,0,0,0,84971.25,31900.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,100,Fair,Good,Good,0,1,0,1,166738.5,131800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,85,Good,Excellent,Fair,0,1,1,0,37085.72,17300.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,8,512,89,Good,Excellent,Fair,0,0,1,0,182642.5,94500.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,512,89,Good,Poor,Excellent,0,0,1,0,171892.5,126000.0
+Tablet,Samsung,Galaxy Tab S9,2023,12,128,89,Poor,Excellent,Excellent,1,0,1,0,74367.73,41900.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,71,Good,Good,Excellent,0,0,1,0,42292.81,16400.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,81,Good,Fair,Good,0,0,1,0,75248.93,23700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,82,Fair,Good,Excellent,1,1,0,0,90742.81,50900.0
+Laptop,HP,Pavilion 15,2023,8,512,83,Good,Good,Excellent,1,1,0,0,69873.93,39900.0
+Laptop,HP,Pavilion 15,2025,8,512,94,Good,Fair,Good,0,0,0,0,69873.93,50500.0
+Laptop,HP,Spectre x360,2022,16,512,81,Excellent,Fair,Fair,1,1,0,0,161248.92,53100.0
+Smartphone,Google,Pixel 7a,2025,8,128,98,Good,Excellent,Good,0,1,0,0,44823.98,32700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,68,Good,Excellent,Excellent,0,1,0,0,160811.46,47200.0
+Laptop,Dell,XPS 15 (9530),2020,32,512,70,Fair,Fair,Poor,0,0,0,0,204239.25,26600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,256,92,Good,Good,Good,0,0,1,0,26973.96,12900.0
+Laptop,HP,Spectre x360,2022,16,1024,73,Good,Good,Fair,0,0,0,0,172498.85,52400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,91,Excellent,Excellent,Excellent,0,1,1,1,37085.72,34200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,16,128,81,Good,Poor,Fair,0,0,0,0,83435.62,27200.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,93,Poor,Excellent,Excellent,0,0,1,0,75248.93,51500.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,256,86,Good,Good,Good,1,1,0,0,165896.25,92900.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,8,1024,87,Fair,Good,Poor,1,1,1,0,195385.0,55400.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,512,83,Good,Good,Good,0,1,0,0,145017.5,66000.0
+Laptop,Dell,Inspiron 15,2022,16,512,73,Fair,Fair,Excellent,1,0,0,0,63414.25,27600.0
+Smartphone,Google,Pixel 7a,2020,8,128,65,Fair,Good,Good,1,1,1,0,44823.98,11100.0
+Smartphone,Apple,iPhone 14,2021,6,128,68,Fair,Fair,Good,0,1,0,0,71210.62,26500.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,16,512,68,Good,Good,Good,0,1,1,0,182642.5,66400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,91,Good,Poor,Excellent,1,0,0,1,37085.72,32300.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,512,71,Poor,Good,Good,1,0,1,0,145017.5,55200.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,512,65,Poor,Fair,Good,0,1,0,0,145017.5,46600.0
+Smartphone,OnePlus,OnePlus 12,2022,16,512,85,Poor,Fair,Fair,0,1,0,0,69873.93,22200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,8,128,94,Excellent,Good,Good,1,0,0,0,83435.62,58300.0
+Tablet,Xiaomi,Pad 6,2025,8,128,91,Good,Fair,Good,1,0,0,1,27505.23,22700.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,67,Poor,Fair,Good,1,0,1,0,67436.46,15100.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,87,Excellent,Excellent,Good,0,1,0,0,37085.72,21500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2021,2,32,72,Poor,Good,Good,1,1,1,0,25116.18,7900.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,71,Good,Excellent,Good,1,0,0,0,165896.25,63700.0
+Smartphone,Apple,iPhone 14,2022,6,128,82,Fair,Poor,Excellent,0,0,1,0,71210.62,39900.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,16,512,87,Excellent,Good,Good,0,0,1,0,188114.25,84300.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,128,99,Excellent,Excellent,Good,0,0,0,0,137429.38,101200.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,65,Good,Good,Poor,1,1,0,0,42292.81,7200.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,65,Poor,Excellent,Poor,0,0,1,0,25116.18,2900.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,73,Good,Good,Fair,0,1,0,0,75248.93,15200.0
+Laptop,Dell,Inspiron 15,2023,16,512,83,Good,Good,Good,1,0,0,0,63414.25,29000.0
+Tablet,Xiaomi,Pad 6,2020,6,256,69,Excellent,Good,Good,0,1,1,0,28011.46,6800.0
+Smartphone,Apple,iPhone 13,2021,4,128,72,Poor,Good,Good,1,0,1,0,61023.12,21500.0
+Smartphone,OnePlus,OnePlus 11R,2024,8,128,91,Excellent,Excellent,Good,1,0,0,0,40748.98,24000.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,16,512,90,Excellent,Good,Excellent,1,0,1,0,182642.5,163000.0
+Smartphone,Apple,iPhone 13,2021,4,256,76,Excellent,Excellent,Good,0,0,0,0,62146.25,23600.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,89,Excellent,Good,Fair,1,1,1,0,25116.18,12600.0
+Smartphone,Apple,iPhone 13,2020,4,256,68,Good,Poor,Excellent,0,0,0,0,62146.25,23200.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,128,66,Good,Poor,Poor,0,0,1,0,137429.38,28500.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,256,91,Excellent,Good,Excellent,1,1,0,0,139958.75,105300.0
+Smartphone,Apple,iPhone 15,2022,6,512,90,Fair,Fair,Poor,1,1,1,0,85892.5,22900.0
+Laptop,HP,Spectre x360,2024,16,512,86,Good,Excellent,Poor,0,1,1,0,161248.92,51200.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,64,87,Excellent,Good,Excellent,0,1,1,0,60461.56,39400.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,256,87,Excellent,Good,Good,0,0,1,0,103646.25,69500.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,71,Fair,Excellent,Excellent,1,0,1,0,90742.81,43000.0
+Tablet,Xiaomi,Pad 6,2021,8,128,66,Excellent,Good,Good,0,1,1,0,27505.23,8000.0
+Smartphone,Apple,iPhone 15,2021,6,256,66,Good,Poor,Good,1,0,1,0,82896.25,29200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,8,256,67,Good,Good,Good,0,0,1,0,26973.96,9800.0
+Laptop,Dell,Inspiron 15,2022,16,512,68,Poor,Good,Poor,1,1,0,0,63414.25,13100.0
+Smartphone,Google,Pixel 8 Pro,2023,12,256,78,Good,Excellent,Good,0,1,1,0,111011.46,51300.0
+Laptop,HP,Spectre x360,2024,16,512,98,Excellent,Good,Excellent,0,1,1,0,161248.92,108900.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,65,Fair,Fair,Good,1,0,0,0,37085.72,8800.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,16,512,88,Fair,Good,Excellent,1,0,0,0,88042.5,56000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,512,68,Poor,Fair,Good,0,1,1,0,88042.5,32300.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,1024,78,Good,Poor,Fair,0,0,0,0,149498.85,30900.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,65,Fair,Good,Fair,1,0,0,0,139958.75,35300.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,512,94,Poor,Good,Excellent,0,1,1,1,188114.25,169200.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,68,Fair,Fair,Good,1,1,0,0,171892.5,63800.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,512,90,Excellent,Good,Poor,1,0,0,1,188114.25,71300.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,75,Excellent,Excellent,Poor,0,1,1,0,139958.75,26000.0
+Laptop,Dell,Inspiron 15,2023,16,512,87,Good,Fair,Poor,1,1,1,0,63414.25,15400.0
+Laptop,HP,Spectre x360,2024,16,1024,94,Excellent,Good,Excellent,1,0,0,0,172498.85,117600.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,256,98,Excellent,Excellent,Poor,0,1,0,1,165896.25,69500.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,24,1024,69,Fair,Good,Good,1,0,0,0,195385.0,70800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Good,Fair,Poor,0,1,1,0,90742.81,15300.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,32,1024,83,Good,Fair,Good,1,0,0,0,201238.5,63900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,92,Fair,Excellent,Fair,0,0,1,0,25116.18,11600.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,75,Fair,Good,Excellent,0,1,1,0,75248.93,27300.0
+Smartphone,OnePlus,OnePlus 12,2020,16,512,69,Fair,Fair,Excellent,1,1,1,0,69873.93,21800.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,65,Poor,Good,Excellent,1,0,1,0,76405.23,20800.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,90,Good,Good,Good,0,0,0,0,166738.5,80000.0
+Smartphone,Samsung,Galaxy S24 Ultra,2024,12,512,88,Fair,Good,Good,1,1,0,0,139748.92,78400.0
+Laptop,HP,Pavilion 15,2021,8,512,67,Excellent,Excellent,Good,1,1,0,0,69873.93,22700.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,256,70,Fair,Good,Fair,1,1,0,0,134873.96,31900.0
+Smartphone,Apple,iPhone 15,2023,6,256,76,Poor,Fair,Poor,1,0,0,0,82896.25,22400.0
+Laptop,HP,Spectre x360,2025,16,512,95,Excellent,Excellent,Excellent,1,1,1,1,161248.92,146800.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,16,256,78,Fair,Excellent,Good,1,1,0,0,84971.25,42600.0
+Smartphone,Google,Pixel 8 Pro,2022,12,256,89,Fair,Good,Excellent,0,0,0,0,111011.46,50300.0
+Smartphone,Google,Pixel 7a,2024,8,128,90,Excellent,Good,Excellent,0,1,0,0,44823.98,31000.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,128,74,Excellent,Good,Poor,0,1,0,0,40748.98,6600.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,97,Excellent,Excellent,Good,0,0,0,0,75248.93,40400.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,68,Good,Good,Excellent,0,1,0,0,42292.81,14800.0
+Laptop,HP,Spectre x360,2022,16,1024,73,Fair,Fair,Poor,1,1,0,0,172498.85,35200.0
+Smartphone,Google,Pixel 7a,2025,8,128,95,Excellent,Good,Fair,1,1,0,1,44823.98,28000.0
+Smartphone,OnePlus,OnePlus 12,2025,12,512,97,Good,Excellent,Good,1,1,1,0,69873.93,49900.0
+Laptop,HP,Pavilion 15,2021,8,512,70,Fair,Good,Fair,0,0,1,0,69873.93,15400.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,72,Poor,Poor,Good,1,0,1,0,76405.23,23400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,70,Fair,Good,Excellent,0,0,1,0,166623.92,59000.0
+Smartphone,Google,Pixel 7a,2023,8,128,77,Good,Fair,Fair,0,0,0,0,44823.98,17000.0
+Smartphone,Samsung,Galaxy S23,2023,8,128,79,Poor,Good,Good,0,1,0,0,76405.23,36700.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,75,Excellent,Good,Fair,0,1,0,0,76405.23,15700.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,1024,80,Fair,Good,Good,1,1,0,0,149498.85,48200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,74,Good,Poor,Good,0,1,0,0,90742.81,31900.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,67,Good,Fair,Good,1,0,0,0,188114.25,53500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Fair,Excellent,Good,0,1,1,0,160811.46,38300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,69,Good,Good,Good,0,1,0,0,25116.18,9300.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,71,Good,Fair,Excellent,1,1,0,0,37085.72,15600.0
+Tablet,Xiaomi,Pad 6,2021,8,128,65,Fair,Good,Good,1,0,1,0,27505.23,8100.0
+Smartphone,Apple,iPhone 14,2025,6,128,97,Excellent,Good,Excellent,1,1,0,0,71210.62,62300.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,16,512,65,Excellent,Good,Fair,0,1,1,0,188114.25,36200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,8,256,65,Fair,Good,Poor,1,0,1,0,26973.96,4100.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,72,Fair,Good,Good,1,1,0,0,25116.18,6200.0
+Tablet,Xiaomi,Pad 6,2021,6,256,72,Fair,Good,Poor,1,1,1,0,28011.46,4600.0
+Smartphone,Apple,iPhone 13,2025,4,128,97,Excellent,Fair,Excellent,1,0,1,1,61023.12,55800.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,512,71,Excellent,Poor,Excellent,1,1,0,0,166623.92,49000.0
+Laptop,HP,Pavilion 15,2024,16,512,88,Excellent,Excellent,Excellent,0,1,0,0,69873.93,46900.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,512,98,Good,Good,Fair,0,0,0,0,188114.25,100700.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,86,Fair,Good,Good,1,1,1,0,77811.46,34400.0
+Tablet,Samsung,Galaxy Tab S9,2021,12,256,82,Fair,Fair,Good,1,1,0,0,75736.46,24700.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,65,Fair,Poor,Good,1,0,1,0,75248.93,20300.0
+Smartphone,Apple,iPhone 15,2020,6,512,71,Good,Good,Excellent,0,1,0,0,85892.5,32000.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,256,81,Good,Excellent,Good,0,0,1,0,75736.46,23700.0
+Laptop,HP,Spectre x360,2023,16,1024,88,Good,Good,Excellent,1,1,0,0,172498.85,92800.0
+Smartphone,Apple,iPhone 15,2022,6,512,78,Good,Excellent,Good,1,0,1,0,85892.5,39500.0
+Laptop,HP,Spectre x360,2024,16,1024,89,Fair,Excellent,Fair,1,0,1,0,172498.85,80700.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,85,Excellent,Excellent,Good,1,1,0,0,166738.5,99200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,88,Good,Excellent,Poor,0,0,0,0,37085.72,11300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,256,70,Good,Good,Good,0,0,0,0,160811.46,48900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,84,Good,Poor,Good,0,1,1,0,166623.92,56100.0
+Smartphone,Apple,iPhone 14,2021,6,128,85,Good,Good,Fair,0,0,0,0,71210.62,23400.0
+Laptop,Apple,"MacBook Air M2 13""",2020,8,256,79,Good,Fair,Good,0,0,0,0,103646.25,35100.0
+Laptop,HP,Spectre x360,2022,16,1024,78,Good,Fair,Good,1,0,0,0,172498.85,69000.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,256,75,Fair,Poor,Excellent,0,1,0,0,139958.75,62400.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,8,512,92,Excellent,Excellent,Excellent,0,0,1,1,182642.5,174800.0
+Smartphone,Google,Pixel 7a,2021,8,128,68,Good,Excellent,Good,0,0,0,0,44823.98,13100.0
+Laptop,HP,Pavilion 15,2022,16,512,77,Good,Poor,Good,0,1,0,0,69873.93,27100.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,16,128,71,Fair,Good,Good,0,0,0,0,83435.62,38100.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,256,82,Good,Excellent,Fair,1,0,0,0,41498.96,15700.0
+Smartphone,Apple,iPhone 13,2024,4,128,83,Fair,Excellent,Good,1,1,1,0,61023.12,40000.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,256,67,Good,Poor,Excellent,0,1,0,0,165896.25,63900.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,32,1024,74,Good,Excellent,Excellent,0,0,0,0,201238.5,84100.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,89,Good,Excellent,Excellent,1,1,1,0,75248.93,63400.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,85,Good,Good,Excellent,1,0,1,0,111011.46,78800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,74,Good,Good,Fair,1,1,0,0,25116.18,7600.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,256,73,Excellent,Good,Fair,0,0,0,0,139958.75,44500.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,512,73,Good,Good,Good,0,1,1,0,139748.92,43500.0
+Laptop,Dell,Inspiron 15,2024,16,512,84,Fair,Good,Excellent,0,0,0,0,63414.25,44000.0
+Smartphone,Apple,iPhone 15,2021,6,256,65,Good,Fair,Excellent,0,1,1,0,82896.25,38400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,512,83,Poor,Good,Poor,1,1,1,0,139748.92,37000.0
+Laptop,HP,Pavilion 15,2021,8,512,80,Good,Excellent,Excellent,1,1,1,0,69873.93,28400.0
+Smartphone,OnePlus,OnePlus 12,2023,16,512,87,Good,Poor,Good,1,0,0,0,69873.93,31800.0
+Smartphone,Apple,iPhone 13,2022,4,256,82,Good,Excellent,Fair,1,1,0,0,62146.25,23500.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,81,Excellent,Good,Fair,0,1,1,0,42292.81,15100.0
+Smartphone,Apple,iPhone 15,2021,6,512,65,Good,Good,Excellent,0,0,0,0,85892.5,35600.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,88,Good,Fair,Good,1,0,1,0,62146.25,47100.0
+Smartphone,Google,Pixel 7a,2021,8,128,67,Poor,Good,Good,0,1,0,0,44823.98,13100.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,90,Good,Good,Fair,0,1,1,1,75248.93,45800.0
+Smartphone,Apple,iPhone 13,2020,4,128,73,Good,Fair,Good,0,1,1,0,61023.12,20900.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,8,1024,78,Good,Good,Good,0,0,1,0,195385.0,83900.0
+Laptop,HP,Pavilion 15,2023,16,512,91,Fair,Good,Poor,0,1,1,0,69873.93,19200.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,77,Fair,Good,Good,0,1,1,0,171892.5,71300.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,65,Excellent,Good,Poor,0,0,1,0,60461.56,12100.0
+Smartphone,OnePlus,OnePlus 12,2021,16,256,79,Fair,Excellent,Fair,0,1,0,0,67436.46,17900.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,256,84,Fair,Good,Poor,0,1,0,0,103646.25,29700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,76,Good,Poor,Good,0,1,1,0,25116.18,10000.0
+Tablet,Xiaomi,Pad 6,2025,6,128,94,Excellent,Excellent,Good,0,1,1,1,27505.23,20600.0
+Laptop,HP,Spectre x360,2025,16,1024,91,Good,Excellent,Good,0,1,0,1,172498.85,132700.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,71,Good,Excellent,Fair,1,1,1,0,139958.75,39700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,16,512,79,Excellent,Fair,Poor,1,1,1,0,188114.25,39300.0
+Smartwatch,Apple,Apple Watch Series 9,2022,1,64,68,Good,Good,Excellent,0,0,0,0,42292.81,21100.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,65,Excellent,Good,Good,0,1,1,0,75248.93,18400.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,128,89,Good,Fair,Good,0,0,0,0,137429.38,84600.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,256,94,Excellent,Good,Excellent,0,1,1,1,41498.96,37500.0
+Smartphone,Samsung,Galaxy S23,2022,8,128,78,Good,Poor,Good,0,0,1,0,76405.23,29600.0
+Smartphone,Apple,iPhone 15,2023,6,512,88,Fair,Good,Good,1,1,1,0,85892.5,46700.0
+Smartphone,Apple,iPhone 14,2021,6,128,66,Good,Excellent,Fair,1,0,1,0,71210.62,21300.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,256,73,Excellent,Fair,Good,0,1,1,0,62146.25,24800.0
+Laptop,Dell,Inspiron 15,2024,8,512,93,Good,Good,Good,1,1,0,0,63414.25,36500.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,86,Good,Poor,Good,0,1,1,0,75248.93,35500.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,95,Good,Fair,Good,0,1,0,0,42292.81,32000.0
+Smartphone,Apple,iPhone 14,2024,6,256,90,Excellent,Good,Excellent,1,1,1,0,72521.25,56500.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,8,128,86,Excellent,Good,Excellent,1,0,0,1,83435.62,77100.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,93,Fair,Good,Fair,1,0,1,0,75248.93,29700.0
+Tablet,Samsung,Galaxy Tab S9,2023,8,128,84,Fair,Good,Poor,0,1,0,0,74367.73,18700.0
+Smartphone,Google,Pixel 7a,2025,8,128,99,Excellent,Excellent,Excellent,0,0,1,0,44823.98,37200.0
+Laptop,HP,Spectre x360,2022,16,512,78,Poor,Good,Good,1,0,0,0,161248.92,64700.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,1024,99,Excellent,Good,Excellent,0,0,0,1,201238.5,184100.0
+Tablet,Samsung,Galaxy Tab S9,2023,12,256,94,Fair,Good,Good,0,0,0,0,75736.46,35500.0
+Smartphone,OnePlus,OnePlus 12,2024,12,256,88,Excellent,Good,Good,0,1,0,0,67436.46,38800.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,256,72,Fair,Good,Good,0,1,0,0,62146.25,27700.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,256,76,Good,Poor,Good,1,1,0,0,134873.96,42900.0
+Laptop,Dell,Inspiron 15,2024,16,512,92,Good,Fair,Good,1,0,0,0,63414.25,38600.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,256,74,Poor,Good,Good,1,0,0,0,41498.96,15300.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,72,Good,Good,Fair,0,1,1,0,25116.18,4800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2022,2,32,84,Poor,Fair,Fair,0,0,0,0,25116.18,8100.0
+Laptop,HP,Spectre x360,2025,16,1024,91,Fair,Fair,Excellent,1,1,1,0,172498.85,143900.0
+Smartphone,Google,Pixel 7a,2021,8,128,75,Fair,Poor,Good,0,0,0,0,44823.98,14700.0
+Laptop,Asus,ROG Zephyrus G14,2024,32,1024,81,Fair,Excellent,Excellent,1,1,0,0,166738.5,121900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,92,Poor,Excellent,Good,1,0,1,0,25116.18,11900.0
+Smartphone,Samsung,Galaxy S23,2020,8,256,71,Good,Fair,Good,0,1,0,0,77811.46,20600.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,71,Excellent,Good,Excellent,0,1,1,0,109005.23,40700.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,256,96,Fair,Fair,Excellent,0,1,1,0,134873.96,116300.0
+Laptop,Apple,"MacBook Air M2 13""",2022,8,512,76,Good,Fair,Good,0,1,1,0,107392.5,49900.0
+Laptop,HP,Spectre x360,2025,16,512,97,Excellent,Good,Excellent,0,0,1,0,161248.92,141400.0
+Smartphone,Apple,iPhone 15,2020,6,256,66,Good,Good,Good,0,0,1,0,82896.25,25400.0
+Tablet,Samsung,Galaxy Tab S9,2022,12,128,73,Poor,Good,Fair,0,1,0,0,74367.73,23700.0
+Laptop,HP,Spectre x360,2021,16,1024,80,Good,Good,Excellent,1,1,1,0,172498.85,64800.0
+Smartphone,Apple,iPhone 14,2020,6,256,65,Good,Fair,Fair,1,0,1,0,72521.25,18700.0
+Laptop,Dell,XPS 15 (9530),2024,32,512,93,Excellent,Fair,Good,0,1,0,0,204239.25,114500.0
+Laptop,Asus,ROG Zephyrus G14,2021,16,1024,79,Good,Good,Fair,1,0,1,0,166738.5,41800.0
+Smartphone,Apple,iPhone 14,2023,6,256,83,Excellent,Good,Good,0,1,0,0,72521.25,41000.0
+Laptop,HP,Spectre x360,2021,16,1024,75,Poor,Fair,Good,0,0,0,0,172498.85,53900.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,512,72,Good,Good,Good,1,0,1,0,145017.5,48300.0
+Smartphone,Apple,iPhone 14,2025,6,256,96,Excellent,Fair,Excellent,0,0,0,0,72521.25,61600.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,512,72,Good,Excellent,Excellent,1,1,1,0,139748.92,61300.0
+Smartphone,Apple,iPhone 15,2024,6,512,85,Good,Excellent,Good,1,0,1,0,85892.5,55200.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,32,512,87,Poor,Poor,Good,1,0,1,0,188114.25,95000.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2024,12,128,87,Excellent,Excellent,Excellent,0,0,1,0,26486.48,18000.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,128,82,Fair,Good,Excellent,1,1,1,0,74367.73,52900.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,16,512,78,Good,Fair,Good,0,1,0,0,182642.5,84200.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,97,Excellent,Good,Excellent,1,1,1,1,62146.25,58000.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,1024,70,Good,Excellent,Fair,0,1,1,0,183885.0,56500.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,512,65,Poor,Good,Good,0,1,0,0,88042.5,27400.0
+Smartphone,Apple,iPhone 15,2024,6,512,87,Excellent,Good,Fair,0,1,1,0,85892.5,45800.0
+Smartphone,Google,Pixel 7a,2025,8,128,95,Good,Poor,Fair,1,0,0,0,44823.98,26200.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,93,Good,Excellent,Good,1,1,0,0,166738.5,123600.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,256,93,Good,Fair,Good,0,0,0,1,160811.46,118700.0
+Smartphone,Google,Pixel 8 Pro,2021,12,256,71,Fair,Good,Excellent,1,1,0,0,111011.46,40900.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,85,Excellent,Excellent,Fair,1,1,1,0,111011.46,52400.0
+Laptop,Asus,ROG Zephyrus G14,2023,16,1024,80,Good,Poor,Good,1,0,0,0,166738.5,79800.0
+Laptop,Asus,ROG Zephyrus G14,2020,32,1024,65,Poor,Good,Fair,1,0,0,0,166738.5,30800.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,86,Good,Good,Excellent,0,0,0,0,75248.93,50500.0
+Smartphone,Apple,iPhone 14,2024,6,256,82,Excellent,Excellent,Excellent,0,1,1,0,72521.25,56600.0
+Tablet,Samsung,Galaxy Tab S9,2025,12,256,96,Good,Good,Excellent,1,0,1,0,75736.46,64700.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,24,1024,91,Good,Fair,Good,1,1,1,0,195385.0,134200.0
+Laptop,HP,Pavilion 15,2022,8,512,86,Good,Excellent,Poor,1,0,0,0,69873.93,13600.0
+Tablet,Xiaomi,Pad 6,2022,6,128,88,Excellent,Excellent,Good,0,0,0,0,27505.23,10000.0
+Smartphone,Apple,iPhone 13,2022,4,256,89,Fair,Good,Fair,1,1,0,0,62146.25,24500.0
+Smartphone,Google,Pixel 7a,2020,8,128,65,Poor,Excellent,Poor,0,0,1,0,44823.98,5400.0
+Laptop,HP,Spectre x360,2025,16,512,94,Excellent,Excellent,Good,0,0,1,1,161248.92,130700.0
+Smartphone,OnePlus,OnePlus 11R,2025,8,256,94,Fair,Excellent,Excellent,1,0,0,0,41498.96,35900.0
+Smartphone,Apple,iPhone 14,2020,6,128,70,Good,Poor,Fair,1,1,1,0,71210.62,19800.0
+Laptop,HP,Pavilion 15,2023,16,512,78,Good,Poor,Good,1,1,0,0,69873.93,33900.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,16,1024,76,Good,Excellent,Poor,0,1,0,0,195385.0,35300.0
+Smartphone,Apple,iPhone 15,2025,6,128,95,Excellent,Excellent,Good,0,1,0,0,81398.12,61600.0
+Smartphone,Apple,iPhone 13,2020,4,128,65,Good,Good,Fair,1,0,1,0,61023.12,16700.0
+Laptop,HP,Spectre x360,2023,16,512,78,Poor,Excellent,Good,1,0,0,0,161248.92,76600.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,83,Good,Good,Good,1,1,1,0,90742.81,44300.0
+Laptop,HP,Spectre x360,2025,16,1024,94,Good,Excellent,Excellent,1,0,0,0,172498.85,138800.0
+Smartphone,Apple,iPhone 14,2023,6,128,82,Good,Poor,Good,1,0,0,0,71210.62,37700.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,71,Good,Poor,Fair,1,1,0,0,42292.81,11500.0
+Laptop,Dell,Inspiron 15,2025,16,512,91,Good,Fair,Good,0,1,1,0,63414.25,45400.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,88,Excellent,Fair,Good,1,1,1,0,75248.93,46500.0
+Laptop,Apple,"MacBook Air M2 13""",2020,16,256,72,Fair,Poor,Fair,1,0,1,0,103646.25,28100.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,77,Poor,Good,Good,1,1,0,0,42292.81,17900.0
+Smartphone,Google,Pixel 8 Pro,2021,12,256,81,Good,Fair,Poor,1,1,0,0,111011.46,18900.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2021,2,16,69,Good,Fair,Good,0,0,1,0,37085.72,10900.0
+Laptop,HP,Spectre x360,2020,16,512,65,Excellent,Excellent,Poor,1,1,1,0,161248.92,20300.0
+Smartphone,Xiaomi,Xiaomi 14,2021,12,512,71,Fair,Poor,Fair,0,1,0,0,75248.93,18800.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,512,92,Good,Good,Fair,0,0,1,0,171892.5,85500.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,128,90,Excellent,Excellent,Good,1,1,0,0,137429.38,89200.0
+Smartphone,Apple,iPhone 15,2020,6,512,70,Good,Good,Good,0,1,1,0,85892.5,27400.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,70,Excellent,Good,Good,0,0,0,0,76405.23,18800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,88,Poor,Fair,Excellent,1,1,1,0,90742.81,61100.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,92,Poor,Excellent,Excellent,1,0,1,0,25116.18,17200.0
+Laptop,Apple,"MacBook Air M2 13""",2021,16,512,75,Good,Good,Poor,1,0,0,0,107392.5,21700.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,512,79,Good,Good,Poor,1,0,1,0,171892.5,33200.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,16,1024,76,Poor,Excellent,Good,1,1,1,0,201238.5,84700.0
+Smartphone,OnePlus,OnePlus 12,2020,16,512,79,Excellent,Excellent,Excellent,1,1,1,0,69873.93,22700.0
+Laptop,HP,Spectre x360,2022,16,512,91,Fair,Excellent,Poor,0,0,0,0,161248.92,33300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2023,12,512,84,Excellent,Good,Good,1,0,0,0,166623.92,79200.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,92,Good,Poor,Good,0,0,1,0,42292.81,27900.0
+Smartphone,OnePlus,OnePlus 12,2024,12,512,96,Excellent,Excellent,Good,1,1,0,0,69873.93,44300.0
+Laptop,Asus,ROG Zephyrus G14,2023,16,1024,73,Good,Good,Fair,0,1,1,0,166738.5,61300.0
+Smartphone,OnePlus,OnePlus 12,2023,12,512,75,Fair,Good,Good,1,1,1,0,69873.93,34200.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2020,16,1024,79,Good,Good,Good,0,1,1,0,201238.5,53300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,76,Good,Good,Fair,1,1,1,0,166623.92,44500.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,86,Excellent,Poor,Good,0,0,1,0,111011.46,66100.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,128,92,Good,Good,Good,1,0,1,0,74367.73,53700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,512,84,Good,Good,Excellent,0,1,0,0,166623.92,114200.0
+Smartphone,Xiaomi,Xiaomi 14,2022,12,512,77,Good,Poor,Good,0,1,0,0,75248.93,26000.0
+Smartphone,Apple,iPhone 15,2020,6,128,74,Good,Excellent,Fair,1,0,1,0,81398.12,22600.0
+Smartphone,Apple,iPhone 14,2020,6,128,79,Good,Fair,Excellent,1,1,1,0,71210.62,30800.0
+Tablet,Xiaomi,Pad 6,2020,8,128,77,Excellent,Fair,Excellent,1,0,0,0,27505.23,8200.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,512,85,Fair,Poor,Good,1,0,1,0,145017.5,88100.0
+Laptop,HP,Spectre x360,2024,16,1024,90,Excellent,Good,Excellent,1,0,1,0,172498.85,120500.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,8,128,75,Good,Excellent,Fair,1,0,1,0,83435.62,35400.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,8,256,65,Excellent,Fair,Fair,1,1,1,0,84971.25,22200.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,85,Good,Good,Good,0,1,1,0,166738.5,82200.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,1024,65,Poor,Good,Good,1,1,0,0,149498.85,34800.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,77,Excellent,Good,Poor,0,0,0,0,166738.5,27600.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,87,Good,Good,Fair,1,1,0,0,90742.81,41100.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2022,8,128,87,Excellent,Excellent,Good,0,1,1,0,83435.62,41100.0
+Smartphone,Samsung,Galaxy S23,2025,8,128,94,Excellent,Good,Excellent,1,1,1,0,76405.23,70100.0
+Laptop,Dell,Inspiron 15,2021,16,512,81,Fair,Excellent,Good,1,0,1,0,63414.25,21000.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,128,69,Fair,Poor,Fair,0,0,1,0,137429.38,49800.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,256,80,Poor,Good,Fair,0,0,0,0,160811.46,50300.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,84,Excellent,Excellent,Poor,0,0,1,0,75736.46,22800.0
+Smartphone,Apple,iPhone 13,2023,4,256,87,Good,Good,Good,0,0,0,0,62146.25,34100.0
+Smartphone,Apple,iPhone 13,2025,4,128,91,Excellent,Good,Excellent,0,0,0,0,61023.12,52800.0
+Tablet,Samsung,Galaxy Tab S9,2021,12,256,83,Excellent,Good,Good,1,0,0,0,75736.46,24500.0
+Tablet,Xiaomi,Pad 6,2024,8,256,86,Excellent,Good,Good,0,1,1,0,28011.46,15900.0
+Tablet,Samsung,Galaxy Tab S9,2022,8,256,76,Good,Good,Good,1,1,1,0,75736.46,28800.0
+Smartphone,Google,Pixel 8 Pro,2025,12,256,100,Good,Excellent,Excellent,1,0,0,0,111011.46,92000.0
+Smartphone,OnePlus,OnePlus 12,2023,12,256,81,Excellent,Fair,Good,1,0,1,0,67436.46,33300.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,256,81,Good,Good,Poor,0,1,0,0,62146.25,18400.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,83,Excellent,Good,Good,0,1,0,0,37085.72,21500.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,256,97,Good,Good,Good,0,0,0,0,165896.25,115000.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,256,70,Good,Good,Excellent,0,0,0,0,75736.46,25200.0
+Smartphone,Google,Pixel 7a,2023,8,128,75,Fair,Good,Good,1,0,1,0,44823.98,20200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2023,1,64,83,Fair,Good,Good,1,1,0,0,90742.81,53600.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,84,Fair,Good,Good,0,1,0,0,42292.81,23200.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,76,Excellent,Good,Poor,1,1,1,0,67436.46,9200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,97,Excellent,Excellent,Fair,0,1,1,0,37085.72,17700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,128,85,Poor,Good,Good,1,0,1,0,26486.48,12800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,73,Good,Poor,Fair,0,1,1,0,37085.72,7700.0
+Smartwatch,Apple,Apple Watch Ultra 2,2024,1,64,83,Excellent,Excellent,Fair,1,0,0,0,90742.81,48100.0
+Smartphone,OnePlus,OnePlus 12,2022,12,256,70,Fair,Good,Good,1,1,0,0,67436.46,23400.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,256,78,Good,Good,Excellent,1,0,0,0,84971.25,41800.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,256,92,Fair,Good,Excellent,0,0,1,0,139958.75,124500.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,78,Excellent,Fair,Good,0,0,1,0,67436.46,31600.0
+Smartphone,Samsung,Galaxy S24 Ultra,2020,12,1024,68,Good,Excellent,Fair,1,1,0,0,149498.85,28800.0
+Tablet,Samsung,Galaxy Tab S9,2024,12,128,92,Excellent,Fair,Excellent,0,1,1,0,74367.73,54100.0
+Smartphone,Samsung,Galaxy S23,2021,8,128,79,Fair,Good,Good,1,1,1,0,76405.23,25400.0
+Smartphone,Google,Pixel 8 Pro,2025,12,256,99,Fair,Fair,Good,0,1,1,1,111011.46,85900.0
+Smartphone,Samsung,Galaxy S23,2021,8,256,77,Good,Good,Excellent,1,1,1,0,77811.46,30700.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,72,Good,Good,Good,1,1,1,0,42292.81,14200.0
+Smartphone,Apple,iPhone 13,2023,4,256,84,Good,Poor,Good,0,1,0,0,62146.25,34400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2023,16,512,87,Good,Excellent,Excellent,1,1,0,0,188114.25,107700.0
+Smartphone,Google,Pixel 7a,2021,8,128,67,Fair,Good,Good,0,0,0,0,44823.98,12600.0
+Smartphone,Apple,iPhone 14,2024,6,128,85,Good,Excellent,Excellent,0,0,1,0,71210.62,54500.0
+Smartphone,OnePlus,OnePlus 12,2021,12,256,74,Good,Good,Poor,0,1,1,0,67436.46,11400.0
+Smartphone,Apple,iPhone 14,2021,6,256,76,Good,Fair,Good,0,0,1,0,72521.25,29200.0
+Smartphone,Google,Pixel 7a,2021,8,128,65,Fair,Fair,Fair,1,1,1,0,44823.98,10700.0
+Smartphone,OnePlus,OnePlus 11R,2020,16,256,66,Good,Good,Good,1,0,0,0,41498.96,9400.0
+Smartphone,Apple,iPhone 14,2021,6,128,75,Good,Poor,Poor,0,0,1,0,71210.62,14000.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,95,Excellent,Good,Good,0,0,1,1,42292.81,32600.0
+Smartphone,Google,Pixel 7a,2025,8,128,93,Excellent,Excellent,Good,1,0,1,1,44823.98,33700.0
+Laptop,Dell,Inspiron 15,2025,8,512,96,Poor,Good,Good,0,1,0,1,63414.25,47000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,16,512,68,Good,Good,Good,1,0,0,0,188114.25,56900.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,256,82,Fair,Excellent,Poor,0,0,1,0,134873.96,22800.0
+Smartphone,Samsung,Galaxy S24 Ultra,2022,12,512,79,Fair,Excellent,Excellent,1,1,0,0,139748.92,65400.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,128,80,Good,Poor,Poor,1,0,1,0,74367.73,12700.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,81,Fair,Good,Excellent,1,0,0,0,25116.18,14500.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,75,Good,Good,Excellent,1,1,0,0,90742.81,49200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,256,85,Poor,Good,Good,0,1,1,0,26973.96,12500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,32,1024,94,Excellent,Excellent,Excellent,0,1,1,0,201238.5,172100.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,89,Fair,Excellent,Good,1,0,0,1,139748.92,104600.0
+Laptop,HP,Pavilion 15,2023,8,512,75,Good,Excellent,Excellent,1,0,1,0,69873.93,38900.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,1024,83,Good,Good,Good,0,1,1,0,149498.85,50700.0
+Smartphone,OnePlus,OnePlus 12,2022,16,512,71,Good,Poor,Good,1,0,0,0,69873.93,25700.0
+Tablet,Samsung,Galaxy Tab S9,2023,12,128,83,Fair,Good,Excellent,0,0,1,0,74367.73,43000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,16,512,87,Good,Fair,Fair,1,1,0,0,188114.25,89400.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,64,70,Fair,Good,Excellent,1,0,0,0,60461.56,30100.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,256,94,Poor,Good,Good,0,1,0,1,139958.75,107300.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,91,Good,Fair,Excellent,0,1,0,0,75248.93,47700.0
+Tablet,Samsung,Galaxy Tab S9,2024,8,256,90,Excellent,Good,Excellent,0,1,1,0,75736.46,50800.0
+Smartphone,Apple,iPhone 13,2025,4,256,96,Excellent,Good,Good,0,1,0,1,62146.25,48800.0
+Smartphone,Google,Pixel 7a,2020,8,128,76,Poor,Good,Good,1,1,1,0,44823.98,12000.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,97,Fair,Good,Good,1,1,1,0,75248.93,53300.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,12,256,66,Good,Good,Fair,0,1,0,0,26973.96,4900.0
+Laptop,Apple,"MacBook Air M2 13""",2021,8,512,78,Poor,Good,Fair,0,0,1,0,107392.5,32700.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,256,65,Excellent,Good,Excellent,0,0,1,0,62146.25,22100.0
+Laptop,Dell,Inspiron 15,2020,16,512,72,Good,Good,Fair,1,0,1,0,63414.25,13600.0
+Tablet,Xiaomi,Pad 6,2025,6,128,95,Good,Good,Good,0,1,1,0,27505.23,18400.0
+Smartphone,Apple,iPhone 15,2020,6,512,68,Good,Good,Good,1,1,1,0,85892.5,27800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,85,Good,Fair,Excellent,0,0,1,0,37085.72,17000.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,88,Poor,Good,Excellent,0,1,0,0,75248.93,51300.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,99,Good,Good,Good,0,0,1,0,166738.5,113500.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,32,1024,100,Fair,Good,Good,1,1,0,0,201238.5,152800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2022,2,16,90,Excellent,Good,Excellent,1,0,0,0,37085.72,16700.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,128,81,Poor,Poor,Fair,0,1,0,0,137429.38,44600.0
+Smartphone,Apple,iPhone 13,2024,4,256,93,Good,Good,Excellent,1,1,0,0,62146.25,46800.0
+Smartphone,Apple,iPhone 13,2025,4,128,93,Excellent,Fair,Good,1,0,1,1,61023.12,48300.0
+Tablet,Xiaomi,Pad 6,2023,8,256,84,Good,Excellent,Fair,1,1,0,0,28011.46,10800.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,83,Fair,Good,Fair,0,1,1,0,77811.46,24000.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,1024,93,Good,Excellent,Excellent,0,1,1,1,149498.85,128400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,80,Fair,Poor,Good,1,1,0,0,166623.92,54100.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,32,512,65,Fair,Fair,Excellent,1,0,0,0,188114.25,65700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,512,86,Good,Excellent,Good,1,1,0,0,166623.92,93000.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,70,Good,Good,Good,0,0,1,0,42292.81,13200.0
+Smartphone,Samsung,Galaxy S23,2023,8,128,86,Poor,Good,Fair,1,1,0,0,76405.23,30500.0
+Laptop,HP,Spectre x360,2025,16,1024,93,Good,Excellent,Excellent,1,0,1,1,172498.85,156200.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,65,Good,Good,Good,1,1,1,0,75248.93,18100.0
+Smartphone,Google,Pixel 8 Pro,2024,12,256,88,Fair,Good,Excellent,0,1,1,0,111011.46,74400.0
+Smartphone,OnePlus,OnePlus 12,2024,12,256,88,Excellent,Excellent,Fair,1,1,1,0,67436.46,30300.0
+Smartphone,Apple,iPhone 13,2020,4,128,81,Fair,Good,Fair,0,1,1,0,61023.12,17600.0
+Tablet,Xiaomi,Pad 6,2020,8,128,65,Excellent,Good,Good,0,0,1,0,27505.23,6200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,65,Good,Good,Fair,1,0,1,0,37085.72,7000.0
+Smartphone,Google,Pixel 8 Pro,2024,12,128,90,Good,Good,Good,1,0,0,0,109005.23,64900.0
+Smartphone,Apple,iPhone 13,2023,4,256,84,Good,Poor,Fair,0,0,0,0,62146.25,26600.0
+Smartphone,Apple,iPhone 14,2023,6,256,88,Fair,Fair,Fair,1,0,1,0,72521.25,29900.0
+Tablet,Xiaomi,Pad 6,2022,8,256,85,Good,Fair,Excellent,0,0,1,0,28011.46,13100.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,512,83,Good,Good,Poor,1,1,1,0,171892.5,51400.0
+Smartphone,Apple,iPhone 13,2024,4,128,89,Excellent,Excellent,Excellent,0,0,0,0,61023.12,45200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2024,1,64,89,Good,Good,Excellent,1,1,0,0,90742.81,67000.0
+Smartphone,Apple,iPhone 15,2023,6,512,89,Good,Excellent,Excellent,0,1,0,0,85892.5,57200.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,512,66,Good,Good,Good,1,0,1,0,88042.5,32600.0
+Smartphone,Google,Pixel 7a,2025,8,128,99,Excellent,Fair,Good,0,0,1,1,44823.98,35000.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,93,Excellent,Fair,Excellent,1,0,0,0,25116.18,21000.0
+Smartphone,Apple,iPhone 14,2021,6,128,72,Fair,Excellent,Good,1,0,0,0,71210.62,26200.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,128,76,Poor,Fair,Good,1,0,1,0,74367.73,23100.0
+Smartphone,Apple,iPhone 13,2021,4,256,67,Fair,Fair,Good,1,1,1,0,62146.25,25700.0
+Smartphone,Google,Pixel 8 Pro,2021,12,128,84,Poor,Good,Good,1,0,0,0,109005.23,38400.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,128,96,Good,Good,Good,0,1,1,0,137429.38,88800.0
+Smartphone,Apple,iPhone 15,2021,6,512,67,Good,Good,Good,0,1,0,0,85892.5,32200.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Fair,Poor,Good,1,1,0,0,160811.46,39300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2023,12,256,83,Fair,Poor,Good,1,1,1,0,160811.46,83900.0
+Smartphone,Apple,iPhone 15,2022,6,128,84,Good,Good,Good,0,0,0,0,81398.12,38700.0
+Smartphone,Apple,iPhone 13,2021,4,128,76,Good,Excellent,Excellent,0,1,0,0,61023.12,27500.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,512,81,Good,Excellent,Poor,1,0,1,0,171892.5,50800.0
+Smartphone,Apple,iPhone 15 Pro,2021,8,256,75,Poor,Excellent,Fair,0,0,1,0,139958.75,43900.0
+Laptop,HP,Pavilion 15,2021,8,512,65,Fair,Fair,Excellent,1,0,1,0,69873.93,22600.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,512,70,Good,Good,Good,1,1,1,0,171892.5,64800.0
+Smartphone,Xiaomi,Xiaomi 14,2024,12,512,86,Excellent,Fair,Poor,0,0,0,0,75248.93,22900.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,72,Good,Good,Good,1,1,1,0,67436.46,15800.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,16,1024,74,Good,Good,Fair,0,1,1,0,201238.5,61000.0
+Laptop,HP,Pavilion 15,2020,16,512,66,Excellent,Poor,Good,0,1,0,0,69873.93,16600.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,87,Excellent,Good,Fair,0,1,1,0,42292.81,22200.0
+Smartphone,Samsung,Galaxy S23,2022,8,128,81,Excellent,Good,Good,1,0,0,0,76405.23,30100.0
+Tablet,Xiaomi,Pad 6,2023,6,256,85,Good,Good,Good,1,1,0,0,28011.46,13500.0
+Smartphone,OnePlus,OnePlus 11R,2020,16,256,68,Excellent,Fair,Good,0,1,0,0,41498.96,9900.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,64,90,Good,Excellent,Good,0,0,1,0,60461.56,39500.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2020,12,256,68,Good,Fair,Fair,0,0,1,0,26973.96,5300.0
+Smartphone,Google,Pixel 7a,2021,8,128,70,Fair,Excellent,Fair,0,1,1,0,44823.98,10900.0
+Tablet,Xiaomi,Pad 6,2021,6,128,79,Poor,Excellent,Good,0,1,1,0,27505.23,9200.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,90,Fair,Fair,Good,0,0,1,0,77811.46,28600.0
+Smartphone,OnePlus,OnePlus 12,2023,12,512,76,Good,Good,Good,1,1,1,0,69873.93,32300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,256,92,Excellent,Good,Good,1,0,0,0,160811.46,93700.0
+Smartphone,Apple,iPhone 13,2023,4,256,79,Excellent,Fair,Poor,0,0,1,0,62146.25,17500.0
+Smartphone,Google,Pixel 8 Pro,2022,12,512,79,Good,Fair,Good,1,1,1,0,115023.92,48600.0
+Smartphone,Apple,iPhone 14,2025,6,128,95,Excellent,Good,Excellent,0,1,1,0,71210.62,57200.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,16,1024,84,Poor,Poor,Good,0,0,0,0,195385.0,80700.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,75,Fair,Good,Excellent,0,1,0,0,165896.25,77700.0
+Smartphone,Apple,iPhone 15,2023,6,512,80,Good,Fair,Poor,0,0,0,0,85892.5,24900.0
+Laptop,Dell,XPS 15 (9530),2023,16,1024,80,Good,Good,Fair,1,1,0,0,218488.5,90100.0
+Smartphone,Samsung,Galaxy S23,2022,8,256,72,Good,Good,Good,1,1,1,0,77811.46,28900.0
+Laptop,HP,Spectre x360,2024,16,1024,87,Excellent,Good,Good,0,0,1,0,172498.85,107800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,68,Excellent,Good,Good,0,0,1,0,90742.81,32500.0
+Smartphone,Apple,iPhone 13,2025,4,128,92,Excellent,Fair,Fair,1,0,0,0,61023.12,33900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Poor,Poor,Fair,1,1,0,0,160811.46,32000.0
+Laptop,Apple,"MacBook Air M2 13""",2025,16,256,93,Good,Fair,Good,1,1,1,0,103646.25,81800.0
+Laptop,Dell,XPS 15 (9530),2022,32,512,79,Excellent,Fair,Good,1,0,0,0,204239.25,79100.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,86,Excellent,Good,Poor,0,0,0,0,75248.93,26200.0
+Laptop,HP,Spectre x360,2025,16,512,100,Good,Excellent,Fair,1,1,1,1,161248.92,99000.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,256,90,Fair,Fair,Poor,0,0,0,0,26973.96,6800.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,512,73,Poor,Good,Excellent,0,0,1,0,107392.5,58500.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,512,84,Fair,Excellent,Fair,1,0,1,0,171892.5,88700.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,12,256,85,Good,Fair,Poor,0,0,1,0,26973.96,5900.0
+Smartphone,Apple,iPhone 13,2024,4,128,87,Excellent,Excellent,Good,0,1,1,0,61023.12,39400.0
+Laptop,Apple,"MacBook Pro M3 14""",2023,8,512,89,Good,Good,Poor,0,1,1,0,182642.5,53000.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,512,67,Fair,Good,Poor,1,1,0,0,145017.5,24300.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,93,Fair,Fair,Fair,0,1,0,0,166738.5,92000.0
+Smartphone,Apple,iPhone 13,2021,4,128,73,Poor,Good,Good,0,0,0,0,61023.12,22600.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,256,86,Poor,Good,Fair,1,1,0,0,41498.96,16000.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,1024,94,Fair,Poor,Fair,0,1,0,0,183885.0,99700.0
+Laptop,Dell,XPS 15 (9530),2023,32,512,87,Fair,Fair,Excellent,0,0,0,0,204239.25,113700.0
+Laptop,Apple,"MacBook Pro M3 14""",2020,16,1024,71,Poor,Fair,Fair,1,1,1,0,195385.0,54800.0
+Laptop,Dell,XPS 15 (9530),2025,16,1024,91,Excellent,Good,Fair,1,1,1,0,218488.5,131800.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,1024,88,Fair,Excellent,Good,1,1,0,0,183885.0,117800.0
+Smartphone,Samsung,Galaxy S23,2023,8,256,83,Fair,Good,Fair,1,0,1,0,77811.46,29400.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,256,71,Fair,Poor,Good,1,1,1,0,41498.96,15500.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,24,512,74,Excellent,Good,Poor,1,1,0,0,182642.5,39800.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,93,Fair,Good,Fair,0,1,0,0,166738.5,91300.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,24,1024,93,Excellent,Good,Good,1,1,0,1,195385.0,152800.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,24,512,76,Good,Good,Good,0,1,0,0,182642.5,87800.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,86,Poor,Good,Fair,0,1,1,0,42292.81,22500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,256,77,Fair,Fair,Excellent,1,1,0,0,160811.46,58400.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Fair,Poor,Good,1,1,1,0,90742.81,29600.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,24,512,76,Fair,Good,Good,0,0,0,0,182642.5,73500.0
+Laptop,HP,Pavilion 15,2021,16,512,73,Fair,Poor,Good,1,1,0,0,69873.93,22000.0
+Smartphone,Google,Pixel 7a,2023,8,128,84,Fair,Poor,Fair,1,0,0,0,44823.98,16100.0
+Smartphone,Google,Pixel 8 Pro,2022,12,512,82,Good,Fair,Fair,1,0,0,0,115023.92,35400.0
+Smartphone,OnePlus,OnePlus 12,2022,12,512,70,Excellent,Poor,Excellent,1,1,1,0,69873.93,30900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2020,2,32,71,Fair,Fair,Good,1,1,0,0,25116.18,6300.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,94,Fair,Good,Poor,0,0,0,0,37085.72,11000.0
+Smartphone,OnePlus,OnePlus 12,2024,16,512,92,Good,Good,Excellent,0,0,1,0,69873.93,48100.0
+Smartphone,Apple,iPhone 15,2021,6,128,66,Good,Excellent,Good,0,0,0,0,81398.12,29600.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2025,8,512,93,Poor,Good,Good,1,1,1,1,88042.5,70200.0
+Smartphone,Google,Pixel 8 Pro,2025,12,512,98,Excellent,Excellent,Excellent,0,1,0,0,115023.92,101600.0
+Laptop,Dell,Inspiron 15,2023,8,512,87,Good,Good,Good,0,0,1,0,63414.25,30300.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,256,92,Good,Excellent,Excellent,1,0,1,0,62146.25,56600.0
+Smartphone,Apple,iPhone 15 Pro Max,2021,8,256,70,Good,Fair,Good,0,1,1,0,165896.25,65400.0
+Tablet,Xiaomi,Pad 6,2025,8,256,94,Fair,Excellent,Good,0,0,0,1,28011.46,20500.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,64,84,Good,Excellent,Poor,1,0,0,0,60461.56,18400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2025,2,32,98,Good,Excellent,Good,0,0,0,0,25116.18,18400.0
+Smartphone,Apple,iPhone 15,2022,6,128,77,Poor,Excellent,Fair,1,1,1,0,81398.12,30800.0
+Smartphone,OnePlus,OnePlus 12,2021,12,256,73,Good,Fair,Poor,1,1,0,0,67436.46,11000.0
+Smartwatch,Apple,Apple Watch Ultra 2,2022,1,64,82,Good,Fair,Excellent,1,1,0,0,90742.81,54700.0
+Smartphone,Apple,iPhone 15,2023,6,256,77,Good,Excellent,Poor,0,1,0,0,82896.25,24000.0
+Tablet,Samsung,Galaxy Tab S9,2021,8,256,77,Fair,Poor,Fair,0,0,1,0,75736.46,18400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2025,16,1024,96,Good,Excellent,Excellent,0,1,1,0,201238.5,167000.0
+Smartphone,Google,Pixel 8 Pro,2025,12,512,95,Excellent,Good,Excellent,0,0,1,1,115023.92,96000.0
+Laptop,Dell,Inspiron 15,2022,8,512,79,Good,Good,Good,1,0,0,0,63414.25,25300.0
+Smartphone,OnePlus,OnePlus 11R,2022,8,128,84,Good,Good,Good,0,1,1,0,40748.98,17200.0
+Smartphone,Apple,iPhone 13,2020,4,256,66,Good,Good,Fair,1,0,1,0,62146.25,16500.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,512,95,Excellent,Excellent,Excellent,1,0,1,0,145017.5,128700.0
+Laptop,Apple,"MacBook Air M2 13""",2025,16,256,97,Good,Excellent,Good,0,0,0,0,103646.25,72900.0
+Smartphone,Apple,iPhone 13,2020,4,256,65,Good,Good,Excellent,1,1,1,0,62146.25,23300.0
+Smartphone,Google,Pixel 7a,2025,8,128,94,Excellent,Poor,Excellent,0,0,0,1,44823.98,39000.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,79,Good,Good,Good,1,0,1,0,166738.5,54900.0
+Smartphone,OnePlus,OnePlus 12,2020,16,256,79,Fair,Good,Good,1,1,1,0,67436.46,17700.0
+Smartphone,OnePlus,OnePlus 12,2022,12,256,84,Excellent,Good,Fair,1,1,1,0,67436.46,21800.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,77,Good,Good,Excellent,1,0,1,0,90742.81,44300.0
+Tablet,Xiaomi,Pad 6,2021,6,128,69,Good,Excellent,Good,0,1,0,0,27505.23,8700.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,256,83,Good,Good,Good,1,0,1,0,41498.96,21000.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2025,12,256,94,Good,Excellent,Good,0,1,0,0,26973.96,18700.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,90,Excellent,Fair,Excellent,0,0,0,1,42292.81,40800.0
+Smartphone,Google,Pixel 7a,2024,8,128,85,Poor,Excellent,Good,0,0,1,0,44823.98,26200.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,256,84,Good,Fair,Good,0,1,0,0,41498.96,20300.0
+Tablet,Apple,iPad Air (5th Gen),2022,8,64,87,Poor,Good,Good,1,0,0,0,60461.56,27800.0
+Smartphone,Apple,iPhone 15,2023,6,512,79,Fair,Poor,Good,0,0,1,0,85892.5,45200.0
+Laptop,Asus,ROG Zephyrus G14,2024,32,1024,90,Good,Excellent,Good,1,0,0,0,166738.5,94600.0
+Laptop,HP,Spectre x360,2023,16,512,91,Excellent,Poor,Good,1,0,1,0,161248.92,75100.0
+Smartphone,Apple,iPhone 15 Pro Max,2023,8,256,78,Good,Fair,Good,1,1,0,0,165896.25,92500.0
+Laptop,Dell,Inspiron 15,2024,16,512,93,Excellent,Excellent,Excellent,1,1,0,0,63414.25,44700.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,84,Good,Fair,Excellent,1,0,0,0,75248.93,43400.0
+Smartphone,Google,Pixel 7a,2021,8,128,67,Fair,Fair,Good,0,1,1,0,44823.98,13500.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,93,Excellent,Good,Excellent,0,0,1,0,75248.93,60000.0
+Laptop,Asus,ROG Zephyrus G14,2022,16,1024,83,Good,Fair,Good,1,1,0,0,166738.5,67300.0
+Tablet,Samsung,Galaxy Tab S9,2025,8,256,94,Excellent,Excellent,Excellent,0,0,0,1,75736.46,64900.0
+Laptop,Asus,ROG Zephyrus G14,2022,32,1024,80,Fair,Poor,Good,0,0,1,0,166738.5,63500.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,256,85,Good,Good,Good,1,1,1,0,139958.75,98000.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,70,Poor,Good,Poor,1,1,1,0,90742.81,15800.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,65,Poor,Good,Poor,0,1,1,0,160811.46,19800.0
+Smartphone,Samsung,Galaxy S23,2020,8,128,68,Good,Poor,Fair,1,1,0,0,76405.23,14400.0
+Smartphone,Apple,iPhone 15 Pro,2023,8,256,88,Good,Excellent,Good,1,0,1,0,139958.75,77200.0
+Smartphone,Apple,iPhone 13,2025,4,256,97,Good,Excellent,Good,1,1,0,0,62146.25,50500.0
+Smartphone,Google,Pixel 8 Pro,2025,12,256,98,Fair,Excellent,Good,0,0,0,1,111011.46,81200.0
+Laptop,HP,Pavilion 15,2024,8,512,93,Good,Excellent,Good,0,1,0,0,69873.93,42300.0
+Smartphone,Samsung,Galaxy S24 Ultra,2021,12,1024,80,Excellent,Good,Fair,0,1,0,0,149498.85,38900.0
+Laptop,HP,Pavilion 15,2023,16,512,83,Poor,Good,Good,0,0,1,0,69873.93,32600.0
+Smartphone,Apple,iPhone 15 Pro Max,2022,8,1024,81,Good,Good,Fair,0,0,0,0,183885.0,67500.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,85,Good,Good,Fair,0,1,0,0,75248.93,16900.0
+Smartphone,Google,Pixel 7a,2021,8,128,74,Excellent,Fair,Good,0,0,1,0,44823.98,13200.0
+Smartphone,OnePlus,OnePlus 12,2023,16,256,91,Poor,Excellent,Poor,1,1,0,0,67436.46,17500.0
+Laptop,Dell,XPS 15 (9530),2022,32,512,84,Poor,Excellent,Fair,0,0,1,0,204239.25,61400.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,90,Good,Excellent,Good,0,1,1,0,166738.5,83400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,256,79,Good,Good,Good,1,0,0,0,160811.46,51600.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,256,78,Excellent,Good,Fair,1,1,1,0,139958.75,38900.0
+Smartphone,Google,Pixel 7a,2021,8,128,77,Fair,Good,Excellent,1,1,0,0,44823.98,16300.0
+Smartphone,OnePlus,OnePlus 11R,2023,8,256,88,Excellent,Poor,Good,1,1,1,0,41498.96,20800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2024,2,16,95,Excellent,Excellent,Excellent,1,1,0,0,37085.72,24300.0
+Smartphone,OnePlus,OnePlus 11R,2023,16,256,87,Excellent,Good,Excellent,1,1,0,0,41498.96,23500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,512,92,Good,Good,Excellent,1,1,1,0,166623.92,117000.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,65,Good,Good,Good,0,0,0,0,42292.81,15500.0
+Laptop,HP,Spectre x360,2024,16,512,90,Good,Poor,Excellent,1,0,0,0,161248.92,118200.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,70,Good,Good,Good,0,0,0,0,37085.72,8600.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,84,Fair,Excellent,Good,1,1,0,0,37085.72,18200.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,512,70,Fair,Good,Fair,0,0,0,0,166623.92,40200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,66,Good,Good,Excellent,1,1,0,0,90742.81,33600.0
+Smartphone,Apple,iPhone 15,2021,6,512,76,Good,Excellent,Poor,0,0,0,0,85892.5,17100.0
+Smartphone,OnePlus,OnePlus 11R,2021,8,256,65,Good,Good,Good,1,1,1,0,41498.96,12200.0
+Laptop,Asus,ROG Zephyrus G14,2025,16,1024,90,Excellent,Good,Fair,1,0,1,1,166738.5,108200.0
+Smartphone,OnePlus,OnePlus 12,2024,12,256,92,Excellent,Excellent,Good,0,0,1,0,67436.46,41700.0
+Laptop,HP,Pavilion 15,2020,8,512,69,Poor,Good,Fair,1,1,0,0,69873.93,14200.0
+Smartphone,Xiaomi,Xiaomi 14,2020,12,512,76,Poor,Excellent,Fair,1,1,1,0,75248.93,15900.0
+Smartphone,OnePlus,OnePlus 11R,2021,16,128,75,Good,Fair,Excellent,1,0,1,0,40748.98,15500.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,256,93,Good,Good,Good,0,1,1,0,103646.25,67600.0
+Smartwatch,Apple,Apple Watch Series 9,2025,1,64,93,Excellent,Poor,Good,0,1,0,1,42292.81,34700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2022,12,512,77,Poor,Fair,Good,0,0,1,0,166623.92,63500.0
+Smartphone,OnePlus,OnePlus 11R,2022,16,256,79,Fair,Fair,Excellent,0,1,1,0,41498.96,19800.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,82,Good,Good,Excellent,0,1,1,0,25116.18,14600.0
+Smartphone,Apple,iPhone 15 Pro Max,2020,8,1024,65,Fair,Fair,Excellent,1,1,1,0,183885.0,68000.0
+Smartphone,Samsung,Galaxy Z Fold 5,2023,12,256,77,Fair,Good,Excellent,0,1,0,0,160811.46,86500.0
+Smartphone,Samsung,Galaxy Z Fold 5,2021,12,256,72,Poor,Good,Good,0,0,0,0,160811.46,48900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,256,74,Excellent,Fair,Excellent,0,0,1,0,160811.46,48700.0
+Laptop,HP,Spectre x360,2025,16,512,94,Good,Good,Excellent,0,0,1,1,161248.92,145900.0
+Laptop,Apple,"MacBook Air M2 13""",2023,16,256,83,Good,Poor,Good,0,1,1,0,103646.25,60900.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,128,79,Fair,Good,Good,1,0,0,0,137429.38,65100.0
+Smartwatch,Apple,Apple Watch Ultra 2,2020,1,64,65,Good,Poor,Good,1,0,0,0,90742.81,28700.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,85,Good,Good,Good,1,0,0,0,166738.5,79400.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2020,16,128,70,Good,Poor,Poor,0,0,0,0,83435.62,13800.0
+Laptop,Dell,Inspiron 15,2021,16,512,71,Good,Good,Excellent,0,1,1,0,63414.25,23100.0
+Tablet,Apple,iPad Air (5th Gen),2024,8,64,90,Fair,Excellent,Fair,1,0,0,0,60461.56,30200.0
+Smartwatch,Apple,Apple Watch Ultra 2,2021,1,64,82,Poor,Fair,Good,1,0,0,0,90742.81,39600.0
+Laptop,Apple,"MacBook Air M2 13""",2022,16,256,79,Excellent,Good,Excellent,1,1,0,0,103646.25,58200.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,24,512,75,Poor,Fair,Fair,0,0,1,0,182642.5,54000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,16,256,78,Good,Excellent,Good,0,1,1,0,84971.25,47400.0
+Smartphone,Apple,iPhone 14,2021,6,128,82,Fair,Good,Poor,0,1,0,0,71210.62,15300.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,66,Good,Poor,Fair,1,0,0,0,42292.81,13300.0
+Tablet,Apple,iPad Air (5th Gen),2023,8,64,87,Good,Good,Fair,1,1,0,0,60461.56,28400.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,93,Good,Good,Excellent,1,1,0,0,25116.18,18000.0
+Smartphone,Apple,iPhone 15 Pro,2020,8,128,65,Poor,Fair,Good,1,1,1,0,137429.38,45400.0
+Laptop,Dell,XPS 15 (9530),2022,16,1024,78,Good,Good,Good,0,1,1,0,218488.5,86100.0
+Smartwatch,Apple,Apple Watch Series 9,2024,1,64,91,Excellent,Excellent,Excellent,1,1,1,0,42292.81,33800.0
+Laptop,HP,Pavilion 15,2023,8,512,83,Fair,Good,Excellent,0,1,1,0,69873.93,40900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,79,Fair,Fair,Fair,1,0,1,0,25116.18,9400.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2022,8,128,72,Good,Excellent,Good,0,0,0,0,26486.48,10200.0
+Smartphone,Google,Pixel 7a,2021,8,128,74,Excellent,Poor,Good,1,0,1,0,44823.98,14000.0
+Smartphone,OnePlus,OnePlus 12,2024,16,256,88,Excellent,Poor,Good,1,1,0,0,67436.46,42000.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,90,Good,Excellent,Good,0,0,0,0,139748.92,98600.0
+Laptop,Dell,Inspiron 15,2020,16,512,65,Good,Good,Fair,0,1,0,0,63414.25,11900.0
+Tablet,Samsung,Galaxy Tab S9,2024,12,256,87,Excellent,Good,Excellent,1,1,0,0,75736.46,51800.0
+Smartphone,Apple,iPhone 13,2023,4,256,88,Good,Poor,Good,0,1,1,0,62146.25,37000.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2024,32,512,91,Good,Fair,Good,1,1,0,0,188114.25,103900.0
+Smartphone,Apple,iPhone 13,2025,4,128,90,Good,Excellent,Excellent,0,1,1,1,61023.12,53800.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,512,83,Fair,Excellent,Good,0,0,0,0,145017.5,69300.0
+Smartphone,Apple,iPhone 14,2025,6,128,93,Good,Excellent,Excellent,0,0,0,0,71210.62,60500.0
+Smartphone,OnePlus,OnePlus 11R,2024,8,256,88,Good,Excellent,Excellent,1,0,1,0,41498.96,30500.0
+Laptop,Asus,ROG Zephyrus G14,2021,32,1024,65,Fair,Good,Good,0,1,1,0,166738.5,45700.0
+Laptop,Apple,"MacBook Pro M3 14""",2025,8,1024,94,Excellent,Good,Good,1,1,0,1,195385.0,152000.0
+Tablet,Apple,iPad Air (5th Gen),2020,8,64,71,Good,Excellent,Excellent,0,1,0,0,60461.56,23000.0
+Smartwatch,Apple,Apple Watch Ultra 2,2024,1,64,84,Excellent,Good,Excellent,1,0,0,0,90742.81,66800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2020,2,16,69,Good,Poor,Fair,0,0,0,0,37085.72,7300.0
+Laptop,Asus,ROG Zephyrus G14,2020,16,1024,68,Excellent,Fair,Good,0,0,1,0,166738.5,42500.0
+Tablet,Samsung,Galaxy Tab S9,2023,8,256,83,Poor,Good,Poor,1,0,1,0,75736.46,20900.0
+Smartphone,Apple,iPhone 15 Pro,2025,8,512,96,Excellent,Good,Good,0,1,0,1,145017.5,118400.0
+Laptop,HP,Spectre x360,2022,16,1024,86,Fair,Fair,Good,1,1,0,0,172498.85,72800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,83,Excellent,Excellent,Fair,1,1,1,0,37085.72,13600.0
+Smartphone,Apple,iPhone 15,2020,6,512,65,Poor,Good,Fair,1,0,0,0,85892.5,21000.0
+Smartphone,Apple,iPhone 15,2024,6,512,87,Excellent,Excellent,Good,1,0,0,0,85892.5,54600.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2023,8,128,81,Fair,Excellent,Good,1,0,1,0,26486.48,12700.0
+Smartphone,Google,Pixel 7a,2025,8,128,93,Fair,Excellent,Fair,1,1,0,1,44823.98,25600.0
+Laptop,Asus,ROG Zephyrus G14,2024,16,1024,93,Excellent,Excellent,Good,1,0,1,0,166738.5,96600.0
+Laptop,Asus,ROG Zephyrus G14,2023,32,1024,78,Fair,Good,Excellent,0,0,0,0,166738.5,87700.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,8,512,85,Fair,Good,Good,1,0,0,0,88042.5,47900.0
+Smartphone,Apple,iPhone 15 Pro Max,2025,8,1024,95,Good,Good,Good,1,0,0,0,183885.0,130300.0
+Laptop,Apple,"MacBook Pro M3 14""",2024,24,512,89,Excellent,Fair,Excellent,1,1,1,0,182642.5,149200.0
+Laptop,Apple,"MacBook Pro M3 14""",2022,16,512,80,Good,Good,Fair,0,0,0,0,182642.5,69200.0
+Smartphone,OnePlus,OnePlus 11R,2024,8,128,90,Excellent,Good,Excellent,0,1,0,0,40748.98,27700.0
+Smartphone,Apple,iPhone 14,2023,6,256,84,Good,Poor,Fair,0,0,0,0,72521.25,31800.0
+Tablet,Xiaomi,Pad 6,2020,6,256,66,Excellent,Fair,Good,1,1,1,0,28011.46,6700.0
+Smartphone,OnePlus,OnePlus 12,2024,16,256,80,Good,Excellent,Excellent,1,1,1,0,67436.46,46500.0
+Laptop,HP,Spectre x360,2020,16,512,78,Fair,Good,Excellent,1,0,0,0,161248.92,48200.0
+Smartphone,Samsung,Galaxy S24 Ultra,2025,12,512,88,Fair,Good,Excellent,1,1,1,0,139748.92,132400.0
+Smartphone,Samsung,Galaxy S24 Ultra,2023,12,256,84,Good,Good,Good,0,1,0,0,134873.96,64600.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,16,256,75,Fair,Good,Poor,1,0,0,0,84971.25,16900.0
+Smartphone,Xiaomi,Xiaomi 14,2025,12,512,92,Fair,Good,Excellent,0,0,0,0,75248.93,61700.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,512,93,Good,Fair,Good,0,1,0,1,166623.92,128600.0
+Tablet,Xiaomi,Pad 6,2025,8,128,90,Excellent,Good,Good,0,1,0,0,27505.23,20200.0
+Smartwatch,Apple,Apple Watch Series 9,2021,1,64,83,Good,Excellent,Good,0,1,1,0,42292.81,16600.0
+Tablet,Samsung,Galaxy Tab S9,2025,12,128,93,Good,Good,Poor,0,1,0,1,74367.73,30400.0
+Tablet,Samsung,Galaxy Tab S9,2020,12,256,70,Good,Good,Good,1,1,0,0,75736.46,18100.0
+Smartphone,Samsung,Galaxy S23,2024,8,128,83,Fair,Good,Good,1,0,0,0,76405.23,43600.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2021,32,512,75,Poor,Excellent,Good,1,1,1,0,188114.25,60700.0
+Smartphone,OnePlus,OnePlus 11R,2025,16,128,93,Fair,Excellent,Excellent,0,0,1,1,40748.98,35500.0
+Tablet,Samsung,Galaxy Tab S9,2021,12,256,79,Good,Good,Excellent,1,0,1,0,75736.46,26700.0
+Smartphone,Xiaomi,Xiaomi 14,2023,12,512,82,Poor,Fair,Fair,0,1,1,0,75248.93,30100.0
+Laptop,Dell,XPS 15 (9530),2021,32,1024,68,Good,Excellent,Good,0,1,1,0,218488.5,64100.0
+Laptop,HP,Spectre x360,2020,16,1024,73,Good,Fair,Good,1,0,1,0,172498.85,40900.0
+Smartwatch,OnePlus,OnePlus Watch 2,2023,2,32,89,Good,Good,Good,1,1,0,0,25116.18,11900.0
+Smartwatch,Apple,Apple Watch Series 9,2023,1,64,82,Good,Excellent,Fair,0,1,0,0,42292.81,17600.0
+Laptop,Dell,XPS 15 (9530),2023,16,1024,81,Good,Fair,Good,0,1,1,0,218488.5,101400.0
+Tablet,Xiaomi,Pad 6,2020,6,256,68,Fair,Fair,Good,1,1,0,0,28011.46,6900.0
+Laptop,Apple,"MacBook Pro M3 14""",2021,8,512,66,Good,Good,Fair,1,0,0,0,182642.5,57000.0
+Smartwatch,Apple,Apple Watch Ultra 2,2025,1,64,98,Excellent,Excellent,Excellent,1,1,1,1,90742.81,90300.0
+Smartphone,Samsung,Galaxy Z Fold 5,2023,12,256,83,Fair,Excellent,Good,0,0,1,0,160811.46,78400.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,256,65,Good,Poor,Fair,0,1,1,0,62146.25,18300.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,91,Excellent,Good,Good,1,0,1,0,37085.72,26800.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2023,2,16,88,Fair,Excellent,Good,1,0,1,0,37085.72,18200.0
+Smartwatch,Apple,Apple Watch Series 9,2020,1,64,66,Good,Good,Excellent,0,0,0,0,42292.81,16100.0
+Smartphone,Apple,iPhone 14,2021,6,256,71,Good,Poor,Good,1,0,1,0,72521.25,27100.0
+Smartphone,Apple,iPhone 15 Pro,2022,8,256,85,Fair,Fair,Excellent,1,0,1,0,139958.75,77600.0
+Smartwatch,Samsung,Galaxy Watch 6 Classic,2025,2,16,99,Good,Excellent,Good,1,1,0,1,37085.72,28900.0
+Laptop,HP,Pavilion 15,2023,8,512,79,Good,Fair,Fair,1,0,1,0,69873.93,27100.0
+Smartphone,Apple,iPhone 15 Pro,2024,8,128,87,Excellent,Excellent,Fair,0,0,1,0,137429.38,70500.0
+Smartphone,Apple,iPhone 14,2021,6,128,82,Fair,Good,Good,1,1,0,0,71210.62,31100.0
+Laptop,Dell,XPS 15 (9530),2021,16,1024,78,Fair,Fair,Fair,0,1,0,0,218488.5,55500.0
+Laptop,HP,Pavilion 15,2025,8,512,93,Excellent,Excellent,Good,0,1,1,0,69873.93,48000.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2023,8,128,76,Good,Fair,Good,0,1,1,0,83435.62,45800.0
+Smartphone,Samsung,Galaxy S23,2024,8,128,90,Excellent,Excellent,Good,0,0,0,0,76405.23,40500.0
+Smartwatch,OnePlus,OnePlus Watch 2,2024,2,32,87,Excellent,Excellent,Excellent,0,0,1,0,25116.18,16800.0
+Smartphone,Samsung,Galaxy Z Fold 5,2025,12,512,97,Good,Excellent,Good,0,1,0,0,166623.92,123100.0
+Smartphone,Apple,iPhone 14,2023,6,256,77,Good,Good,Excellent,1,1,0,0,72521.25,47400.0
+Tablet,Apple,iPad Air (5th Gen),2021,8,64,70,Poor,Fair,Fair,1,0,0,0,60461.56,19300.0
+Tablet,Xiaomi,Pad 6,2021,8,256,74,Fair,Excellent,Good,0,0,1,0,28011.46,8800.0
+Laptop,Asus,ROG Zephyrus G14,2025,32,1024,92,Good,Poor,Excellent,0,1,0,0,166738.5,142400.0
+Laptop,Apple,"MacBook Air M2 13""",2023,8,512,82,Poor,Poor,Good,1,0,1,0,107392.5,59400.0
+Smartphone,Apple,iPhone 15 Pro Max,2024,8,512,88,Good,Good,Excellent,1,0,1,0,171892.5,122100.0
+Tablet,Apple,iPad Air (5th Gen),2025,8,64,93,Excellent,Excellent,Excellent,0,1,0,1,60461.56,56200.0
+Laptop,HP,Spectre x360,2024,16,512,91,Good,Excellent,Good,1,0,0,0,161248.92,95400.0
+Laptop,Lenovo,ThinkPad X1 Carbon Gen 11,2022,16,1024,71,Good,Good,Fair,0,0,0,0,201238.5,57400.0
+Laptop,HP,Pavilion 15,2021,8,512,68,Good,Good,Excellent,0,0,0,0,69873.93,24500.0
+Laptop,Dell,XPS 15 (9530),2020,16,512,65,Poor,Fair,Fair,0,1,1,0,204239.25,39200.0
+Smartphone,Xiaomi,Redmi Note 13 Pro,2021,8,128,74,Fair,Fair,Good,0,1,0,0,26486.48,8100.0
+Laptop,HP,Pavilion 15,2021,16,512,72,Poor,Good,Good,1,0,1,0,69873.93,21400.0
+Tablet,Apple,"iPad Pro 11"" (4th Gen)",2021,8,128,72,Good,Fair,Poor,1,1,0,0,83435.62,17400.0
+Smartphone,Samsung,Galaxy Z Fold 5,2020,12,512,65,Good,Good,Poor,1,0,1,0,166623.92,21900.0
+Smartphone,Samsung,Galaxy Z Fold 5,2024,12,256,89,Excellent,Good,Excellent,1,1,1,0,160811.46,118700.0
+Laptop,Apple,"MacBook Air M2 13""",2024,16,256,90,Excellent,Good,Poor,0,1,1,0,103646.25,36600.0
+Smartphone,Google,Pixel 8 Pro,2025,12,512,98,Fair,Fair,Fair,1,1,1,0,115023.92,65100.0
+Tablet,Xiaomi,Pad 6,2025,6,128,95,Excellent,Excellent,Excellent,0,0,1,1,27505.23,25400.0
