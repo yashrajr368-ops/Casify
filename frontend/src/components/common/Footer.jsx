@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, Award, CheckCircle2 } from 'lucide-react';
+import { Shield, Award, CheckCircle2, Zap } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { Logo } from './Logo';
 
@@ -49,15 +49,15 @@ export const Footer = () => {
             </h4>
             <div className="space-y-3 text-xs text-slate-400">
               <div className="flex items-start gap-2.5">
-                <Shield className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                <Shield className="w-4 h-4 text-blue-400 shrink-0 mt-0.5" />
                 <span>100% Certified Data Wipe & Certified Safe Transactions</span>
               </div>
               <div className="flex items-start gap-2.5">
-                <Award className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                <Award className="w-4 h-4 text-cyan-400 shrink-0 mt-0.5" />
                 <span>Transparent AI-driven pricing with 0 hidden deduction fees</span>
               </div>
               <div className="flex items-start gap-2.5">
-                <Sparkles className="w-4 h-4 text-emerald-400 shrink-0 mt-0.5" />
+                <Zap className="w-4 h-4 text-blue-400 shrink-0 mt-0.5" />
                 <span>Instant Bank & UPI payout at doorstep inspection</span>
               </div>
             </div>
