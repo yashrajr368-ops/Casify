@@ -67,7 +67,7 @@ export const RegisterPage = () => {
             <Logo size="lg" to="/" />
           </div>
           <h2 className="text-2xl font-black tracking-tight text-slate-900">
-            Create Your RETECH Account
+            Create Your ReTech AI Account
           </h2>
           <p className="text-xs text-slate-500">
             Join thousands evaluating, selling, and repairing smart devices

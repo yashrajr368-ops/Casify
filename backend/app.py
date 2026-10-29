@@ -110,6 +110,6 @@ def create_app(config_class=Config):
 if __name__ == '__main__':
     application = create_app()
     print("\n" + "=" * 60)
-    print("  RETECH AI Backend Server Running on http://127.0.0.1:5000")
+    print("  RETECH Backend Server Running on http://127.0.0.1:5000")
     print("=" * 60 + "\n")
     application.run(host='0.0.0.0', port=5000, debug=True)

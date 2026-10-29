@@ -57,7 +57,7 @@ export const LoginPage = () => {
             <Logo size="lg" to="/" />
           </div>
           <h2 className="text-2xl font-black tracking-tight text-slate-900">
-            Welcome to RETECH
+            Welcome to ReTech AI
           </h2>
           <p className="text-xs text-slate-500">
             Sign in to manage your devices, valuations, and requests

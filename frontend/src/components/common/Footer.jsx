@@ -65,7 +65,7 @@ export const Footer = () => {
         </div>
 
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-          <p>© {new Date().getFullYear()} RETECH. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} ReTech AI. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <span>Privacy Policy</span>
             <span>Terms of Service</span>

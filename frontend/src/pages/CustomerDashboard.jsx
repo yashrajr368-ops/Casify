@@ -71,7 +71,7 @@ export const CustomerDashboard = () => {
   return (
     <DashboardLayout
       title={`Hello, ${user?.full_name?.split(' ')[0]} 👋`}
-      subtitle="Welcome to your RETECH device command center"
+      subtitle="Welcome to your ReTech AI device command center"
     >
       {loading ? (
         <Loader message="Loading your dashboard portfolio..." />

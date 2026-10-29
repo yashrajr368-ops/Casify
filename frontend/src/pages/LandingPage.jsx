@@ -210,7 +210,7 @@ export const LandingPage = () => {
           <div className="text-center max-w-2xl mx-auto mb-16">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Seamless 5-Step Process</span>
             <h2 className="text-3xl sm:text-4xl font-black tracking-tight mt-2 text-white">
-              How RETECH Works
+              How ReTech AI Works
             </h2>
             <p className="text-sm text-slate-400 mt-2">
               From instant valuation to certified doorstep pickup and immediate payout.
@@ -251,7 +251,7 @@ export const LandingPage = () => {
                 Powered by Live Market Valuation
               </h2>
               <p className="mt-4 text-sm sm:text-base text-slate-400 leading-relaxed">
-                RETECH evaluates your exact model, hardware specs, battery condition, and cosmetic wear against live resale benchmarks to calculate the highest guaranteed valuation.
+                ReTech AI evaluates your exact model, hardware specs, battery condition, and cosmetic wear against live resale benchmarks to calculate the highest guaranteed valuation.
               </p>
 
               <div className="mt-8 grid grid-cols-2 gap-4 text-xs">
