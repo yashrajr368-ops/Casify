@@ -5,10 +5,23 @@ const AuthContext = createContext(null);
 
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(() => {
-    const saved = localStorage.getItem('retech_user');
-    return saved ? JSON.parse(saved) : null;
+    try {
+      const saved = localStorage.getItem('retech_user');
+      return (saved && saved !== 'undefined' && saved !== 'null') ? JSON.parse(saved) : null;
+    } catch (e) {
+      console.warn("Failed to parse cached user:", e);
+      try { localStorage.removeItem('retech_user'); } catch (_) {}
+      return null;
+    }
   });
-  const [token, setToken] = useState(() => localStorage.getItem('retech_token') || null);
+  const [token, setToken] = useState(() => {
+    try {
+      const savedToken = localStorage.getItem('retech_token');
+      return (savedToken && savedToken !== 'undefined' && savedToken !== 'null') ? savedToken : null;
+    } catch (_) {
+      return null;
+    }
+  });
   const [loading, setLoading] = useState(true);
 
   // Sync / verify token on mount
