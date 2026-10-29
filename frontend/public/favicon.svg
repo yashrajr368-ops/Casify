@@ -1,6 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" rx="24" fill="#0f172a"/>
-  <path d="M30 70 L30 30 L55 30 C65 30 72 37 72 45 C72 53 65 60 55 60 L30 60" stroke="#22c55e" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <line x1="50" y1="58" x2="72" y2="72" stroke="#22c55e" stroke-width="9" stroke-linecap="round"/>
-  <circle cx="75" cy="25" r="7" fill="#3b82f6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="retechGrad" x1="10" y1="10" x2="54" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stopColor="#34d399" />
+      <stop offset="60%" stopColor="#10b981" />
+      <stop offset="100%" stopColor="#06b6d4" />
+    </linearGradient>
+  </defs>
+
+  <!-- Dark Tech Squircle Background -->
+  <rect width="64" height="64" rx="16" fill="#090d16" />
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="15.25" stroke="#10b981" stroke-opacity="0.3" stroke-width="1.5"/>
+
+  <!-- Left Stem -->
+  <rect x="14" y="13" width="7" height="38" rx="3.5" fill="url(#retechGrad)" />
+
+  <!-- Upper Loop -->
+  <path d="M21 18H36C42.0751 18 47 22.9249 47 29C47 35.0751 42.0751 40 36 40H21" stroke="url(#retechGrad)" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Forward Leg -->
+  <path d="M31 35.5L44 49" stroke="url(#retechGrad)" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Pulse Center Node -->
+  <circle cx="35" cy="29" r="3.5" fill="#a7f3d0" />
 </svg>

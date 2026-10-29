@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../../context/AuthContext';
 import { notificationAPI } from '../../services/api';
+import { Logo } from './Logo';
 import {
   Sparkles,
   User,
@@ -70,20 +71,8 @@ export const Navbar = () => {
     <nav className="sticky top-0 z-40 bg-white/90 backdrop-blur-md border-b border-slate-200/80 transition-all">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
-          {/* Logo */}
-          <Link to="/" className="flex items-center gap-3 group">
-            <div className="w-11 h-11 rounded-2xl bg-gradient-to-tr from-slate-950 via-slate-900 to-emerald-800 flex items-center justify-center text-white shadow-md shadow-emerald-950/20 group-hover:scale-105 transition-transform">
-              <Sparkles className="w-6 h-6 text-emerald-400" />
-            </div>
-            <div className="flex flex-col">
-              <span className="text-xl font-black tracking-tight text-slate-900 flex items-center gap-1.5">
-                RETECH <span className="text-emerald-600">AI</span>
-              </span>
-              <span className="text-[10px] uppercase font-bold tracking-widest text-slate-400 -mt-1">
-                Smart Resale & Repair
-              </span>
-            </div>
-          </Link>
+          {/* Brand Logo */}
+          <Logo />
 
           {/* Desktop Navigation Links */}
           <div className="hidden md:flex items-center gap-1 lg:gap-2">

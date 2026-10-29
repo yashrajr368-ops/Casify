@@ -31,7 +31,7 @@ export const LandingPage = () => {
   const steps = [
     { step: '01', title: 'Select Device', desc: 'Pick your smartphone, laptop, tablet, or smartwatch model from our verified catalog.' },
     { step: '02', title: 'Enter Details', desc: 'Provide purchase year, storage, RAM, battery health, and functional condition.' },
-    { step: '03', title: 'AI Evaluates', desc: 'Our trained Scikit-learn regression models calculate fair market valuation in milliseconds.' },
+    { step: '03', title: 'Smart Evaluation', desc: 'Our trained valuation models calculate fair market value instantly based on live condition benchmarks.' },
     { step: '04', title: 'Get Price & Choose', desc: 'Instant fair quote. Choose whether to Sell for instant cash, Exchange, or Book Repair.' },
     { step: '05', title: 'Free Doorstep Pickup', desc: 'A certified field agent verifies your device at your doorstep and processes instant payout.' }
   ];
@@ -51,10 +51,14 @@ export const LandingPage = () => {
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[400px] bg-emerald-500/10 rounded-full blur-[140px] pointer-events-none" />
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
-          {/* Badge */}
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-50 border border-emerald-200 text-emerald-800 text-xs font-bold uppercase tracking-wider mb-6 animate-fade-in shadow-sm">
-            <Sparkles className="w-3.5 h-3.5 text-emerald-600" />
-            <span>Intelligent Valuation & Resale Engine v1.0</span>
+          {/* Modern Status Badge */}
+          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-900 text-slate-100 text-xs font-semibold tracking-wide mb-6 shadow-sm border border-slate-800">
+            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+            <span className="text-slate-300">Smart Valuation</span>
+            <span className="text-slate-600">•</span>
+            <span className="text-emerald-400 font-medium">Instant Cash Payout</span>
+            <span className="text-slate-600">•</span>
+            <span className="text-slate-300">Free Doorstep Pickup</span>
           </div>
 
           {/* Headline */}
@@ -67,7 +71,7 @@ export const LandingPage = () => {
 
           {/* Subtitle */}
           <p className="mt-6 text-base sm:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
-            AI-powered device valuation, resale, exchange, and repair — all in one place. Powered by trained machine learning pricing models and computer vision inspection.
+            The smartest way to evaluate, sell, exchange, and repair your smart devices with instant fair pricing and certified doorstep pickup.
           </p>
 
           {/* CTA Buttons */}
@@ -206,10 +210,10 @@ export const LandingPage = () => {
           <div className="text-center max-w-2xl mx-auto mb-16">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Seamless 5-Step Process</span>
             <h2 className="text-3xl sm:text-4xl font-black tracking-tight mt-2 text-white">
-              How RETECH AI Works
+              How RETECH Works
             </h2>
             <p className="text-sm text-slate-400 mt-2">
-              From instant ML valuation to certified doorstep pickup and immediate UPI payment.
+              From instant valuation to certified doorstep pickup and immediate payout.
             </p>
           </div>
 
@@ -241,13 +245,13 @@ export const LandingPage = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center relative z-10">
             <div>
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-400 text-xs font-bold uppercase tracking-wider mb-4 border border-emerald-500/30">
-                <Cpu className="w-3.5 h-3.5" /> High-Accuracy Machine Learning
+                <Cpu className="w-3.5 h-3.5" /> High-Accuracy Valuation Engine
               </div>
               <h2 className="text-3xl sm:text-4xl font-black tracking-tight leading-tight">
-                Powered by Intelligent Valuation Pipeline
+                Powered by Live Market Valuation
               </h2>
               <p className="mt-4 text-sm sm:text-base text-slate-400 leading-relaxed">
-                Rather than arbitrary rule tables, RETECH AI uses an ensemble of gradient-boosted and random forest regressors trained across 1,500+ real-world historical resale transactions.
+                RETECH evaluates your exact model, hardware specs, battery condition, and cosmetic wear against live resale benchmarks to calculate the highest guaranteed valuation.
               </p>
 
               <div className="mt-8 grid grid-cols-2 gap-4 text-xs">
@@ -277,46 +281,50 @@ export const LandingPage = () => {
               </div>
             </div>
 
-            {/* Visual breakdown mockup */}
+            {/* Visual breakdown card */}
             <div className="bg-slate-800/80 border border-slate-700/80 rounded-2xl p-6 text-xs space-y-4">
               <div className="flex items-center justify-between pb-3 border-b border-slate-700 text-slate-300">
-                <span className="font-bold">ML Evaluation Engine</span>
-                <span className="text-emerald-400 font-mono font-bold">R² Score: 0.98</span>
+                <span className="font-bold text-slate-200">Valuation Analysis</span>
+                <span className="text-emerald-400 font-semibold flex items-center gap-1.5">
+                  <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                  Live Market Verified
+                </span>
               </div>
-              <div className="space-y-2.5">
+              <div className="space-y-3">
                 <div>
-                  <div className="flex justify-between text-[11px] mb-1 text-slate-400">
-                    <span>Baseline Hardware Residual</span>
-                    <span className="text-white font-bold">78%</span>
+                  <div className="flex justify-between text-[11px] mb-1.5 text-slate-400">
+                    <span>Base Model Demand</span>
+                    <span className="text-white font-bold">Strong</span>
                   </div>
                   <div className="w-full bg-slate-700 rounded-full h-1.5">
-                    <div className="bg-emerald-500 h-1.5 rounded-full" style={{ width: '78%' }} />
+                    <div className="bg-emerald-500 h-1.5 rounded-full" style={{ width: '85%' }} />
                   </div>
                 </div>
 
                 <div>
-                  <div className="flex justify-between text-[11px] mb-1 text-slate-400">
-                    <span>Battery Health Factor</span>
-                    <span className="text-white font-bold">89%</span>
+                  <div className="flex justify-between text-[11px] mb-1.5 text-slate-400">
+                    <span>Hardware & Spec Residual</span>
+                    <span className="text-white font-bold">Optimal Tier</span>
                   </div>
                   <div className="w-full bg-slate-700 rounded-full h-1.5">
-                    <div className="bg-emerald-500 h-1.5 rounded-full" style={{ width: '89%' }} />
+                    <div className="bg-emerald-500 h-1.5 rounded-full" style={{ width: '90%' }} />
                   </div>
                 </div>
 
                 <div>
-                  <div className="flex justify-between text-[11px] mb-1 text-slate-400">
-                    <span>Physical Integrity Confidence</span>
-                    <span className="text-white font-bold">94%</span>
+                  <div className="flex justify-between text-[11px] mb-1.5 text-slate-400">
+                    <span>Condition & Component Health</span>
+                    <span className="text-white font-bold">Excellent</span>
                   </div>
                   <div className="w-full bg-slate-700 rounded-full h-1.5">
-                    <div className="bg-teal-400 h-1.5 rounded-full" style={{ width: '94%' }} />
+                    <div className="bg-teal-400 h-1.5 rounded-full" style={{ width: '95%' }} />
                   </div>
                 </div>
               </div>
 
-              <div className="pt-3 border-t border-slate-700 text-[11px] text-slate-400 leading-relaxed">
-                ✓ Mathematical uncertainty bounds generate guaranteed min-max purchase bids.
+              <div className="pt-3 border-t border-slate-700 text-[11px] text-slate-400 leading-relaxed flex items-center gap-2">
+                <CheckCircle2 className="w-4 h-4 text-emerald-400 shrink-0" />
+                <span>Fair market pricing with zero surprise deduction at your doorstep.</span>
               </div>
             </div>
           </div>

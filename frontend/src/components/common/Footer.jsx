@@ -1,6 +1,7 @@
 import React from 'react';
-import { Sparkles, Shield, Cpu, Award, Heart } from 'lucide-react';
+import { Shield, Award, CheckCircle2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { Logo } from './Logo';
 
 export const Footer = () => {
   return (
@@ -9,20 +10,10 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 pb-12 border-b border-slate-800">
           {/* Col 1: Brand */}
           <div className="space-y-4">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-2xl bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-emerald-400">
-                <Sparkles className="w-5 h-5" />
-              </div>
-              <span className="text-xl font-black tracking-tight text-white">
-                RETECH <span className="text-emerald-500">AI</span>
-              </span>
-            </div>
+            <Logo theme="dark" size="md" />
             <p className="text-sm leading-relaxed text-slate-400">
-              Smart Value. Smarter Decisions. India's premier AI-powered platform for used smart device valuation, instant resale, exchanges, and doorstep certified repairs.
+              Smart Value. Smarter Decisions. The premier platform for smart device valuation, instant resale, exchanges, and certified doorstep repairs.
             </p>
-            <div className="flex items-center gap-2 text-xs text-emerald-400 bg-emerald-950/40 border border-emerald-800/40 px-3 py-1.5 rounded-lg w-fit">
-              <Cpu className="w-4 h-4" /> Powered by Scikit-Learn & Computer Vision
-            </div>
           </div>
 
           {/* Col 2: Services */}
@@ -74,7 +65,7 @@ export const Footer = () => {
         </div>
 
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-4">
-          <p>© 2026 RETECH AI. All rights reserved. Original Academic Full-Stack Project.</p>
+          <p>© {new Date().getFullYear()} RETECH. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <span>Privacy Policy</span>
             <span>Terms of Service</span>

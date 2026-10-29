@@ -3,7 +3,8 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { useToast } from '../context/ToastContext';
 import { Button } from '../components/common/Button';
-import { Sparkles, Mail, Lock, ShieldCheck, ArrowRight } from 'lucide-react';
+import { Logo } from '../components/common/Logo';
+import { Mail, Lock, ShieldCheck, ArrowRight } from 'lucide-react';
 
 export const LoginPage = () => {
   const { login } = useAuth();
@@ -52,11 +53,11 @@ export const LoginPage = () => {
       <div className="max-w-md w-full bg-white rounded-3xl border border-slate-200 shadow-xl p-8 sm:p-10 space-y-8">
         {/* Header */}
         <div className="text-center space-y-2">
-          <div className="w-12 h-12 rounded-2xl bg-emerald-600 text-white flex items-center justify-center mx-auto shadow-lg shadow-emerald-600/30">
-            <Sparkles className="w-6 h-6" />
+          <div className="flex justify-center mb-1">
+            <Logo size="lg" to="/" />
           </div>
           <h2 className="text-2xl font-black tracking-tight text-slate-900">
-            Welcome to RETECH AI
+            Welcome to RETECH
           </h2>
           <p className="text-xs text-slate-500">
             Sign in to manage your devices, valuations, and requests

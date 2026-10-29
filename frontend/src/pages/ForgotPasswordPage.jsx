@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Sparkles, Mail, ArrowLeft, CheckCircle2 } from 'lucide-react';
+import { Mail, ArrowLeft, CheckCircle2 } from 'lucide-react';
 import { Button } from '../components/common/Button';
+import { Logo } from '../components/common/Logo';
 
 export const ForgotPasswordPage = () => {
   const [email, setEmail] = useState('');
@@ -17,8 +18,8 @@ export const ForgotPasswordPage = () => {
   return (
     <div className="min-h-[80vh] flex items-center justify-center px-4 py-12">
       <div className="max-w-md w-full bg-white rounded-3xl border border-slate-200 shadow-xl p-8 space-y-6 text-center">
-        <div className="w-12 h-12 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center mx-auto border border-emerald-200">
-          <Sparkles className="w-6 h-6" />
+        <div className="flex justify-center">
+          <Logo size="lg" to="/" />
         </div>
 
         <div>

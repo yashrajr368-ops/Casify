@@ -3,7 +3,8 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { useToast } from '../context/ToastContext';
 import { Button } from '../components/common/Button';
-import { Sparkles, Mail, Lock, User, Phone, MapPin, ArrowRight } from 'lucide-react';
+import { Logo } from '../components/common/Logo';
+import { Mail, Lock, User, Phone, MapPin, ArrowRight } from 'lucide-react';
 
 export const RegisterPage = () => {
   const { register } = useAuth();
@@ -62,11 +63,11 @@ export const RegisterPage = () => {
     <div className="min-h-[90vh] flex items-center justify-center px-4 py-12">
       <div className="max-w-xl w-full bg-white rounded-3xl border border-slate-200 shadow-xl p-8 sm:p-10 space-y-8">
         <div className="text-center space-y-2">
-          <div className="w-12 h-12 rounded-2xl bg-emerald-600 text-white flex items-center justify-center mx-auto shadow-lg shadow-emerald-600/30">
-            <Sparkles className="w-6 h-6" />
+          <div className="flex justify-center mb-1">
+            <Logo size="lg" to="/" />
           </div>
           <h2 className="text-2xl font-black tracking-tight text-slate-900">
-            Create Your RETECH AI Account
+            Create Your RETECH Account
           </h2>
           <p className="text-xs text-slate-500">
             Join thousands evaluating, selling, and repairing smart devices
